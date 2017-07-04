@@ -28,10 +28,24 @@
     <keyboard-shortcut first-keystroke="shift meta 9" />
     <keyboard-shortcut first-keystroke="alt 9" />
   </action>
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+  </action>
   <action id="EditorLookupUp" />
+  <action id="FileStructurePopup" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="meta alt button1" />
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+  </action>
+  <action id="GotoRelated" />
   <action id="MethodUp" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="meta up" />
-    <keyboard-shortcut first-keystroke="ctrl up" />
+    <keyboard-shortcut first-keystroke="ctrl meta up" />
   </action>
 </keymap>

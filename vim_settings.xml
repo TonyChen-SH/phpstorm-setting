@@ -58,6 +58,7 @@
       <file name="D:/Cpp/demo/README.md" timestamp="1498788066951">
         <mark key="[" line="0" column="9" />
       </file>
+      <file name="D:/Cpp/demo/src/Reference.h" timestamp="1499151366680" />
       <file name="/fragment.mm" timestamp="1498727594239">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -69,10 +70,10 @@
         <mark key="[" line="29" column="2" />
         <mark key="]" line="26" column="40" />
       </file>
-      <file name="D:/Cpp/demo/src/Reference.cpp" timestamp="1499150274991">
-        <mark key="[" line="38" column="58" />
-        <mark key="]" line="38" column="58" />
-        <mark key="." line="38" column="58" />
+      <file name="D:/Cpp/demo/src/Reference.cpp" timestamp="1499151114579">
+        <mark key="[" line="22" column="13" />
+        <mark key="]" line="22" column="14" />
+        <mark key="." line="22" column="14" />
         <mark key="^" line="25" column="9" />
       </file>
       <file name="D:/Cpp/demo/CMakeLists.txt" timestamp="1499148099402">
@@ -98,10 +99,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRcPg==</text>
