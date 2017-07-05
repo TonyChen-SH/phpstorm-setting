@@ -11,6 +11,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="/media/psf/Home/Project/cpp-demo/CMakeLists.txt" timestamp="1499213084418">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1499212025431">
         <mark key="[" line="1" column="28" />
         <mark key="]" line="1" column="27" />
@@ -20,28 +25,52 @@
       <file name="/media/psf/Home/Project/cpp-demo/src/Deque.cpp" timestamp="1498963603085">
         <mark key="'" line="18" column="2" />
       </file>
+      <file name="/media/psf/Home/Project/cpp-demo/main.cpp" timestamp="1499213108739">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="46" column="3" />
+        <mark key="." line="46" column="3" />
+        <mark key="^" line="46" column="3" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="18" column="2" filename="/media/psf/Home/Project/cpp-demo/src/Deque.cpp" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiAzYTNkYzUyZDkxYjZhMDRjYTRlYzA4YTRmMzA3Njk0MDAxNGNjMGQ0Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiAzYTNkYzUyZDkxYjZhMDRjYTRlYzA4YTRmMzA3Njk0MDAxNGNjMGQ0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Pj4+Pj4+PiAzYTNkYzUyZDkxYjZhMDRjYTRlYzA4YTRmMzA3Njk0MDAxNGNjMGQ0Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzcmMvTWFwLmNwcCBzcmMvTWFwLmggc3JjL1RlYWNoZXIuY3BwIHNyYy9UZWFjaGVyLmgK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y291dCA8PCAiRW50ZXIgbnVtOiIgPDwgZW5kbDs=</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
@@ -51,8 +80,8 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
