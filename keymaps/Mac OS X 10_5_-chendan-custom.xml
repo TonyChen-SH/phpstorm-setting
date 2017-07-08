@@ -1,6 +1,7 @@
 <keymap version="1" name="Mac OS X 10.5+-chendan-custom" parent="Mac OS X 10.5+">
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="meta c" />
+    <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
   <action id="$Cut">
     <keyboard-shortcut first-keystroke="meta x" />
@@ -11,6 +12,7 @@
   </action>
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="meta v" />
+    <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift meta z" />
@@ -31,10 +33,6 @@
     <keyboard-shortcut first-keystroke="meta 4" />
     <keyboard-shortcut first-keystroke="alt 4" />
   </action>
-  <action id="ActivateStructureToolWindow">
-    <keyboard-shortcut first-keystroke="meta 7" />
-    <keyboard-shortcut first-keystroke="alt 7" />
-  </action>
   <action id="ActivateTODOToolWindow">
     <keyboard-shortcut first-keystroke="meta 6" />
     <keyboard-shortcut first-keystroke="alt 6" />
@@ -48,11 +46,19 @@
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
   </action>
   <action id="EditorLookupUp" />
-  <action id="FileStructurePopup" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="alt 7" />
+  </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
@@ -71,6 +77,7 @@
     <keyboard-shortcut first-keystroke="meta up" />
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="Vcs.QuickListPopupAction" />
   <action id="XDebugger.AttachToLocalProcess">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
