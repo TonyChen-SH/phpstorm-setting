@@ -1,1 +1,57 @@
-<keymap version="1" name="chendan-3in1" parent="$default" />
+<keymap version="1" name="chendan-3in1" parent="$default">
+  <action id="Build">
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
+  <action id="ChooseDebugConfiguration" />
+  <action id="ChooseRunConfiguration" />
+  <action id="Clean">
+    <keyboard-shortcut first-keystroke="shift f7" />
+  </action>
+  <action id="CopyElement" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
+  <action id="ForceRunToCursor">
+    <keyboard-shortcut first-keystroke="alt f9" />
+  </action>
+  <action id="ForceStepInto">
+    <keyboard-shortcut first-keystroke="alt f11" />
+  </action>
+  <action id="ForceStepOver">
+    <keyboard-shortcut first-keystroke="alt f10" />
+  </action>
+  <action id="NextDiff" />
+  <action id="PreviousDiff" />
+  <action id="Resume" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="alt f5" />
+  </action>
+  <action id="RunJsbtTask" />
+  <action id="RunToCursor">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="ShowBookmarks" />
+  <action id="ShowExecutionPoint" />
+  <action id="SmartStepInto">
+    <keyboard-shortcut first-keystroke="shift alt f11" />
+  </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="shift f11" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="shift f5" />
+  </action>
+  <action id="ToggleBookmark" />
+  <action id="XDebugger.AttachToLocalProcess">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+</keymap>

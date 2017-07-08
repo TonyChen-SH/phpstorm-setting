@@ -24,16 +24,13 @@
       <file name="$USER_HOME$/.CLion2017.1/idea.properties" timestamp="1499150527952">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Cpp/demo/CMakeLists.txt" timestamp="1499148099402">
+      <file name="D:/Cpp/demo/CMakeLists.txt" timestamp="1499491421861">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="1" column="12" />
         <mark key="]" line="6" column="50" />
         <mark key="." line="6" column="50" />
       </file>
       <file name="$USER_HOME$/Downloads/Documents/C++Primer第五版课本源代码/15/Quote.cpp" timestamp="1499482463104" />
-      <file name="/media/psf/Home/Project/cpp-demo/src/Deque.cpp" timestamp="1498963603085">
-        <mark key="'" line="18" column="2" />
-      </file>
       <file name="D:/Cpp/demo/Base.h" timestamp="1497930460356">
         <mark key="[" line="7" column="11" />
       </file>
@@ -52,7 +49,7 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
-      <file name="/GDB" timestamp="1498963338098">
+      <file name="/GDB" timestamp="1499494348688">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1499417041104">
@@ -99,8 +96,8 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="D:/Cpp/demo/README.md" timestamp="1498788066951">
-        <mark key="[" line="0" column="9" />
+      <file name="D:/Cpp/demo/README.md" timestamp="1499494052202">
+        <mark key="[" line="2" column="0" />
       </file>
       <file name="D:/Cpp/demo/src/Reference.h" timestamp="1499326477771">
         <mark key="[" line="7" column="1" />
@@ -108,22 +105,35 @@
         <mark key="^" line="7" column="15" />
         <mark key="." line="7" column="15" />
       </file>
-      <file name="D:/Cpp/demo/src/Reference.cpp" timestamp="1499152056408">
+      <file name="D:/Cpp/demo/src/Class/Base.h" timestamp="1499493996464">
+        <mark key="[" line="7" column="12" />
+      </file>
+      <file name="/fragment.mm" timestamp="1499494351986">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Cpp/demo/src/Reference.cpp" timestamp="1499494360315">
         <mark key="[" line="22" column="13" />
         <mark key="]" line="22" column="14" />
         <mark key="." line="22" column="14" />
         <mark key="^" line="25" column="9" />
       </file>
+      <file name="D:/Cpp/demo/src/Class/SubClass.h" timestamp="1499492376411">
+        <mark key="[" line="22" column="2" />
+        <mark key="]" line="22" column="2" />
+        <mark key="." line="22" column="2" />
+      </file>
+      <file name="D:/Cpp/demo/src/Class/SubClass.cpp" timestamp="1499493975009" />
     </filemarks>
     <jumps>
       <jump line="18" column="2" filename="/media/psf/Home/Project/cpp-demo/src/Deque.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAzYTNkYzUyZDkxYjZhMDRjYTRlYzA4YTRmMzA3Njk0MDAxNGNjMGQ0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>virtual void write() final;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>virtual void write() final;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRcPg==</text>
@@ -173,6 +183,7 @@
       </history-search>
       <history-cmd>
         <entry>w</entry>
+        <entry>set vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
