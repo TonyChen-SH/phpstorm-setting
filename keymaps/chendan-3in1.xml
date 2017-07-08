@@ -92,6 +92,9 @@
   </action>
   <action id="ToggleBookmark" />
   <action id="Vcs.UpdateProject" />
+  <action id="VimWindowClose">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
   <action id="VimWindowDown">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
