@@ -49,7 +49,7 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
-      <file name="/GDB" timestamp="1499494348688">
+      <file name="/GDB" timestamp="1499495092883">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1499417041104">
@@ -61,21 +61,11 @@
       <file name="D:/Cpp/demo/.gitignore" timestamp="1497935568139">
         <mark key="[" line="6" column="4" />
       </file>
-      <file name="D:/Cpp/demo/main.cpp" timestamp="1499074493189">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="D:/Cpp/demo/src/Vector.cpp" timestamp="1498721795346">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="13" column="0" />
         <mark key="^" line="31" column="3" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="/media/psf/Home/Project/cpp-demo/CMakeLists.txt" timestamp="1499213084418">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="D:/Cpp/CmakeDemo/CMakeLists.txt" timestamp="1498620489241">
         <mark key="[" line="12" column="17" />
@@ -86,17 +76,7 @@
       <file name="$USER_HOME$/Downloads/Documents/C++Primer第五版课本源代码/15/Quote.h" timestamp="1499482833849">
         <mark key="[" line="78" column="4" />
       </file>
-      <file name="D:/Cpp/CmakeDemo/.gitignore" timestamp="1498617893493">
-        <mark key="[" line="2" column="6" />
-        <mark key="]" line="2" column="6" />
-        <mark key="." line="2" column="6" />
-      </file>
-      <file name="/media/psf/Home/Project/cpp-demo/src/IO.cpp" timestamp="1498996736883">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="D:/Cpp/demo/README.md" timestamp="1499494052202">
+      <file name="D:/Cpp/demo/README.md" timestamp="1499494629187">
         <mark key="[" line="2" column="0" />
       </file>
       <file name="D:/Cpp/demo/src/Reference.h" timestamp="1499326477771">
@@ -112,8 +92,8 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Cpp/demo/src/Reference.cpp" timestamp="1499494360315">
-        <mark key="[" line="22" column="13" />
+      <file name="D:/Cpp/demo/src/Reference.cpp" timestamp="1499495000844">
+        <mark key="[" line="14" column="36" />
         <mark key="]" line="22" column="14" />
         <mark key="." line="22" column="14" />
         <mark key="^" line="25" column="9" />
