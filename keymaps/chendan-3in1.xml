@@ -11,8 +11,14 @@
   <action id="Debug">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="f8" />
+  </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="alt m" />
   </action>
   <action id="ForceRunToCursor">
     <keyboard-shortcut first-keystroke="alt f9" />
@@ -23,8 +29,17 @@
   <action id="ForceStepOver">
     <keyboard-shortcut first-keystroke="alt f10" />
   </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="NextDiff" />
   <action id="PreviousDiff" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="Resume" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="alt f5" />
@@ -51,6 +66,7 @@
     <keyboard-shortcut first-keystroke="shift f5" />
   </action>
   <action id="ToggleBookmark" />
+  <action id="Vcs.UpdateProject" />
   <action id="XDebugger.AttachToLocalProcess">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
