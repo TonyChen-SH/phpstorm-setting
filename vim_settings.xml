@@ -36,7 +36,7 @@
       <file name="D:/Cpp/demo/List.cpp" timestamp="1497935053505">
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="/GDB" timestamp="1499498096199">
+      <file name="/GDB" timestamp="1499506587981">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1499498754209">
@@ -53,6 +53,13 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="D:/Cpp/demo/src/Vector.cpp" timestamp="1499506600106">
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="14" column="20" />
+        <mark key="^" line="31" column="3" />
+        <mark key="." line="14" column="20" />
+      </file>
+      <file name="D:/Cpp/demo/src/NameSpace.cpp" timestamp="1499506237227" />
       <file name="/media/psf/Home/Project/cpp-demo/CMakeLists.txt" timestamp="1499213084418">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -60,6 +67,12 @@
       </file>
       <file name="$USER_HOME$/Downloads/Documents/C++Primer第五版课本源代码/15/Quote.h" timestamp="1499482833849">
         <mark key="[" line="78" column="4" />
+      </file>
+      <file name="D:/Cpp/demo/src/Vector.h" timestamp="1499506524826">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="22" />
+        <mark key="^" line="5" column="11" />
+        <mark key="." line="10" column="22" />
       </file>
       <file name="D:/Cpp/CmakeDemo/.gitignore" timestamp="1498617893493">
         <mark key="[" line="2" column="6" />
@@ -81,11 +94,11 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Cpp/demo/src/Reference.cpp" timestamp="1499497994460">
-        <mark key="[" line="14" column="36" />
-        <mark key="]" line="11" column="10" />
-        <mark key="." line="11" column="10" />
-        <mark key="^" line="11" column="10" />
+      <file name="D:/Cpp/demo/src/Reference.cpp" timestamp="1499506186305">
+        <mark key="[" line="20" column="26" />
+        <mark key="]" line="20" column="26" />
+        <mark key="." line="20" column="26" />
+        <mark key="^" line="20" column="26" />
       </file>
       <file name="D:/Cpp/demo/src/Class/SubClass.h" timestamp="1499492376411">
         <mark key="[" line="22" column="2" />
@@ -99,10 +112,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Cng=</text>
+        <text>override</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>override</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRcPg==</text>
@@ -156,6 +169,7 @@
         <entry>set h</entry>
         <entry>hspit</entry>
         <entry>vsplit</entry>
+        <entry>splist Map</entry>
         <entry>split</entry>
       </history-cmd>
       <history-expr />
