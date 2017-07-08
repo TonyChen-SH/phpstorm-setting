@@ -1,7 +1,17 @@
 <keymap version="1" name="chendan-3in1" parent="$default">
+  <action id="ActivateCMakeToolWindow">
+    <keyboard-shortcut first-keystroke="alt 9" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="shift alt 9" />
+  </action>
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+  </action>
   <action id="Build">
     <keyboard-shortcut first-keystroke="f7" />
   </action>
+  <action id="ChangesView.UnshelveSilently" />
   <action id="ChooseDebugConfiguration" />
   <action id="ChooseRunConfiguration" />
   <action id="Clean">
@@ -29,6 +39,9 @@
   <action id="ForceStepOver">
     <keyboard-shortcut first-keystroke="alt f10" />
   </action>
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+  </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="control button1" />
@@ -36,9 +49,15 @@
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
   <action id="NextDiff" />
+  <action id="NextOccurence" />
   <action id="PreviousDiff" />
+  <action id="PreviousOccurence" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="ResizeToolWindowLeft">
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt left" />
   </action>
   <action id="Resume" />
   <action id="Run">
@@ -52,6 +71,9 @@
   <action id="ShowExecutionPoint" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
+  </action>
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
   </action>
   <action id="SmartStepInto">
     <keyboard-shortcut first-keystroke="shift alt f11" />
@@ -70,6 +92,18 @@
   </action>
   <action id="ToggleBookmark" />
   <action id="Vcs.UpdateProject" />
+  <action id="VimWindowDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="VimWindowLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="VimWindowRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="VimWindowUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
   <action id="XDebugger.AttachToLocalProcess">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>

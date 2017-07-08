@@ -22,11 +22,12 @@
       <file name="$USER_HOME$/.CLion2017.1/idea.properties" timestamp="1499150527952">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Cpp/demo/CMakeLists.txt" timestamp="1499491421861">
+      <file name="D:/Cpp/demo/CMakeLists.txt" timestamp="1499503460121">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="1" column="12" />
-        <mark key="]" line="6" column="50" />
-        <mark key="." line="6" column="50" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="24" column="122" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/Documents/C++Primer第五版课本源代码/15/Quote.cpp" timestamp="1499482463104" />
       <file name="D:/Cpp/demo/Base.h" timestamp="1497930460356">
@@ -47,10 +48,30 @@
       <file name="D:/Cpp/demo/.gitignore" timestamp="1497935568139">
         <mark key="[" line="6" column="4" />
       </file>
+      <file name="D:/Cpp/demo/main.cpp" timestamp="1499503223410">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="/media/psf/Home/Project/cpp-demo/CMakeLists.txt" timestamp="1499213084418">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/Documents/C++Primer第五版课本源代码/15/Quote.h" timestamp="1499482833849">
         <mark key="[" line="78" column="4" />
       </file>
-      <file name="D:/Cpp/demo/README.md" timestamp="1499494629187">
+      <file name="D:/Cpp/CmakeDemo/.gitignore" timestamp="1498617893493">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+      </file>
+      <file name="/media/psf/Home/Project/cpp-demo/src/IO.cpp" timestamp="1498996736883">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="D:/Cpp/demo/README.md" timestamp="1499503563954">
         <mark key="[" line="2" column="0" />
       </file>
       <file name="D:/Cpp/demo/src/Class/Base.h" timestamp="1499493996464">
@@ -78,10 +99,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>virtual void write() final;</text>
+        <text encoding="base64">Cng=</text>
       </register>
       <register name="-" type="4">
-        <text>virtual void write() final;</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRcPg==</text>
@@ -89,35 +110,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCB2ZWNbal0gPDwgIiAiOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAzYTNkYzUyZDkxYjZhMDRjYTRlYzA4YTRmMzA3Njk0MDAxNGNjMGQ0Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Cng=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">PT09PT09PQogICAgICAgIHNyYy9NYXAuY3BwIHNyYy9NYXAuaCBzcmMvVGVhY2hlci5jcHAgc3JjL1RlYWNoZXIuaCA=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiAzNTg5NTljNTExMjdjZDUzNDBhZjE2ODI4NGRlZTZmYjYzY2Y4ZWFmCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5ldyBSZWZlcmVuY2UoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIC8vSU8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAzYTNkYzUyZDkxYjZhMDRjYTRlYzA4YTRmMzA3Njk0MDAxNGNjMGQ0Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzcmMvTWFwLmNwcCBzcmMvTWFwLmggc3JjL1RlYWNoZXIuY3BwIHNyYy9UZWFjaGVyLmgK</text>
+        <text encoding="base64">Pj4+Pj4+PiAzYTNkYzUyZDkxYjZhMDRjYTRlYzA4YTRmMzA3Njk0MDAxNGNjMGQ0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>split</text>
       </register>
     </registers>
     <search>
@@ -130,8 +151,12 @@
         <entry encoding="base64">XDxzZXRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>set vs</entry>
+        <entry>w</entry>
+        <entry>set h</entry>
+        <entry>hspit</entry>
+        <entry>vsplit</entry>
+        <entry>split</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -199,6 +224,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed OPEN_BRACKET</text>
