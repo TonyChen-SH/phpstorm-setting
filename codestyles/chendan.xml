@@ -14,7 +14,6 @@
     <option name="TEMPLATE_CALL_ARGUMENTS_WRAP" value="5" />
     <option name="TEMPLATE_CALL_ARGUMENTS_ALIGN_MULTILINE" value="true" />
     <option name="CLASS_CONSTRUCTOR_INIT_LIST_WRAP" value="5" />
-    <option name="ALIGN_INIT_LIST_IN_COLUMNS" value="false" />
     <option name="SPACE_BEFORE_POINTER_IN_DECLARATION" value="false" />
     <option name="SPACE_AFTER_POINTER_IN_DECLARATION" value="true" />
     <option name="SPACE_BEFORE_REFERENCE_IN_DECLARATION" value="false" />
@@ -47,13 +46,17 @@
     <option name="BLANK_LINES_AROUND_METHOD" value="0" />
     <option name="BLANK_LINES_AROUND_METHOD_IN_INTERFACE" value="0" />
     <option name="BRACE_STYLE" value="2" />
-    <option name="CLASS_BRACE_STYLE" value="2" />
+    <option name="CLASS_BRACE_STYLE" value="5" />
     <option name="ELSE_ON_NEW_LINE" value="true" />
     <option name="CATCH_ON_NEW_LINE" value="true" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="false" />
     <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
+    <option name="TERNARY_OPERATION_WRAP" value="0" />
+    <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="false" />
+    <option name="ARRAY_INITIALIZER_WRAP" value="0" />
     <option name="ASSIGNMENT_WRAP" value="1" />
     <option name="FOR_BRACE_FORCE" value="3" />
+    <option name="ENUM_CONSTANTS_WRAP" value="2" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
