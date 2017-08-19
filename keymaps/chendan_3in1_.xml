@@ -1,1 +1,98 @@
-<keymap version="1" name="chendan(3in1)" parent="$default" />
+<keymap version="1" name="chendan(3in1)" parent="$default">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="ChangesView.UnshelveSilently" />
+  <action id="CopyElement" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="ForceRunToCursor" />
+  <action id="ForceStepInto">
+    <keyboard-shortcut first-keystroke="alt f11" />
+  </action>
+  <action id="ForceStepOver">
+    <keyboard-shortcut first-keystroke="alt f10" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <mouse-shortcut keystroke="control alt button1" />
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="GotoTypeDeclaration">
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+    <mouse-shortcut keystroke="shift control button1" />
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="MoveElementLeft" />
+  <action id="MoveElementRight" />
+  <action id="NextOccurence" />
+  <action id="PreviousOccurence" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="ResizeToolWindowLeft">
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt left" />
+  </action>
+  <action id="ResizeToolWindowRight">
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt right" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="alt f5" />
+  </action>
+  <action id="RunJsbtTask" />
+  <action id="RunToCursor">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="shift alt o" />
+  </action>
+  <action id="ShowBookmarks" />
+  <action id="ShowExecutionPoint" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
+  </action>
+  <action id="ShowUmlDiagramPopup" />
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
+  </action>
+  <action id="SmartStepInto">
+    <keyboard-shortcut first-keystroke="shift alt f11" />
+  </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="shift f11" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="shift f5" />
+  </action>
+  <action id="ToggleBookmark" />
+  <action id="UML.ApplyCurrentLayout" />
+  <action id="Vcs.UpdateProject" />
+</keymap>
