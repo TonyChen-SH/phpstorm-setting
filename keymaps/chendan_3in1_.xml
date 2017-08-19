@@ -5,12 +5,19 @@
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
   <action id="ChangesView.UnshelveSilently" />
+  <action id="Console.TableResult.PreviousPage" />
   <action id="CopyElement" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
+  <action id="Diff.SelectedChange" />
+  <action id="EditorLookupUp" />
+  <action id="EditorScrollUp" />
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="f8" />
+  </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
   </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="alt m" />
@@ -27,6 +34,8 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="control button1" />
@@ -45,6 +54,10 @@
   </action>
   <action id="MoveElementLeft" />
   <action id="MoveElementRight" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="NextOccurence" />
   <action id="PreviousOccurence" />
   <action id="Refactorings.QuickListPopupAction">
@@ -70,6 +83,9 @@
   </action>
   <action id="ShowBookmarks" />
   <action id="ShowExecutionPoint" />
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
