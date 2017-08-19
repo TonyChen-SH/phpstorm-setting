@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/work-rog/rog-operation/platform_api/rogapi/application/index/controller/recharge/Test.php" timestamp="1503113435886" />
       <file name="D:/work-rog/rog-operation/platform_api/rogapi/demo.php" timestamp="1503113241193">
         <mark key="[" line="14" column="0" />
       </file>
@@ -13,10 +14,18 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
