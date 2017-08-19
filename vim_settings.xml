@@ -9,15 +9,25 @@
       <file name="D:/work-rog/rog-operation/platform_api/rogapi/application/index/controller/recharge/Test.php" timestamp="1503114101078">
         <mark key="[" line="123" column="8" />
       </file>
-      <file name="D:/work-rog/rog-operation/platform_api/rogapi/application/model/Player/PlayerInfo.php" timestamp="1503114046964">
-        <mark key="[" line="14" column="8" />
+      <file name="D:/work-rog/rog-operation/platform_api/rogapi/application/model/Player/PlayerInfo.php" timestamp="1503114394623">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="37" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="D:/work-rog/rog-operation/platform_api/rogapi/demo.php" timestamp="1503113241193">
         <mark key="[" line="14" column="0" />
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
