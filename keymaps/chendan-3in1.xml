@@ -22,9 +22,16 @@
   <action id="Debug">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
+  <action id="Diff.SelectedChange" />
   <action id="EditSource" />
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="f8" />
+  </action>
+  <action id="FileChooser.NewFile">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
   </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="alt m" />
@@ -42,6 +49,8 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
