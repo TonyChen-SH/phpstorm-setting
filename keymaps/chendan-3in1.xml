@@ -27,9 +27,6 @@
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="f8" />
   </action>
-  <action id="FileChooser.NewFile">
-    <keyboard-shortcut first-keystroke="ctrl n" />
-  </action>
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
@@ -49,6 +46,10 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoDeclaration">
@@ -66,6 +67,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl b" />
     <mouse-shortcut keystroke="shift control button1" />
     <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="NextDiff" />
   <action id="NextOccurence" />
