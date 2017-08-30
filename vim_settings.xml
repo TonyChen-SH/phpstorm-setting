@@ -8,6 +8,34 @@
         <mark key="]" line="11" column="11" />
         <mark key="." line="11" column="9" />
       </file>
+      <file name="D:/Cpp/demo/src/Dynamic/Company.cpp" timestamp="1504073538159">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="D:/Cpp/demo/src/Dynamic/Company.h" timestamp="1504072604608">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="D:/Cpp/demo/src/Dynamic/Programmer.h" timestamp="1504073428560">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+      </file>
+      <file name="D:/Cpp/demo/CMakeLists.txt" timestamp="1504071802748">
+        <mark key="a" line="35" column="65" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="D:/Cpp/demo/src/Dynamic/Programmer.cpp" timestamp="1504073046107">
+        <mark key="[" line="12" column="0" />
+      </file>
+      <file name="D:/Cpp/demo/src/Dynamic/Employee.h" timestamp="1504071606156">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="/GDB" timestamp="1504073240779">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1499678279511">
         <mark key="[" line="0" column="0" />
       </file>
@@ -16,9 +44,6 @@
         <mark key="]" line="18" column="20" />
         <mark key="." line="18" column="20" />
       </file>
-      <file name="D:/Cpp/PHP-CPP/Examples/CppClassesInPhp/cppclassinphp.cpp" timestamp="1503992930589" />
-      <file name="D:/Cpp/PHP-CPP/zend/includes.h" timestamp="1503990655812" />
-      <file name="D:/Cpp/PHP-CPP/Examples/ReturnObject/master.h" timestamp="1503992850908" />
       <file name="D:/Cpp/PHP-CPP/CMakeLists.txt" timestamp="1503991174195">
         <mark key="[" line="0" column="0" />
       </file>
@@ -27,19 +52,23 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="D:/Cpp/PHP-CPP/zend/fatalerror.cpp" timestamp="1503990642125" />
-      <file name="D:/Cpp/PHP-CPP/Makefile" timestamp="1503993505877" />
-      <file name="D:/Cpp/PHP-CPP/include/extension.h" timestamp="1503991463180" />
-      <file name="D:/Cpp/PHP-CPP/phpcpp_debug.h" timestamp="1503991406198">
-        <mark key="]" line="26" column="2" />
-        <mark key="^" line="26" column="2" />
-        <mark key="." line="26" column="2" />
+      <file name="/fragment.mm" timestamp="1504071121814">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Cpp/PHP-CPP/include/ini.h" timestamp="1503991491026" />
-      <file name="D:/Cpp/PHP-CPP/Examples/ReturnObject/main.cpp" timestamp="1503992818884" />
-      <file name="D:/Cpp/PHP-CPP/Examples/EmptyExtension/main.cpp" timestamp="1503993220533" />
-      <file name="D:/Cpp/PHP-CPP/include/visibility.h" timestamp="1503990478500" />
-      <file name="D:/Cpp/PHP-CPP/Examples/DlUnrestricted/dlunrestricted.cpp" timestamp="1503992897279" />
+      <file name="D:/Cpp/demo/src/Dynamic/Manager.h" timestamp="1504073424797">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="D:/Cpp/demo/src/Dynamic/Manager.cpp" timestamp="1504073422405">
+        <mark key="[" line="13" column="0" />
+      </file>
+      <file name="D:/Cpp/demo/src/Dynamic/main.cpp" timestamp="1504073472678">
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="15" column="13" />
+        <mark key="." line="15" column="13" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="18" column="2" filename="/media/psf/Home/Project/cpp-demo/src/Deque.cpp" />
@@ -47,13 +76,15 @@
       <jump line="0" column="0" filename="D:/Cpp/demo/src/Deque.cpp" />
       <jump line="15" column="24" filename="D:/Cpp/demo/src/Vector.cpp" />
       <jump line="38" column="43" filename="/media/psf/Home/Project/leveldb/include/leveldb/status.h" />
+      <jump line="12" column="10" filename="D:/Cpp/demo/src/Dynamic/Manager.h" />
+      <jump line="9" column="0" filename="D:/Cpp/demo/src/Dynamic/Manager.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>override</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>override</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRcPg==</text>
@@ -61,32 +92,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCB2ZWNbal0gPDwgIiAiOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiNpbmNsdWRlICJwaHBjcHAvenYi</text>
+      <register name="1" type="2">
+        <text encoding="base64">I2luY2x1ZGUgIk1hbmFnZXIuaCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgIk1hbmFnZXIuaCIKI2luY2x1ZGUgIkVtcGxveWVlLmgiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2RlZmluZSBfTElCQ1BQX0RFQlVHIDEK</text>
+        <text encoding="base64">YWRkX2V4ZWN1dGFibGUodGVtcGxhdGUgc3JjL1RlbXBsYXRlL3RwbC5jcHAgc3JjL1RlbXBsYXRlL0Jsb2IuaCBzcmMvVGVtcGxhdGUvQmxvYi5jcHAgc3JjL1RlbXBsYXRlL01heC5jcHAgc3JjL1RlbXBsYXRlL01heC5oKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvL3N0ZDo6CV9fZ251X2RlYnVnOjp2ZWN0b3I8aW50PiBwaWNrX3ZlYzsK</text>
+        <text encoding="base64">Y2xhc3MgTWFuYWdlcjogcHVibGljIEVtcGxveWVlCg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">Cng=</text>
+        <text encoding="base64">CiNpbmNsdWRlICJwaHBjcHAvenYi</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PT09PT09PQogICAgICAgIHNyYy9NYXAuY3BwIHNyYy9NYXAuaCBzcmMvVGVhY2hlci5jcHAgc3JjL1RlYWNoZXIuaCA=</text>
-      </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAzNTg5NTljNTExMjdjZDUzNDBhZjE2ODI4NGRlZTZmYjYzY2Y4ZWFmCg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">I2RlZmluZSBfTElCQ1BQX0RFQlVHIDEK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIG5ldyBSZWZlcmVuY2UoKTsK</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAvL3N0ZDo6CV9fZ251X2RlYnVnOjp2ZWN0b3I8aW50PiBwaWNrX3ZlYzsK</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">Cng=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
