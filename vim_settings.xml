@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1504581334113">
+      <file name="/Dummy.txt" timestamp="1504582247575">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/php/demo/src/DesignPattern/Bridge/GraghAbstract.php" timestamp="1504580532180">
@@ -25,21 +25,22 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="D:/php/demo/AutoLoad.php" timestamp="1504581673326">
-        <mark key="[" line="8" column="19" />
-        <mark key="]" line="8" column="19" />
-        <mark key="." line="8" column="19" />
+      <file name="D:/php/demo/AutoLoad.php" timestamp="1504582941261">
+        <mark key="[" line="17" column="25" />
       </file>
       <file name="D:/php/demo/IteratorDemo.php" timestamp="1503129454288">
         <mark key="[" line="8" column="6" />
         <mark key="]" line="8" column="6" />
         <mark key="." line="8" column="6" />
       </file>
-      <file name="D:/php/demo/src/DesignPattern/Bridge/client.php" timestamp="1504581254827">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="D:/php/demo/index.php" timestamp="1504582904815">
+        <mark key="[" line="8" column="11" />
+      </file>
+      <file name="D:/php/demo/src/DesignPattern/Bridge/client.php" timestamp="1504583310270">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="D:/php/demo/src/DesignPattern/Bridge/README.md" timestamp="1504581382621">
         <mark key="[" line="0" column="0" />
@@ -55,12 +56,14 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="D:/php/demo/src/DesignPattern/Bridge/GraphAbstract.php" timestamp="1504580567732" />
       <file name="D:/php/demo/src/DesignPattern/Bridge/Color.php" timestamp="1504580592444">
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="D:/work-php/mobile-sdk/index.php" timestamp="1504581539348" />
-      <file name="D:/work-php/mobile-sdk/Core/AutoLoader.php" timestamp="1504581511662" />
+      <file name="/PHP Console" timestamp="1504582732526">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/work-php/mobile-sdk/index.php" timestamp="1504582396478" />
+      <file name="D:/work-php/mobile-sdk/Core/AutoLoader.php" timestamp="1504582245820" />
       <file name="D:/php/demo/Meassage.php" timestamp="1503129473767">
         <mark key="[" line="8" column="6" />
         <mark key="]" line="8" column="6" />
@@ -78,20 +81,28 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgc2V0Q29sb3IoKSBtZXRob2QuCg==</text>
+      <register name="1" type="4">
+        <text>ar_dump(APP_PATH);
+var_dump($_SERVER);</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>$colorRed = ;</text>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>var_dump(APP_PATH);
+var_dump($_SERVER);</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgc2V0Q29sb3IoKSBtZXRob2QuCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZHJhdygpIG1ldGhvZC4K</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>echo 10 % 5;
 echo &quot;\n&quot;;</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>echo 1%5;
 echo 1%5;
 echo 1%5;
@@ -99,14 +110,14 @@ echo 1%5;
 echo 1%5;
 echo 1%5;</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICoKICo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>$colorRed = ;</text>
       </register>
     </registers>
     <search>
