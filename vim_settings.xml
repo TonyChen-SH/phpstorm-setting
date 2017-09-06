@@ -26,7 +26,10 @@
       <file name="D:/php/demo/index.php" timestamp="1504582904815">
         <mark key="[" line="8" column="11" />
       </file>
-      <file name="D:/php/demo/src/DesignPattern/Bridge/Black.php" timestamp="1504587424680">
+      <file name="D:/php/demo/src/DesignPattern/Decorator/Component.php" timestamp="1504663255037">
+        <mark key="[" line="15" column="0" />
+      </file>
+      <file name="D:/php/demo/src/DesignPattern/Bridge/Black.php" timestamp="1504663266254">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
@@ -45,13 +48,22 @@
         <mark key="]" line="8" column="6" />
         <mark key="." line="8" column="6" />
       </file>
+      <file name="D:/php/demo/src/DesignPattern/Decorator/ScrollBarDecorator.php" timestamp="1504663956766">
+        <mark key="[" line="11" column="23" />
+      </file>
       <file name="D:/php/demo/src/DesignPattern/Bridge/Blue.php" timestamp="1504587376090">
         <mark key="[" line="11" column="23" />
         <mark key="]" line="11" column="9" />
         <mark key="." line="11" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504587327916">
+      <file name="/Dummy.txt" timestamp="1504663921629">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/php/demo/src/DesignPattern/Decorator/Window.php" timestamp="1504663476337">
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="14" column="14" />
+        <mark key="." line="14" column="14" />
+        <mark key="^" line="10" column="13" />
       </file>
       <file name="D:/php/demo/src/DesignPattern/Bridge/Red.php" timestamp="1504587458474">
         <mark key="[" line="11" column="22" />
@@ -62,10 +74,6 @@
         <mark key="[" line="14" column="4" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
-      </file>
-      <file name="D:/php/demo/src/DesignPattern/Bridge/Square.php" timestamp="1504583484925">
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="D:/php/demo/src/DesignPattern/Bridge/client.php" timestamp="1504585023752">
         <mark key="[" line="11" column="0" />
@@ -86,6 +94,9 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="D:/php/demo/src/DesignPattern/Decorator/TextBox.php" timestamp="1504663458522">
+        <mark key="[" line="11" column="12" />
+      </file>
       <file name="D:/work-rog/rog-operation/platform_api/rogapi/application/index/controller/recharge/Test.php" timestamp="1503114101078">
         <mark key="[" line="123" column="8" />
       </file>
@@ -94,10 +105,16 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="D:/php/demo/src/DesignPattern/Decorator/ListBox.php" timestamp="1504663538094">
+        <mark key="[" line="11" column="12" />
+      </file>
       <file name="D:/php/demo/src/DesignPattern/Bridge/Color2.php" timestamp="1504587357904">
         <mark key="[" line="11" column="15" />
         <mark key="]" line="11" column="15" />
         <mark key="." line="11" column="15" />
+      </file>
+      <file name="D:/php/demo/src/DesignPattern/Decorator/ComponentDecorator.php" timestamp="1504663749758">
+        <mark key="[" line="11" column="0" />
       </file>
       <file name="D:/work-rog/rog-operation/platform_api/rogapi/demo.php" timestamp="1503113241193">
         <mark key="[" line="14" column="0" />
@@ -105,41 +122,43 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">IyMjIM/W1NrV4sDvysfTw7Ppz/PA4Mq1z9a1xENvbG9yvdO/2rPpz/OjrLu5v8nS1NPDSW50ZXJmYWNlvfjQ0LPpz/MK</text>
+      <register name="1" type="4">
+        <text>public function display()
+    {
+
+    }</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyMjIM/W1NrV4sDvysfTw7Ppz/PA4Mq1z9a1xENvbG9yvdO/2rPpz/OjrLu5v8nS1NPDSW50ZXJmYWNlvfjQ0LPpz/MK</text>
+      <register name="&quot;" type="4">
+        <text>我是一个窗口</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHsKICAgIH0K</text>
+        <text encoding="base64">IyMjIM/W1NrV4sDvysfTw7Ppz/PA4Mq1z9a1xENvbG9yvdO/2rPpz/OjrLu5v8nS1NPDSW50ZXJmYWNlvfjQ0LPpz/MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgc2V0Q29sb3IoKSBtZXRob2QuCg==</text>
+        <text encoding="base64">ICAgIHsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgc2V0Q29sb3IoKSBtZXRob2QuCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZHJhdygpIG1ldGhvCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>ar_dump(APP_PATH);
 var_dump($_SERVER);</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>var_dump(APP_PATH);
 var_dump($_SERVER);</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgc2V0Q29sb3IoKSBtZXRob2QuCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZHJhdygpIG1ldGhvZC4K</text>
       </register>
-      <register name="9" type="4">
-        <text>echo 10 % 5;
-echo &quot;\n&quot;;</text>
-      </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>我是一个窗口</text>
       </register>
     </registers>
     <search>
