@@ -9,6 +9,9 @@
       <file name="D:/php/demo/src/DesignPattern/README.md" timestamp="1504587548346">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/php/easyShare/index.php" timestamp="1504769165737">
+        <mark key="[" line="6" column="2" />
+      </file>
       <file name="/a.dummy" timestamp="1504587362514">
         <mark key="[" line="0" column="0" />
       </file>
@@ -59,7 +62,7 @@
         <mark key="]" line="11" column="9" />
         <mark key="." line="11" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504663921629">
+      <file name="/Dummy.txt" timestamp="1504768571393">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/php/demo/src/DesignPattern/Decorator/Window.php" timestamp="1504663476337">
@@ -84,6 +87,7 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="D:/php/easyShare/src/Admin/Controller/Index.php" timestamp="1504769054089" />
       <file name="D:/php/demo/src/DesignPattern/Bridge/Graph.php" timestamp="1504583840286">
         <mark key="[" line="25" column="15" />
         <mark key="]" line="25" column="15" />
@@ -132,7 +136,7 @@
     }</text>
       </register>
       <register name="&quot;" type="4">
-        <text>我是一个窗口</text>
+        <text encoding="base64">ICAgIHJldHVybiBmYW5uX3Rlc3QoKQ==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">IyMjIM/W1NrV4sDvysfTw7Ppz/PA4Mq1z9a1xENvbG9yvdO/2rPpz/OjrLu5v8nS1NPDSW50ZXJmYWNlvfjQ0LPpz/MK</text>
@@ -161,7 +165,7 @@ var_dump($_SERVER);</text>
         <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZHJhdygpIG1ldGhvZC4K</text>
       </register>
       <register name="-" type="4">
-        <text>我是一个窗口</text>
+        <text encoding="base64">ICAgIHJldHVybiBmYW5uX3Rlc3QoKQ==</text>
       </register>
     </registers>
     <search>
