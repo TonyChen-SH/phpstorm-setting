@@ -9,8 +9,15 @@
       <file name="D:/php/demo/src/DesignPattern/README.md" timestamp="1504587548346">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/php/easyShare/index.php" timestamp="1504769165737">
-        <mark key="[" line="6" column="2" />
+      <file name="D:/php/easyShare/index.php" timestamp="1504771822826">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="D:/php/easyShare/composer.json" timestamp="1504772293739">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1504587362514">
         <mark key="[" line="0" column="0" />
@@ -57,6 +64,9 @@
       <file name="D:/php/demo/src/DesignPattern/Decorator/ScrollBarDecorator.php" timestamp="1504663956766">
         <mark key="[" line="11" column="23" />
       </file>
+      <file name="D:/php/easyShare/.gitignore" timestamp="1504771496864">
+        <mark key="[" line="5" column="6" />
+      </file>
       <file name="D:/php/demo/src/DesignPattern/Bridge/Blue.php" timestamp="1504587376090">
         <mark key="[" line="11" column="23" />
         <mark key="]" line="11" column="9" />
@@ -87,7 +97,9 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="D:/php/easyShare/src/Admin/Controller/Index.php" timestamp="1504769054089" />
+      <file name="D:/php/easyShare/src/Admin/Controller/Index.php" timestamp="1504771240073">
+        <mark key="[" line="7" column="23" />
+      </file>
       <file name="D:/php/demo/src/DesignPattern/Bridge/Graph.php" timestamp="1504583840286">
         <mark key="[" line="25" column="15" />
         <mark key="]" line="25" column="15" />
@@ -130,42 +142,40 @@
     <jumps />
     <registers>
       <register name="1" type="4">
+        <text encoding="base64">ICAgICJwYWNrYWdpc3QiOiB7CiAgICAgICJ0eXBlIjogImNvbXBvc2VyIiwKICAgICAgInVybCI6ICJodHRwczovL3BhY2thZ2lzdC5waHBjb21wb3Nlci5jb20iCiAgICB9LA==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICJwYWNrYWdpc3QiOiB7CiAgICAgICJ0eXBlIjogImNvbXBvc2VyIiwKICAgICAgInVybCI6ICJodHRwczovL3BhY2thZ2lzdC5waHBjb21wb3Nlci5jb20iCiAgICB9LA==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZWNsYXJlKHRpY2tzPTEpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dmFyX2R1bXAoUEhQX1ZFUlNJT05fSUQpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">dmFyX2R1bXAoUEhQX1ZFUlNJT05fSUQpOwo=</text>
+      </register>
+      <register name="5" type="4">
         <text>public function display()
     {
 
     }</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIHJldHVybiBmYW5uX3Rlc3QoKQ==</text>
-      </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text encoding="base64">IyMjIM/W1NrV4sDvysfTw7Ppz/PA4Mq1z9a1xENvbG9yvdO/2rPpz/OjrLu5v8nS1NPDSW50ZXJmYWNlvfjQ0LPpz/MK</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHsKICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgc2V0Q29sb3IoKSBtZXRob2QuCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZHJhdygpIG1ldGhvCg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>ar_dump(APP_PATH);
-var_dump($_SERVER);</text>
-      </register>
-      <register name="7" type="4">
-        <text>var_dump(APP_PATH);
-var_dump($_SERVER);</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgc2V0Q29sb3IoKSBtZXRob2QuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZHJhdygpIG1ldGhvZC4K</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZHJhdygpIG1ldGhvCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIHJldHVybiBmYW5uX3Rlc3QoKQ==</text>
+        <text>echo PHP_VERSION_ID;</text>
       </register>
     </registers>
     <search>
