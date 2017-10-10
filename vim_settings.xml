@@ -9,7 +9,6 @@
       <file name="D:/php/demo/src/DesignPattern/README.md" timestamp="1504587548346">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/work-rog/rog-operation/platform_api/rogapi/application/model/Recharge/Dg.php" timestamp="1507602749974" />
       <file name="D:/php/easyShare/composer.json" timestamp="1504772293739">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -86,8 +85,9 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="D:/work-rog/rog-operation/platform_api/rogapi/application/index/controller/recharge/Recharge.php" timestamp="1507602691710" />
-      <file name="D:/work-rog/rog-operation/platform_api/rogapi/application/model/Common.php" timestamp="1507602865184" />
+      <file name="D:/work-rog/rog-operation/platform_api/api/composer.json" timestamp="1507606401523">
+        <mark key="[" line="9" column="16" />
+      </file>
       <file name="D:/php/easyShare/src/Admin/Controller/Index.php" timestamp="1504771240073">
         <mark key="[" line="7" column="23" />
       </file>
@@ -131,6 +131,9 @@
       </file>
       <file name="D:/work-rog/rog-operation/platform_api/rogapi/demo.php" timestamp="1503113241193">
         <mark key="[" line="14" column="0" />
+      </file>
+      <file name="D:/work-rog/rog-operation/platform_api/api/.gitignore" timestamp="1507606262038">
+        <mark key="[" line="0" column="46" />
       </file>
     </filemarks>
     <jumps />
