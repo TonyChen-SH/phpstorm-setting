@@ -5,7 +5,7 @@
     <filemarks>
       <file name="D:/work-php/mobile-sdk/App/Controller/Recharge.php" timestamp="1507611713336" />
       <file name="D:/work-php/yii/vendor/yiisoft/yii2/base/Application.php" timestamp="1507616352873" />
-      <file name="D:/work-TonyChen-SH/framework/src/Application.php" timestamp="1507718126977">
+      <file name="D:/work-TonyChen-SH/framework/src/Application.php" timestamp="1507719073882">
         <mark key="[" line="14" column="4" />
         <mark key="]" line="14" column="4" />
         <mark key="." line="14" column="4" />
@@ -16,7 +16,7 @@
       <file name="/a.dummy" timestamp="1507619508492">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/work-TonyChen-SH/framework/src/Config.php" timestamp="1507710247910">
+      <file name="D:/work-TonyChen-SH/framework/src/Config.php" timestamp="1507719096819">
         <mark key="[" line="12" column="0" />
       </file>
       <file name="D:/work-rog/rog-operation/platform_api/api/src/Logic/Login/DoInGame.php" timestamp="1507630081155" />
@@ -34,7 +34,7 @@
         <mark key="[" line="8" column="11" />
       </file>
       <file name="D:/work-rog/rog-operation/platform_api/sdk/App/Model/Recharge/RechargeFactory.php" timestamp="1507619435484" />
-      <file name="D:/work-TonyChen-SH/framework/.gitignore" timestamp="1507611175949">
+      <file name="D:/work-TonyChen-SH/framework/.gitignore" timestamp="1507718623253">
         <mark key="[" line="4" column="0" />
       </file>
       <file name="D:/work-php/yii/vendor/yiisoft/yii2/di/Container.php" timestamp="1507616595699" />
@@ -61,8 +61,10 @@
         <mark key="[" line="8" column="16" />
       </file>
       <file name="D:/work-TonyChen-SH/framework/vendor/pimple/pimple/src/Pimple/ServiceProviderInterface.php" timestamp="1507716275969" />
-      <file name="D:/work-rog/rog-operation/platform_api/api/composer.json" timestamp="1507609655429">
-        <mark key="[" line="15" column="19" />
+      <file name="D:/work-rog/rog-operation/platform_api/api/composer.json" timestamp="1507718513937">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="D:/php/easyShare/src/Admin/Controller/Index.php" timestamp="1504771240073">
         <mark key="[" line="7" column="23" />
@@ -143,8 +145,8 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/work-rog/rog-operation/platform_api/sdk/Core/Db/Mysql.php" timestamp="1507615018456" />
-      <file name="D:/work-TonyChen-SH/framework/composer.json" timestamp="1507717612913">
-        <mark key="[" line="10" column="0" />
+      <file name="D:/work-TonyChen-SH/framework/composer.json" timestamp="1507718946978">
+        <mark key="[" line="1" column="25" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
@@ -171,10 +173,11 @@
       <file name="D:/work-TonyChen-SH/framework/src/Config/ChainConfigDriver.php" timestamp="1507713644478">
         <mark key="[" line="8" column="17" />
       </file>
-      <file name="D:/work-TonyChen-SH/framework/src/Config/ConfigServiceProvider.php" timestamp="1507718367273">
-        <mark key="[" line="67" column="4" />
-        <mark key="]" line="90" column="8" />
-        <mark key="." line="90" column="8" />
+      <file name="$APPLICATION_CONFIG_DIR$/Composer Log/Composer Log" timestamp="1507718902266" />
+      <file name="D:/work-TonyChen-SH/framework/src/Config/ConfigServiceProvider.php" timestamp="1507719112372">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="D:/php/demo/src/DesignPattern/Adapter/REAMD.md" timestamp="1504590296974">
         <mark key="[" line="0" column="0" />
@@ -202,36 +205,36 @@
     <jumps />
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">CiAgIAoKeA==</text>
+        <text encoding="base64">ICAgIC8qCiAgICAgKiC78cihxeTWw8r91+kKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldENvbmZpZygpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5jb25maWc7CiAgICB9</text>
       </register>
       <register name="&quot;" type="4">
-        <text>return va</text>
+        <text encoding="base64">ICAgIC8qCiAgICAgKiC78cihxeTWw8r91+kKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldENvbmZpZygpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5jb25maWc7CiAgICB9</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICJwc3IvY29udGFpbmVyIjogIkBkZXYiLAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIHsKICAgICAgInR5cGUiOiAidmNzIiwKICAgICAgInVybCI6ICJodHRwOi8vZ2l0aHViLmNvbS9Ub255Q2hlbi1TSC9waHAtZGIuZ2l0IgogICAgfSwKICAgIHsKICAgICAgInR5cGUiOiAidmNzIiwKICAgICAgInVybCI6ICJodHRwczovL2dpdGh1Yi5jb20vVG9ueUNoZW4tU0gvbWlncmF0aW9uLmdpdCIKICAgIH0s</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">ICAgICJ0b255L3BocC1kYiI6ICIwLjEiLAogICAgInRvbnkvbWlncmF0aW9uIjogIjAuMSIsCiAgICAidG9ueS9waHAtdXRpbHMiOiAiMC4xIg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgIAoKeA==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICJwc3IvY29udGFpbmVyIjogIkBkZXYiLAo=</text>
+      </register>
+      <register name="6" type="4">
         <text>/*
      * var $co
      */</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRmaWxlbmFtZQogICAgICogQHJldHVybiBhcnJheQogICAgICov</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRmaWxlbmFtZQogICAgICogQHJldHVybiBhcnJheQogICAgICov</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIC8vIMr9vt2/4rX3ytTEo8q9CiAgICAnZGVidWcnICAgICAgICAgICA9PiB0cnVlLAogICAgJ3NxbF9leHBsYWluJyAgICAgPT4gZmFsc2Us</text>
-      </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgIC8vIMGsvdNkc24KICAgICdkc24nICAgICAgICAgICAgID0+ICcnLA==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRmaWxlbmFtZQogICAgICogQHJldHVybiBhcnJheQogICAgICov</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICR0YWJhbGVOYW1lOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRmaWxlbmFtZQogICAgICogQHJldHVybiBhcnJheQogICAgICov</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgICJwYWNrYWdpc3QiOiB7CiAgICAgICJ0eXBlIjogImNvbXBvc2VyIiwKICAgICAgInVybCI6ICJodHRwczovL3BhY2thZ2lzdC5waHBjb21wb3Nlci5jb20iCiAgICB9LA==</text>
+        <text encoding="base64">ICAgIC8vIMr9vt2/4rX3ytTEo8q9CiAgICAnZGVidWcnICAgICAgICAgICA9PiB0cnVlLAogICAgJ3NxbF9leHBsYWluJyAgICAgPT4gZmFsc2Us</text>
       </register>
       <register name="-" type="4">
         <text>return va</text>
