@@ -20,6 +20,7 @@
         <mark key="[" line="12" column="0" />
       </file>
       <file name="D:/work-php/yii/vendor/yiisoft/yii2/Yii.php" timestamp="1507616409683" />
+      <file name="D:/work-rog/rog-operation/gmt/App/Admin/Controller/ManageActivityController.class.php" timestamp="1507686745832" />
       <file name="D:/php/demo/index.php" timestamp="1504582904815">
         <mark key="[" line="8" column="11" />
       </file>
@@ -45,6 +46,9 @@
       </file>
       <file name="D:/work-rog/rog-operation/platform_api/api/src/Logic/Recharge/DoInGame.php" timestamp="1507619914333">
         <mark key="[" line="7" column="0" />
+      </file>
+      <file name="D:/work-rog/rog-operation/gmt/App/Admin/View/ManageActivity/addactivity.html" timestamp="1507687914121">
+        <mark key="[" line="598" column="31" />
       </file>
       <file name="D:/work-rog/rog-operation/platform_api/api/composer.json" timestamp="1507609655429">
         <mark key="[" line="15" column="19" />
@@ -107,6 +111,7 @@
         <mark key="." line="19" column="19" />
       </file>
       <file name="D:/work-TonyChen-SH/framework/src/Router.php" timestamp="1507611781119" />
+      <file name="D:/work-rog/rog-operation/gmt/App/Admin/View/Assist/choosereward.html" timestamp="1507687187113" />
       <file name="D:/work-php/mobile-sdk/App/Model/Db/GameServer.php" timestamp="1507612319760" />
       <file name="D:/work-rog/rog-operation/platform_api/sdk/App/Model/Db/GameServer.php" timestamp="1507615038016" />
       <file name="D:/work-php/yii/controllers/SiteController.php" timestamp="1507616992994" />
@@ -137,7 +142,7 @@
         <mark key="]" line="17" column="8" />
         <mark key="." line="17" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507619728735">
+      <file name="/Dummy.txt" timestamp="1507687164203">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/work-rog/rog-operation/platform_api/sdk/Core/Model.php" timestamp="1507617096586">
@@ -149,6 +154,7 @@
       <file name="D:/work-rog/rog-operation/platform_api/api/README.md" timestamp="1507620083661">
         <mark key="[" line="2" column="0" />
       </file>
+      <file name="D:/work-rog/rog-operation/gmt/App/Admin/Controller/AssistController.class.php" timestamp="1507686812459" />
       <file name="D:/work-php/yii/vendor/symfony/event-dispatcher/EventDispatcher.php" timestamp="1507616140905" />
       <file name="D:/php/demo/src/DesignPattern/Adapter/REAMD.md" timestamp="1504590296974">
         <mark key="[" line="0" column="0" />
