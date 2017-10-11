@@ -19,8 +19,10 @@
         <mark key="]" line="18" column="20" />
         <mark key="." line="18" column="20" />
       </file>
-      <file name="D:/work-oschina/cpp-demo/exam/clionCpp/13-1-54.cpp" timestamp="1507692413094">
-        <mark key="[" line="3" column="0" />
+      <file name="D:/work-oschina/cpp-demo/exam/clionCpp/13-1-54.cpp" timestamp="1507696232288">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="D:/work-oschina/cpp-demo/exam/clionCpp/CMakeLists.txt" timestamp="1507691632908">
         <mark key="[" line="5" column="32" />
@@ -28,7 +30,6 @@
       <file name="D:/work-TonyChen-SH/zendapi/.travis.yml" timestamp="1507623413984">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/work-oschina/cpp-demo/CMakeLists.txt" timestamp="1507691680453" />
       <file name="D:/Cpp/demo/src/Dynamic/Company.cpp" timestamp="1504073538159">
         <mark key="[" line="6" column="0" />
       </file>
@@ -92,10 +93,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>override</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>override</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRcPg==</text>
