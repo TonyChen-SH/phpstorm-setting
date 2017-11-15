@@ -8,7 +8,7 @@
         <mark key="]" line="11" column="11" />
         <mark key="." line="11" column="9" />
       </file>
-      <file name="/GDB" timestamp="1506685117800">
+      <file name="/GDB" timestamp="1510147696751">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1504237257448">
@@ -19,17 +19,31 @@
         <mark key="]" line="18" column="20" />
         <mark key="." line="18" column="20" />
       </file>
+      <file name="$USER_HOME$/Project/cpp-demo/exam/clionCpp/charConvert.cpp" timestamp="1510148082068">
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="38" />
+        <mark key="^" line="17" column="38" />
+        <mark key="." line="17" column="38" />
+      </file>
       <file name="D:/Cpp/demo/src/Dynamic/Company.cpp" timestamp="1504073538159">
         <mark key="[" line="6" column="0" />
       </file>
       <file name="D:/Cpp/PHP-CPP/CMakeLists.txt" timestamp="1503991174195">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/cpp-demo/exam/clionCpp/Person.cpp" timestamp="1510148360117">
+        <mark key="[" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/php/CMakeLists.txt" timestamp="1506685347870">
         <mark key="[" line="1857" column="18" />
         <mark key="]" line="1848" column="0" />
         <mark key="." line="1848" column="0" />
         <mark key="^" line="1848" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/cpp-demo/exam/clionCpp/CMakeLists.txt" timestamp="1510146833136">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
       </file>
       <file name="D:/Cpp/PHP-CPP/phpcpp.h" timestamp="1503991104539">
         <mark key="[" line="73" column="0" />
@@ -85,10 +99,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>clionCpp</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>clionCpp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRcPg==</text>
