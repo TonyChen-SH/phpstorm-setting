@@ -1,0 +1,8 @@
+<application>
+  <component name="ConfigurationProvider">
+    <option name="ideaFocusedInput" value="Last" />
+    <option name="inVimInsertInput" value="Last" />
+    <option name="outOfIdeaInput" value="Last" />
+    <option name="outVimInsertInput" value="Last" />
+  </component>
+</application>
