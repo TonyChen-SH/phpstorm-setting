@@ -3,210 +3,142 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/work-TonyChen-SH/framework/src/Application.php" timestamp="1507774334670">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="14" column="4" />
-        <mark key="." line="14" column="4" />
+      <file name="D:/Cpp/PHP-CPP/Examples/simple/simple.cpp" timestamp="1503992779429">
+        <mark key="[" line="11" column="9" />
+        <mark key="]" line="11" column="11" />
+        <mark key="." line="11" column="9" />
       </file>
-      <file name="D:/work-rog/rog-operation/platform_api/api/src/Controller/Login.php" timestamp="1507619311076">
-        <mark key="[" line="8" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1507619508492">
+      <file name="/GDB" timestamp="1510147696751">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/work-TonyChen-SH/framework/src/Config.php" timestamp="1507719096819">
-        <mark key="[" line="12" column="0" />
+      <file name="/Dummy.txt" timestamp="1504237257448">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/php/demo/src/DesignPattern/Bridge/Rectangle.php" timestamp="1504583976654">
-        <mark key="[" line="12" column="0" />
+      <file name="D:/Cpp/PHP-CPP/include/array.h" timestamp="1499675006972">
+        <mark key="[" line="18" column="20" />
+        <mark key="]" line="18" column="20" />
+        <mark key="." line="18" column="20" />
       </file>
-      <file name="D:/work-TonyChen-SH/framework/src/Config/Driver/PhpConfigDriver.php" timestamp="1507718075729">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Project/cpp-demo/exam/clionCpp/charConvert.cpp" timestamp="1510148082068">
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="38" />
+        <mark key="^" line="17" column="38" />
+        <mark key="." line="17" column="38" />
       </file>
-      <file name="D:/php/demo/index.php" timestamp="1504582904815">
-        <mark key="[" line="8" column="11" />
+      <file name="D:/Cpp/demo/src/Dynamic/Company.cpp" timestamp="1504073538159">
+        <mark key="[" line="6" column="0" />
       </file>
-      <file name="D:/work-TonyChen-SH/framework/.gitignore" timestamp="1507718623253">
+      <file name="D:/Cpp/PHP-CPP/CMakeLists.txt" timestamp="1503991174195">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/cpp-demo/exam/clionCpp/Person.cpp" timestamp="1510148360117">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="D:/work-rog/rog-operation/platform_api/api/web/index.php" timestamp="1507774345857">
-        <mark key="[" line="6" column="2" />
+      <file name="$USER_HOME$/Project/php/CMakeLists.txt" timestamp="1506685347870">
+        <mark key="[" line="1857" column="18" />
+        <mark key="]" line="1848" column="0" />
+        <mark key="." line="1848" column="0" />
+        <mark key="^" line="1848" column="0" />
       </file>
-      <file name="D:/work-TonyChen-SH/framework/src/Controller.php" timestamp="1507616886104">
-        <mark key="[" line="8" column="15" />
+      <file name="$USER_HOME$/Project/cpp-demo/exam/clionCpp/CMakeLists.txt" timestamp="1510146833136">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
       </file>
-      <file name="D:/php/demo/src/DesignPattern/Decorator/ScrollBarDecorator.php" timestamp="1504663956766">
-        <mark key="[" line="11" column="23" />
+      <file name="D:/Cpp/PHP-CPP/phpcpp.h" timestamp="1503991104539">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
-      <file name="D:/php/easyShare/.gitignore" timestamp="1504771496864">
-        <mark key="[" line="5" column="6" />
-      </file>
-      <file name="D:/work-rog/rog-operation/platform_api/api/src/Logic/Recharge/DoInGame.php" timestamp="1507619914333">
+      <file name="D:/Cpp/demo/src/Dynamic/Company.h" timestamp="1504072604608">
         <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
-      <file name="D:/work-rog/rog-operation/gmt/App/Admin/View/ManageActivity/addactivity.html" timestamp="1507689251037">
-        <mark key="[" line="597" column="31" />
+      <file name="/fragment.mm" timestamp="1504071121814">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/work-TonyChen-SH/framework/src/Config/ConfigDriver.php" timestamp="1507713399854">
-        <mark key="[" line="8" column="16" />
+      <file name="D:/Cpp/demo/src/Dynamic/Programmer.h" timestamp="1504073428560">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
       </file>
-      <file name="D:/work-rog/rog-operation/platform_api/api/composer.json" timestamp="1507773432143">
+      <file name="D:/Cpp/demo/CMakeLists.txt" timestamp="1504233428958">
+        <mark key="a" line="35" column="65" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="D:/Cpp/demo/src/Dynamic/Programmer.cpp" timestamp="1504073046107">
         <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/php/easyShare/src/Admin/Controller/Index.php" timestamp="1504771240073">
-        <mark key="[" line="7" column="23" />
+      <file name="D:/Cpp/demo/src/Dynamic/Manager.h" timestamp="1504073424797">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
-      <file name="D:/php/demo/src/DesignPattern/Decorator/TextBox.php" timestamp="1504663458522">
-        <mark key="[" line="11" column="12" />
+      <file name="D:/Cpp/demo/src/Dynamic/Manager.cpp" timestamp="1504073422405">
+        <mark key="[" line="13" column="0" />
       </file>
-      <file name="D:/work-rog/rog-operation/platform_api/rogapi/application/index/controller/recharge/Test.php" timestamp="1507602674389">
-        <mark key="[" line="123" column="8" />
-      </file>
-      <file name="D:/work-TonyChen-SH/framework/README.md" timestamp="1507611250958">
+      <file name="$USER_HOME$/Project/cpp-demo/exam/clionCpp/.gitignore" timestamp="1510144647713">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="D:/php/demo/src/DesignPattern/Decorator/ListBox.php" timestamp="1504663538094">
-        <mark key="[" line="11" column="12" />
-      </file>
-      <file name="D:/work-TonyChen-SH/framework/src/Container.php" timestamp="1507717824560">
-        <mark key="[" line="20" column="8" />
-        <mark key="]" line="20" column="8" />
-        <mark key="." line="20" column="8" />
-      </file>
-      <file name="D:/php/demo/src/DesignPattern/Decorator/ComponentDecorator.php" timestamp="1504663749758">
-        <mark key="[" line="11" column="0" />
-      </file>
-      <file name="D:/work-rog/rog-operation/platform_api/api/src/Logic/Login/Doingame.php" timestamp="1507619746716">
-        <mark key="[" line="8" column="10" />
-      </file>
-      <file name="D:/work-rog/rog-operation/platform_api/api/.gitignore" timestamp="1507606262038">
-        <mark key="[" line="0" column="46" />
-      </file>
-      <file name="D:/php/demo/src/DesignPattern/Bridge/GraghAbstract.php" timestamp="1504580532180">
-        <mark key="[" line="8" column="23" />
-      </file>
-      <file name="D:/php/demo/src/DesignPattern/README.md" timestamp="1504587548346">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/work-rog/rog-operation/platform_api/api/app/config/log.php" timestamp="1507618154976">
-        <mark key="[" line="6" column="2" />
-      </file>
-      <file name="D:/php/demo/AutoLoad.php" timestamp="1504582941261">
-        <mark key="[" line="17" column="25" />
-      </file>
-      <file name="D:/work-rog/rog-operation/platform_api/api/app/config/db.php" timestamp="1507620124965">
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="19" column="19" />
-        <mark key="." line="19" column="19" />
-      </file>
-      <file name="D:/php/demo/src/DesignPattern/Decorator/Component.php" timestamp="1504663255037">
-        <mark key="[" line="15" column="0" />
-      </file>
-      <file name="D:/php/demo/Test/MessageTest.php" timestamp="1503133018532">
-        <mark key="[" line="8" column="0" />
-      </file>
-      <file name="D:/work-rog/rog-operation/platform_api/api/src/Logic/Login.php" timestamp="1507619332197">
-        <mark key="[" line="8" column="10" />
-      </file>
-      <file name="filetypes.xml" timestamp="1504670651971">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/php/demo/src/DesignPattern/Bridge/Color.php" timestamp="1504587453789">
-        <mark key="[" line="11" column="0" />
-      </file>
-      <file name="/PHP Console" timestamp="1504582732526">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/work-TonyChen-SH/framework/composer.json" timestamp="1507718946978">
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="D:/work-rog/rog-operation/platform_api/sdk/App/Model/Db/Player.php" timestamp="1507615047368">
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="17" column="8" />
-        <mark key="." line="17" column="8" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1507717866007">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/work-rog/rog-operation/platform_api/sdk/Core/Model.php" timestamp="1507617096586">
-        <mark key="[" line="19" column="7" />
-        <mark key="]" line="19" column="7" />
-        <mark key="." line="19" column="7" />
-      </file>
-      <file name="D:/work-rog/rog-operation/platform_api/api/README.md" timestamp="1507620083661">
-        <mark key="[" line="2" column="0" />
-      </file>
-      <file name="D:/work-TonyChen-SH/framework/src/Config/ChainConfigDriver.php" timestamp="1507713644478">
-        <mark key="[" line="8" column="17" />
-      </file>
-      <file name="D:/work-TonyChen-SH/framework/src/Config/ConfigServiceProvider.php" timestamp="1507719112372">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-      </file>
-      <file name="D:/php/demo/src/DesignPattern/Adapter/REAMD.md" timestamp="1504590296974">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/work-TonyChen-SH/framework/src/Config/PhpConfigDriver.php" timestamp="1507711267316">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="D:/php/laravel-framework/src/Illuminate/Container/Container.php" timestamp="1504774095152">
-        <mark key="[" line="175" column="8" />
-      </file>
-      <file name="D:/work-rog/rog-operation/platform_api/api/app/config/params.php" timestamp="1507618135522">
-        <mark key="[" line="6" column="2" />
-      </file>
-      <file name="D:/work-TonyChen-SH/framework/src/Config/Driver/ChainConfigDriver.php" timestamp="1507718064762">
-        <mark key="[" line="24" column="33" />
-      </file>
-      <file name="D:/work-rog/rog-operation/platform_api/rogapi/demo.php" timestamp="1503113241193">
-        <mark key="[" line="14" column="0" />
+      <file name="D:/Cpp/demo/src/Dynamic/Employee.h" timestamp="1504071606156">
+        <mark key="[" line="6" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="18" column="2" filename="/media/psf/Home/Project/cpp-demo/src/Deque.cpp" />
+      <jump line="12" column="19" filename="D:/Cpp/demo/src/Deque.cpp" />
+      <jump line="0" column="0" filename="D:/Cpp/demo/src/Deque.cpp" />
+      <jump line="15" column="24" filename="D:/Cpp/demo/src/Vector.cpp" />
+      <jump line="38" column="43" filename="/media/psf/Home/Project/leveldb/include/leveldb/status.h" />
+      <jump line="12" column="10" filename="D:/Cpp/demo/src/Dynamic/Manager.h" />
+      <jump line="9" column="0" filename="D:/Cpp/demo/src/Dynamic/Manager.h" />
+    </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIC8qCiAgICAgKiC78cihxeTWw8r91+kKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldENvbmZpZygpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5jb25maWc7CiAgICB9</text>
-      </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIC8qCiAgICAgKiC78cihxeTWw8r91+kKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldENvbmZpZygpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5jb25maWc7CiAgICB9</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIHsKICAgICAgInR5cGUiOiAidmNzIiwKICAgICAgInVybCI6ICJodHRwOi8vZ2l0aHViLmNvbS9Ub255Q2hlbi1TSC9waHAtZGIuZ2l0IgogICAgfSwKICAgIHsKICAgICAgInR5cGUiOiAidmNzIiwKICAgICAgInVybCI6ICJodHRwczovL2dpdGh1Yi5jb20vVG9ueUNoZW4tU0gvbWlncmF0aW9uLmdpdCIKICAgIH0s</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICJ0b255L3BocC1kYiI6ICIwLjEiLAogICAgInRvbnkvbWlncmF0aW9uIjogIjAuMSIsCiAgICAidG9ueS9waHAtdXRpbHMiOiAiMC4xIg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgIAoKeA==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICJwc3IvY29udGFpbmVyIjogIkBkZXYiLAo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>/*
-     * var $co
-     */</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRmaWxlbmFtZQogICAgICogQHJldHVybiBhcnJheQogICAgICov</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRmaWxlbmFtZQogICAgICogQHJldHVybiBhcnJheQogICAgICov</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIC8vIMr9vt2/4rX3ytTEo8q9CiAgICAnZGVidWcnICAgICAgICAgICA9PiB0cnVlLAogICAgJ3NxbF9leHBsYWluJyAgICAgPT4gZmFsc2Us</text>
+        <text>clionCpp</text>
       </register>
       <register name="-" type="4">
-        <text>return va</text>
+        <text>clionCpp</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxzZXRcPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCB2ZWNbal0gPDwgIiAiOwo=</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">Cl4KWmVuZC96ZW5kX3ZtX2V4ZWN1dGUuaDoyNDY5MjoyOiB3YXJuaW5nOiB1bnVzZWQgdmFyaWFibGUgJ29wbGluZScgWy1XdW51c2VkLXZhcmlhYmxlXQpVU0VfT1BMSU5FCl4KWmVuZC96ZW5kX3ZtX2V4ZWN1dGUuaDozOTM6MzY6IG5vdGU6IGV4cGFuZGVkIGZyb20gbWFjcm8gJ1VTRV9PUExJTkUnCiMgZGVmaW5lIFVTRV9PUExJTkUgY29uc3QgemVuZF9vcCAqb3BsaW5lID0gRVgob3BsaW5lKTsKXg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">I2luY2x1ZGUgIk1hbmFnZXIuaCIK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">I2luY2x1ZGUgIk1hbmFnZXIuaCIKI2luY2x1ZGUgIkVtcGxveWVlLmgiCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">YWRkX2V4ZWN1dGFibGUodGVtcGxhdGUgc3JjL1RlbXBsYXRlL3RwbC5jcHAgc3JjL1RlbXBsYXRlL0Jsb2IuaCBzcmMvVGVtcGxhdGUvQmxvYi5jcHAgc3JjL1RlbXBsYXRlL01heC5jcHAgc3JjL1RlbXBsYXRlL01heC5oKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y2xhc3MgTWFuYWdlcjogcHVibGljIEVtcGxveWVlCg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiNpbmNsdWRlICJwaHBjcHAvenYi</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">I2RlZmluZSBfTElCQ1BQX0RFQlVHIDEK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAvL3N0ZDo6CV9fZ251X2RlYnVnOjp2ZWN0b3I8aW50PiBwaWNrX3ZlYzsK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -214,8 +146,19 @@
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry encoding="base64">XDxsaVw+</entry>
+        <entry encoding="base64">XDxzZXRcPg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry>set vs</entry>
+        <entry>set h</entry>
+        <entry>hspit</entry>
+        <entry>vsplit</entry>
+        <entry>splist Map</entry>
+        <entry>split</entry>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
@@ -224,43 +167,28 @@
         <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed T</text>
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed U</text>
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed M</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>shift ctrl pressed 2</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed D</text>
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed Y</text>
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
@@ -275,16 +203,7 @@
         <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed OPEN_BRACKET</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed Q</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
         <text>ctrl pressed 2</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
@@ -293,13 +212,31 @@
         <text>ctrl pressed H</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed CLOSE_BRACKET</text>
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>shift ctrl pressed 6</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
