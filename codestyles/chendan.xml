@@ -37,7 +37,10 @@
     </extensions>
   </Objective-C-extensions>
   <PHPCodeStyleSettings>
+    <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
+    <option name="ALIGN_ASSIGNMENTS" value="true" />
+    <option name="ALIGN_CLASS_CONSTANTS" value="true" />
   </PHPCodeStyleSettings>
   <codeStyleSettings language="ObjectiveC">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
@@ -64,5 +67,8 @@
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="PHP">
+    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
   </codeStyleSettings>
 </code_scheme>
