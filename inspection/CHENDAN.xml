@@ -1,6 +1,6 @@
 <profile version="1.0">
   <option name="myName" value="CHENDAN" />
-  <inspection_tool class="MessDetectorValidationInspection" enabled="true" level="ERROR" enabled_by_default="true">
+  <inspection_tool class="MessDetectorValidationInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="CODESIZE" value="true" />
     <option name="CONTROVERSIAL" value="true" />
     <option name="DESIGN" value="true" />
