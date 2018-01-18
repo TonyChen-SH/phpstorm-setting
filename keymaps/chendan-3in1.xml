@@ -5,6 +5,9 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="shift alt 9" />
   </action>
+  <action id="Arrangement.Rule.Group.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt b" />
@@ -68,14 +71,28 @@
     <mouse-shortcut keystroke="shift control button1" />
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
+  <action id="MethodDown" />
+  <action id="MethodUp" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="NextDiff" />
   <action id="NextOccurence" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="PreviousDiff" />
   <action id="PreviousOccurence" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
@@ -95,6 +112,7 @@
     <keyboard-shortcut first-keystroke="shift alt o" />
   </action>
   <action id="ShowBookmarks" />
+  <action id="ShowContent" />
   <action id="ShowExecutionPoint" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
@@ -145,4 +163,5 @@
   <action id="XDebugger.AttachToLocalProcess">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
+  <action id="XDebugger.MoveWatchDown" />
 </keymap>
