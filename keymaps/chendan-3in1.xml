@@ -77,11 +77,13 @@
   </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
+  <action id="MoveLineDown" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="NextDiff" />
+  <action id="NextEditorTab" />
   <action id="NextOccurence" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt right" />
@@ -93,6 +95,7 @@
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
   <action id="PreviousDiff" />
+  <action id="PreviousEditorTab" />
   <action id="PreviousOccurence" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt up" />
@@ -100,10 +103,14 @@
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowLeft">
-    <keyboard-shortcut first-keystroke="shift ctrl left" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt left" />
+    <keyboard-shortcut first-keystroke="shift alt left" />
   </action>
+  <action id="ResizeToolWindowRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="ResizeToolWindowUp" />
   <action id="Resume" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="alt f5" />
