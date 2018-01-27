@@ -31,7 +31,9 @@
   </action>
   <action id="DecrementWindowHeight" />
   <action id="Diff.SelectedChange" />
-  <action id="EditSource" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="f8" />
   </action>
