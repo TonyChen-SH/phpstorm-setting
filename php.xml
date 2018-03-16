@@ -1,7 +1,7 @@
 <application>
   <component name="MessDetector">
     <phpmd_settings>
-      <MessDetectorConfiguration tool_path="D:\work-rog\rog-operation\gmt\vendor\bin\phpmd.bat" />
+      <MessDetectorConfiguration tool_path="D:\work-TonyChen-SH\db-profiler\vendor\bin\phpmd.bat" />
     </phpmd_settings>
   </component>
   <component name="PhpAutoImport" auto_import_file_scope="true" />
