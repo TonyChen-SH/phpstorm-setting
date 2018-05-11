@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'api'" />
-    <option name="defaultScopeName" value="Project 'api'" />
+    <option name="customScope" value="Directory '...\src [api2]'" />
+    <option name="defaultScopeName" value="Directory '...\src [api2]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'api'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\src [api2]'" />
   </component>
 </application>
