@@ -176,6 +176,9 @@
     <keyboard-shortcut first-keystroke="ctrl f8" />
     <keyboard-shortcut first-keystroke="f7" />
   </action>
+  <action id="Tool_External Tools_phpbench">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+  </action>
   <action id="Vcs.UpdateProject" />
   <action id="VimWindowClose">
     <keyboard-shortcut first-keystroke="meta w" />

@@ -6,4 +6,11 @@
       <option name="WORKING_DIRECTORY" value="D:/work-rog/rog-operation/gmt" />
     </exec>
   </tool>
+  <tool name="phpbench" description="phpbench" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\work-rog\rog-operation\api\vendor\bin\phpbench.bat" />
+      <option name="PARAMETERS" value="run $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
+    </exec>
+  </tool>
 </toolSet>
