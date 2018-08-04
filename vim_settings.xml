@@ -14,6 +14,12 @@
       <file name="/Dummy.txt" timestamp="1504237257448">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/TonyChen-SH/doc/DesignPattern/M_如何为一条SQL创建三星索引.md" timestamp="1533345077973">
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="9" column="6" />
+        <mark key="." line="9" column="6" />
+        <mark key="^" line="9" column="6" />
+      </file>
       <file name="D:/Cpp/PHP-CPP/include/array.h" timestamp="1499675006972">
         <mark key="[" line="18" column="20" />
         <mark key="]" line="18" column="20" />
@@ -99,16 +105,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>clionCpp</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>clionCpp</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCB2ZWNbal0gPDwgIiAiOwo=</text>
+      <register name="0" type="4">
+        <text>为</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">Cl4KWmVuZC96ZW5kX3ZtX2V4ZWN1dGUuaDoyNDY5MjoyOiB3YXJuaW5nOiB1bnVzZWQgdmFyaWFibGUgJ29wbGluZScgWy1XdW51c2VkLXZhcmlhYmxlXQpVU0VfT1BMSU5FCl4KWmVuZC96ZW5kX3ZtX2V4ZWN1dGUuaDozOTM6MzY6IG5vdGU6IGV4cGFuZGVkIGZyb20gbWFjcm8gJ1VTRV9PUExJTkUnCiMgZGVmaW5lIFVTRV9PUExJTkUgY29uc3QgemVuZF9vcCAqb3BsaW5lID0gRVgob3BsaW5lKTsKXg==</text>
