@@ -17,6 +17,9 @@
       <file name="D:/Cpp/demo/src/Dynamic/Company.cpp" timestamp="1504073538159">
         <mark key="[" line="6" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1533470091623">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/TonyChen-SH/doc/M_如何为一条SQL创建三星索引.md" timestamp="1533351096853">
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="0" />
@@ -28,6 +31,9 @@
         <mark key="]" line="1848" column="0" />
         <mark key="." line="1848" column="0" />
         <mark key="^" line="1848" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/TonyChen-SH/php-task/src/Utils/MemoryProfiler.php" timestamp="1533469847091">
+        <mark key="[" line="18" column="0" />
       </file>
       <file name="D:/Cpp/demo/src/Dynamic/Company.h" timestamp="1504072604608">
         <mark key="[" line="7" column="0" />
@@ -47,6 +53,11 @@
       </file>
       <file name="D:/Cpp/demo/src/Dynamic/Programmer.cpp" timestamp="1504073046107">
         <mark key="[" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/TonyChen-SH/php-task/README.md" timestamp="1533470407301">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="D:/Cpp/demo/src/Dynamic/Employee.h" timestamp="1504071606156">
         <mark key="[" line="6" column="0" />
@@ -72,7 +83,12 @@
       <file name="D:/Cpp/PHP-CPP/CMakeLists.txt" timestamp="1503991174195">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/TonyChen-SH/db-profiler/src/Query/Query.php" timestamp="1533460533819" />
+      <file name="$USER_HOME$/Project/TonyChen-SH/db-profiler/src/Query/Query.php" timestamp="1533469639625">
+        <mark key="[" line="19" column="45" />
+        <mark key="]" line="19" column="45" />
+        <mark key="^" line="19" column="45" />
+        <mark key="." line="19" column="45" />
+      </file>
       <file name="$USER_HOME$/Project/cpp-demo/exam/clionCpp/Person.cpp" timestamp="1510148360117">
         <mark key="[" line="4" column="0" />
       </file>
@@ -95,12 +111,6 @@
       <file name="$USER_HOME$/Project/TonyChen-SH/doc/M_B-Tree索引.md" timestamp="1533367758792">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Cpp/demo/src/Dynamic/Manager.h" timestamp="1504073424797">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="D:/Cpp/demo/src/Dynamic/Manager.cpp" timestamp="1504073422405">
         <mark key="[" line="13" column="0" />
       </file>
@@ -119,7 +129,11 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgS0VZIGBsb2dfZHVuZ2Vvbl9zdGF0ZV9wbGF5ZXJfaWRfZHVuZ2Vvbl9pZF9pbmRleGAgKGBzdGF0ZWAsYHBsYXllcl9pZGAsYGR1bmdlb25faWRgKQ==</text>
+        <text>到底想要什么样的内存分析：
+1. 多一个请求，可以算平均. 分析单个不具有代表性
+2. 可以看gc的状态分析
+3. 分析哪个地方的内存消耗最多
+4. 内存增长监控...是否有内存泄露??</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -131,31 +145,36 @@
         <text>为</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgS0VZIGBsb2dfZHVuZ2Vvbl9zdGF0ZV9wbGF5ZXJfaWRfZHVuZ2Vvbl9pZF9pbmRleGAgKGBzdGF0ZWAsYHBsYXllcl9pZGAsYGR1bmdlb25faWRgKQ==</text>
+        <text>到底想要什么样的内存分析：
+1. 多一个请求，可以算平均. 分析单个不具有代表性
+2. 可以看gc的状态分析
+3. 分析哪个地方的内存消耗最多
+4. 内存增长监控...是否有内存泄露??</text>
       </register>
       <register name="2" type="4">
+        <text>异常捕获和标准错误是不是有冲突? 标准错误这样还有用么？？是不是要取消掉??标准输入是不是也该取消掉？在ProcessConfig里面取消掉。。如果暂时还没有想通怎么用好，那就先取消掉
+  后面用用好的时候，再加入，以免造成使用上的困惑</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">Ci0gW3hdIOW8guW4uOS/oeaBr+eahOaXpeW/l+iusOW9lQ==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IyMg5YaF5a2Y5L2/55So5YiG5p6QCj4g5L2/55SoW3hkZWJ1Zy1wcm9maWxlcigyLjYpXShodHRwczovL3hkZWJ1Zy5vcmcvZG9jcy9wcm9maWxlcinov5vooYzkvb/nlKjlhoXlrZjliIbmnpAKYGBgYmFzaAokIHBlY2wgaW5zdGFsbCB4ZGVidWcKYGBg</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgS0VZIGBsb2dfZHVuZ2Vvbl9zdGF0ZV9wbGF5ZXJfaWRfZHVuZ2Vvbl9pZF9pbmRleGAgKGBzdGF0ZWAsYHBsYXllcl9pZGAsYGR1bmdlb25faWRgKQ==</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">Cl4KWmVuZC96ZW5kX3ZtX2V4ZWN1dGUuaDoyNDY5MjoyOiB3YXJuaW5nOiB1bnVzZWQgdmFyaWFibGUgJ29wbGluZScgWy1XdW51c2VkLXZhcmlhYmxlXQpVU0VfT1BMSU5FCl4KWmVuZC96ZW5kX3ZtX2V4ZWN1dGUuaDozOTM6MzY6IG5vdGU6IGV4cGFuZGVkIGZyb20gbWFjcm8gJ1VTRV9PUExJTkUnCiMgZGVmaW5lIFVTRV9PUExJTkUgY29uc3QgemVuZF9vcCAqb3BsaW5lID0gRVgob3BsaW5lKTsKXg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">I2luY2x1ZGUgIk1hbmFnZXIuaCIK</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">I2luY2x1ZGUgIk1hbmFnZXIuaCIKI2luY2x1ZGUgIkVtcGxveWVlLmgiCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">YWRkX2V4ZWN1dGFibGUodGVtcGxhdGUgc3JjL1RlbXBsYXRlL3RwbC5jcHAgc3JjL1RlbXBsYXRlL0Jsb2IuaCBzcmMvVGVtcGxhdGUvQmxvYi5jcHAgc3JjL1RlbXBsYXRlL01heC5jcHAgc3JjL1RlbXBsYXRlL01heC5oKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgTWFuYWdlcjogcHVibGljIEVtcGxveWVlCg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiNpbmNsdWRlICJwaHBjcHAvenYi</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">I2RlZmluZSBfTElCQ1BQX0RFQlVHIDEK</text>
+        <text encoding="base64">YWRkX2V4ZWN1dGFibGUodGVtcGxhdGUgc3JjL1RlbXBsYXRlL3RwbC5jcHAgc3JjL1RlbXBsYXRlL0Jsb2IuaCBzcmMvVGVtcGxhdGUvQmxvYi5jcHAgc3JjL1RlbXBsYXRlL01heC5jcHAgc3JjL1RlbXBsYXRlL01heC5oKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
