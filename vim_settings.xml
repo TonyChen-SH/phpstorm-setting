@@ -45,12 +45,7 @@
         <mark key="]" line="12" column="16" />
         <mark key="." line="12" column="16" />
       </file>
-      <file name="D:/Cpp/demo/CMakeLists.txt" timestamp="1504233428958">
-        <mark key="a" line="35" column="65" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
+      <file name="$USER_HOME$/Project/work-rog/rog-operation/log_new/README.md" timestamp="1533622595411" />
       <file name="D:/Cpp/demo/src/Dynamic/Programmer.cpp" timestamp="1504073046107">
         <mark key="[" line="12" column="0" />
       </file>
@@ -105,6 +100,11 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/work-rog/rog-operation/log_new/start.sh" timestamp="1533622704065">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="/fragment.mm" timestamp="1504071121814">
         <mark key="[" line="0" column="0" />
       </file>
@@ -129,14 +129,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>到底想要什么样的内存分析：
-1. 多一个请求，可以算平均. 分析单个不具有代表性
-2. 可以看gc的状态分析
-3. 分析哪个地方的内存消耗最多
-4. 内存增长监控...是否有内存泄露??</text>
+        <text>yum install -y php71w-process</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>yum install -y php71w-process</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRcPg==</text>
