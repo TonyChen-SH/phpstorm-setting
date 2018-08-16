@@ -3,124 +3,37 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Cpp/PHP-CPP/Examples/simple/simple.cpp" timestamp="1503992779429">
-        <mark key="[" line="11" column="9" />
-        <mark key="]" line="11" column="11" />
-        <mark key="." line="11" column="9" />
-      </file>
-      <file name="C:/work-jooj/soa2/application/common/arvato/CommonCurl.php" timestamp="1534391547228" />
-      <file name="C:/work-jooj/soa2/application/common/model/jsm/Members.php" timestamp="1534390224706" />
-      <file name="D:/Cpp/demo/src/Dynamic/Company.cpp" timestamp="1504073538159">
-        <mark key="[" line="6" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1533470091623">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/work-jooj/soa2/application/common/traits/ApiPost.php" timestamp="1534390715923" />
-      <file name="$USER_HOME$/Project/TonyChen-SH/doc/M_B-Tree索引.md" timestamp="1533367758792">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/work-jooj/soa2/application/config.php" timestamp="1534385918472">
-        <mark key="[" line="25" column="30" />
-        <mark key="]" line="37" column="44" />
-        <mark key="^" line="37" column="44" />
-        <mark key="." line="37" column="44" />
-      </file>
-      <file name="$USER_HOME$/Project/cpp-demo/exam/clionCpp/Person.cpp" timestamp="1510148360117">
-        <mark key="[" line="4" column="0" />
-      </file>
-      <file name="D:/Cpp/demo/src/Dynamic/Company.h" timestamp="1504072604608">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/TonyChen-SH/php-task/README.md" timestamp="1533471440062">
-        <mark key="[" line="1" column="20" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
-      </file>
-      <file name="D:/Cpp/demo/src/Dynamic/Programmer.h" timestamp="1504073428560">
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="12" column="16" />
-        <mark key="." line="12" column="16" />
-      </file>
-      <file name="C:/work-jooj/soa2/application/common/controller/AuthBase.php" timestamp="1534388286312" />
-      <file name="D:/Cpp/demo/src/Dynamic/Programmer.cpp" timestamp="1504073046107">
-        <mark key="[" line="12" column="0" />
-      </file>
-      <file name="C:/work-jooj/soa2/p.php" timestamp="1534330088451">
-        <mark key="[" line="6" column="2" />
-      </file>
-      <file name="C:/work-jooj/soa2/application/index/service/ServiceService.php" timestamp="1534386187702" />
-      <file name="C:/work-jooj/soa2/application/common/behavior/ArvatoSendCheck.php" timestamp="1534390084859" />
-      <file name="D:/Cpp/demo/src/Dynamic/Employee.h" timestamp="1504071606156">
-        <mark key="[" line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/cpp-demo/exam/clionCpp/.gitignore" timestamp="1510144647713">
-        <mark key="[" line="2" column="0" />
-      </file>
-      <file name="/GDB" timestamp="1510147696751">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1504237257448">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Cpp/PHP-CPP/include/array.h" timestamp="1499675006972">
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="18" column="20" />
-        <mark key="." line="18" column="20" />
-      </file>
-      <file name="$USER_HOME$/Project/work-rog/rog-operation/log_new/start.sh" timestamp="1533622704065">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
+      <file name="C:/work-jooj/soa2/thinkphp/library/think/cache/Driver.php" timestamp="1534400684648" />
       <file name="C:/work-jooj/soa2/application/common/model/log/XcxApiLogs.php" timestamp="1534387496904" />
-      <file name="D:/Cpp/PHP-CPP/CMakeLists.txt" timestamp="1503991174195">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/work-jooj/soa2/application/index/controller/Fans.php" timestamp="1534391415548" />
-      <file name="D:/Cpp/PHP-CPP/phpcpp.h" timestamp="1503991104539">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/TonyChen-SH/php-task/src/Utils/MemoryProfiler.php" timestamp="1533469847091">
-        <mark key="[" line="18" column="0" />
-      </file>
-      <file name="C:/work-jooj/soa2/application/lib/exception/ExceptionHandler.php" timestamp="1534391462205" />
-      <file name="$USER_HOME$/Project/TonyChen-SH/doc/S_CSRF攻击.md" timestamp="1533454253704">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="C:/work-jooj/soa2/application/index/service/DeviceService.php" timestamp="1534400895889" />
       <file name="C:/work-jooj/soa2/composer.json" timestamp="1534390285314">
         <mark key="[" line="40" column="20" />
       </file>
-      <file name="C:/work-jooj/soa2/public/index.php" timestamp="1534384401229">
-        <mark key="[" line="0" column="4" />
-      </file>
-      <file name="/fragment.mm" timestamp="1504071121814">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/work-jooj/soa2/.gitignore" timestamp="1534328566369">
-        <mark key="[" line="4" column="25" />
-      </file>
       <file name="C:/work-jooj/soa2/application/index/controller/Coupons.php" timestamp="1534390043977" />
-      <file name="C:/work-jooj/soa2/application/index/controller/Oss.php" timestamp="1534387846712" />
       <file name="C:/work-jooj/soa2/application/database.php" timestamp="1534389096049">
         <mark key="[" line="98" column="37" />
         <mark key="]" line="12" column="0" />
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="C:/work-jooj/soa2/application/index/service/wechatprocess/WechatScanProcessorService.php" timestamp="1534400864000" />
+      <file name="C:/work-jooj/soa2/application/common/arvato/CommonCurl.php" timestamp="1534400340759" />
+      <file name="C:/work-jooj/soa2/application/common/model/jsm/Members.php" timestamp="1534390224706" />
+      <file name="C:/work-jooj/soa2/application/config.php" timestamp="1534385918472">
+        <mark key="[" line="25" column="30" />
+        <mark key="]" line="37" column="44" />
+        <mark key="^" line="37" column="44" />
+        <mark key="." line="37" column="44" />
+      </file>
+      <file name="C:/work-jooj/soa2/application/common/controller/AuthBase.php" timestamp="1534388286312" />
+      <file name="C:/work-jooj/soa2/application/index/service/ServiceService.php" timestamp="1534386187702" />
+      <file name="C:/work-jooj/soa2/application/common/behavior/ArvatoSendCheck.php" timestamp="1534390084859" />
+      <file name="C:/work-jooj/soa2/application/index/controller/Fans.php" timestamp="1534391415548" />
+      <file name="C:/work-jooj/soa2/thinkphp/library/think/cache/driver/Redis.php" timestamp="1534400678329" />
+      <file name="C:/work-jooj/soa2/application/lib/exception/ExceptionHandler.php" timestamp="1534391462205" />
+      <file name="C:/work-jooj/soa2/application/index/controller/Oss.php" timestamp="1534387846712" />
       <file name="C:/work-jooj/soa2/application/index/controller/Hexiao.php" timestamp="1534387651160" />
-      <file name="D:/Cpp/demo/src/Dynamic/Manager.cpp" timestamp="1504073422405">
-        <mark key="[" line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/cpp-demo/exam/clionCpp/CMakeLists.txt" timestamp="1510146833136">
-        <mark key="[" line="6" column="15" />
-        <mark key="]" line="6" column="15" />
-        <mark key="." line="6" column="15" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="18" column="2" filename="/media/psf/Home/Project/cpp-demo/src/Deque.cpp" />
