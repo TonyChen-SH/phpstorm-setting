@@ -3,40 +3,33 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/work-jooj/soa2/application/common/traits/ApiPost.php" timestamp="1534390715923" />
-      <file name="C:/work-jooj/soa2/thinkphp/library/think/cache/Driver.php" timestamp="1534400684648" />
-      <file name="C:/work-jooj/soa2/application/common/model/log/XcxApiLogs.php" timestamp="1534387496904" />
-      <file name="C:/work-jooj/soa2/application/index/service/DeviceService.php" timestamp="1534400895889" />
+      <file name="C:/work-jooj/xcxapi/application/common/service/mallSoa/MallService.php" timestamp="1534405942109" />
+      <file name="C:/work-jooj/xcxapi/application/common/service/HelperService.php" timestamp="1534406060709">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="C:/work-jooj/xcxapi/application/cron/controller/Dollmachine.php" timestamp="1534404252083">
+        <mark key="[" line="27" column="0" />
+      </file>
+      <file name="C:/work-jooj/xcxapi/application/api/controller/Hospital.php" timestamp="1534406140366" />
+      <file name="C:/work-jooj/xcxapi/application/common/service/Soa2/Soa2Service.php" timestamp="1534406552366" />
       <file name="C:/work-jooj/soa2/composer.json" timestamp="1534390285314">
         <mark key="[" line="40" column="20" />
       </file>
-      <file name="C:/work-jooj/soa2/application/index/controller/Coupons.php" timestamp="1534390043977" />
-      <file name="C:/work-jooj/xcxapi/application/common/controller/Base.php" timestamp="1534402646709" />
-      <file name="C:/work-jooj/soa2/application/database.php" timestamp="1534389096049">
-        <mark key="[" line="98" column="37" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="C:/work-jooj/xcxapi/application/common/controller/Base.php" timestamp="1534404557964">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
-      <file name="C:/work-jooj/soa2/application/index/service/wechatprocess/WechatScanProcessorService.php" timestamp="1534400864000" />
-      <file name="C:/work-jooj/soa2/application/common/arvato/CommonCurl.php" timestamp="1534400340759" />
-      <file name="C:/work-jooj/soa2/application/common/model/jsm/Members.php" timestamp="1534390224706" />
-      <file name="C:/work-jooj/soa2/application/config.php" timestamp="1534385918472">
-        <mark key="[" line="25" column="30" />
-        <mark key="]" line="37" column="44" />
-        <mark key="^" line="37" column="44" />
-        <mark key="." line="37" column="44" />
+      <file name="C:/work-jooj/xcxapi/thinkphp/helper.php" timestamp="1534405903124">
+        <mark key="[" line="796" column="8" />
       </file>
-      <file name="C:/work-jooj/soa2/application/common/controller/AuthBase.php" timestamp="1534388286312" />
-      <file name="C:/work-jooj/soa2/application/index/service/ServiceService.php" timestamp="1534386187702" />
-      <file name="C:/work-jooj/soa2/application/common/behavior/ArvatoSendCheck.php" timestamp="1534390084859" />
-      <file name="C:/work-jooj/soa2/application/index/controller/Fans.php" timestamp="1534391415548" />
-      <file name="C:/work-jooj/soa2/thinkphp/library/think/cache/driver/Redis.php" timestamp="1534400678329" />
-      <file name="C:/work-jooj/soa2/application/lib/exception/ExceptionHandler.php" timestamp="1534391462205" />
-      <file name="C:/work-jooj/soa2/application/index/controller/Oss.php" timestamp="1534387846712" />
-      <file name="C:/work-jooj/soa2/application/index/controller/Hexiao.php" timestamp="1534387651160" />
-      <file name="C:/work-jooj/xcxapi/application/api/controller/Shop.php" timestamp="1534403534371" />
-      <file name="C:/work-jooj/xcxapi/public/index.php" timestamp="1534401249672" />
+      <file name="C:/work-jooj/xcxapi/application/api/controller/Shop.php" timestamp="1534406443572">
+        <mark key="[" line="365" column="27" />
+        <mark key="]" line="365" column="27" />
+        <mark key="." line="365" column="27" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="18" column="2" filename="/media/psf/Home/Project/cpp-demo/src/Deque.cpp" />
@@ -49,48 +42,48 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>yum install -y php71w-process</text>
+        <text>validateRequestParam</text>
       </register>
       <register name="-" type="4">
-        <text>yum install -y php71w-process</text>
+        <text>validateRequestParam</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>为</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IENIQU5ORUxfSURfSU9TID0gODk7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIF9fY29uc3RydWN0KCkgewogICAgICAgIAogICAgfQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IENIQU5ORUxfSURfSU9TID0gODk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IENIQU5ORUxfSURfQU5EUk9JRCA9IDkxOwo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICRydWxlID0gWwogICAgICAgICAgICAidG9rZW4iID0+ICdyZXF1aXJlJywKICAgICAgICAgICAgIm9yZGVyX3NuIiA9PiAncmVxdWlyZScsCiAgICAgICAgXTsKICAgICAgICAkdmFsaWRhdGUgPSBuZXcgVmFsaWRhdGUoJHJ1bGUpOwogICAgICAgIGlmKCEkdmFsaWRhdGUtPmNoZWNrKCRwYXJhbSkpewogICAgICAgICAgICByZXR1cm4gJHRoaXMtPm91dHB1dChbXSwgJHZhbGlkYXRlLT5nZXRFcnJvcigpKTsKICAgICAgICB9</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBdOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkcnVsZSA9IFsKICAgICAgICAgICAgInRva2VuIiA9PiAncmVxdWlyZScsCiAgICAgICAgICAgICJvcmRlcl9zbiIgPT4gJ3JlcXVpcmUnLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkcGFyYW0gPSAkdGhpcy0+aW5wdXQoKTsK</text>
+      </register>
+      <register name="8" type="4">
         <text>到底想要什么样的内存分析：
 1. 多一个请求，可以算平均. 分析单个不具有代表性
 2. 可以看gc的状态分析
 3. 分析哪个地方的内存消耗最多
 4. 内存增长监控...是否有内存泄露??</text>
       </register>
-      <register name="2" type="4">
+      <register name="9" type="4">
         <text>异常捕获和标准错误是不是有冲突? 标准错误这样还有用么？？是不是要取消掉??标准输入是不是也该取消掉？在ProcessConfig里面取消掉。。如果暂时还没有想通怎么用好，那就先取消掉
   后面用用好的时候，再加入，以免造成使用上的困惑</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ci0gW3hdIOW8guW4uOS/oeaBr+eahOaXpeW/l+iusOW9Pw==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">IyMg5YaF5a2Y5L2/55So5YiG5p6QCj4g5L2/55SoW3hkZWJ1Zy1wcm9maWxlcigyLjYpXShodHRwczovL3hkZWJ1Zy5vcmcvZG9jcy9wcm9maWxlcinov5vooYzkvb/nlKjlhoXlrZjliIbmnpAKYGBgYmFzaAokIHBlY2wgaW5zdGFsbCB4ZGVidWcKYGBg</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgS0VZIGBsb2dfZHVuZ2Vvbl9zdGF0ZV9wbGF5ZXJfaWRfZHVuZ2Vvbl9pZF9pbmRleGAgKGBzdGF0ZWAsYHBsYXllcl9pZGAsYGR1bmdlb25faWRgKQ==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">Cl4KWmVuZC96ZW5kX3ZtX2V4ZWN1dGUuaDoyNDY5MjoyOiB3YXJuaW5nOiB1bnVzZWQgdmFyaWFibGUgJ29wbGluZScgWy1XdW51c2VkLXZhcmlhYmxlXQpVU0VfT1BMSU5FCl4KWmVuZC96ZW5kX3ZtX2V4ZWN1dGUuaDozOTM6MzY6IG5vdGU6IGV4cGFuZGVkIGZyb20gbWFjcm8gJ1VTRV9PUExJTkUnCiMgZGVmaW5lIFVTRV9PUExJTkUgY29uc3QgemVuZF9vcCAqb3BsaW5lID0gRVgob3BsaW5lKTsKXg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIk1hbmFnZXIuaCIK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIk1hbmFnZXIuaCIKI2luY2x1ZGUgIkVtcGxveWVlLmgiCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">YWRkX2V4ZWN1dGFibGUodGVtcGxhdGUgc3JjL1RlbXBsYXRlL3RwbC5jcHAgc3JjL1RlbXBsYXRlL0Jsb2IuaCBzcmMvVGVtcGxhdGUvQmxvYi5jcHAgc3JjL1RlbXBsYXRlL01heC5jcHAgc3JjL1RlbXBsYXRlL01heC5oKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
