@@ -22,6 +22,13 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="C:/work-jooj/soa2/application/index/service/wechatprocess/WechatSubscribeProcessorService.php" timestamp="1534498268732">
+        <mark key="'" line="29" column="43" />
+        <mark key="[" line="44" column="98" />
+        <mark key="]" line="44" column="97" />
+        <mark key="." line="44" column="97" />
+        <mark key="^" line="44" column="97" />
+      </file>
       <file name="C:/work-jooj/xcxapi/thinkphp/helper.php" timestamp="1534405903124">
         <mark key="[" line="796" column="8" />
       </file>
@@ -42,6 +49,10 @@
       <jump line="38" column="43" filename="/media/psf/Home/Project/leveldb/include/leveldb/status.h" />
       <jump line="12" column="10" filename="D:/Cpp/demo/src/Dynamic/Manager.h" />
       <jump line="9" column="0" filename="D:/Cpp/demo/src/Dynamic/Manager.h" />
+      <jump line="15" column="4" filename="C:/work-jooj/soa2/application/index/service/wechatprocess/WechatSubscribeProcessorService.php" />
+      <jump line="43" column="0" filename="C:/work-jooj/soa2/application/index/service/wechatprocess/WechatSubscribeProcessorService.php" />
+      <jump line="44" column="98" filename="C:/work-jooj/soa2/application/index/service/wechatprocess/WechatSubscribeProcessorService.php" />
+      <jump line="29" column="43" filename="C:/work-jooj/soa2/application/index/service/wechatprocess/WechatSubscribeProcessorService.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -188,6 +199,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
