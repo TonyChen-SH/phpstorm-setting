@@ -3,119 +3,43 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Cpp/PHP-CPP/Examples/simple/simple.cpp" timestamp="1503992779429">
-        <mark key="[" line="11" column="9" />
-        <mark key="]" line="11" column="11" />
-        <mark key="." line="11" column="9" />
-      </file>
-      <file name="$USER_HOME$/Project/cpp-demo/exam/clionCpp/charConvert.cpp" timestamp="1510148082068">
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="17" column="38" />
-        <mark key="^" line="17" column="38" />
-        <mark key="." line="17" column="38" />
-      </file>
-      <file name="D:/Cpp/demo/src/Dynamic/Company.cpp" timestamp="1504073538159">
-        <mark key="[" line="6" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1533470091623">
+      <file name="/Dummy.txt" timestamp="1534412401556">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/TonyChen-SH/doc/M_如何为一条SQL创建三星索引.md" timestamp="1533351096853">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="82" column="0" />
+      <file name="C:/work-jooj/soa2/composer.json" timestamp="1534495681871">
+        <mark key="[" line="29" column="32" />
       </file>
-      <file name="$USER_HOME$/Project/php/CMakeLists.txt" timestamp="1506685347870">
-        <mark key="[" line="1857" column="18" />
-        <mark key="]" line="1848" column="0" />
-        <mark key="." line="1848" column="0" />
-        <mark key="^" line="1848" column="0" />
+      <file name="C:/work-jooj/xcxapi/application/common/controller/Base.php" timestamp="1534404557964">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/TonyChen-SH/php-task/src/Utils/MemoryProfiler.php" timestamp="1533469847091">
-        <mark key="[" line="18" column="0" />
+      <file name="C:/work-jooj/xcxapi/application/common/service/HelperService.php" timestamp="1534406060709">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
-      <file name="D:/Cpp/demo/src/Dynamic/Company.h" timestamp="1504072604608">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="C:/work-jooj/soa2/application/index/service/wechatprocess/WechatSubscribeProcessorService.php" timestamp="1534498268732">
+        <mark key="'" line="29" column="43" />
+        <mark key="[" line="44" column="98" />
+        <mark key="]" line="44" column="97" />
+        <mark key="." line="44" column="97" />
+        <mark key="^" line="44" column="97" />
       </file>
-      <file name="D:/Cpp/demo/src/Dynamic/Programmer.h" timestamp="1504073428560">
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="12" column="16" />
-        <mark key="." line="12" column="16" />
+      <file name="C:/work-jooj/xcxapi/thinkphp/helper.php" timestamp="1534405903124">
+        <mark key="[" line="796" column="8" />
       </file>
-      <file name="D:/Cpp/demo/src/Dynamic/Programmer.cpp" timestamp="1504073046107">
-        <mark key="[" line="12" column="0" />
+      <file name="C:/work-jooj/xcxapi/application/cron/controller/Dollmachine.php" timestamp="1534485578704">
+        <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/TonyChen-SH/php-task/README.md" timestamp="1533471440062">
-        <mark key="[" line="1" column="20" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
+      <file name="C:/work-jooj/xcxapi/application/common/service/BaseService.php" timestamp="1534502547477" />
+      <file name="C:/work-jooj/xcxapi/application/api/controller/Shop.php" timestamp="1534406443572">
+        <mark key="[" line="365" column="27" />
+        <mark key="]" line="365" column="27" />
+        <mark key="." line="365" column="27" />
       </file>
-      <file name="D:/Cpp/demo/src/Dynamic/Employee.h" timestamp="1504071606156">
-        <mark key="[" line="6" column="0" />
-      </file>
-      <file name="/GDB" timestamp="1510147696751">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1504237257448">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/TonyChen-SH/doc/DesignPattern/M_如何为一条SQL创建三星索引.md" timestamp="1533345077973">
-        <mark key="[" line="9" column="6" />
-        <mark key="]" line="9" column="6" />
-        <mark key="." line="9" column="6" />
-        <mark key="^" line="9" column="6" />
-      </file>
-      <file name="D:/Cpp/PHP-CPP/include/array.h" timestamp="1499675006972">
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="18" column="20" />
-        <mark key="." line="18" column="20" />
-      </file>
-      <file name="$USER_HOME$/Downloads/www/mall/Application/Api/Controller/WeixinpayController.class.php" timestamp="1533741053519" />
-      <file name="$USER_HOME$/Downloads/www/mall/Application/Business/Conf/businessConfig.php" timestamp="1533741626277" />
-      <file name="D:/Cpp/PHP-CPP/CMakeLists.txt" timestamp="1503991174195">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/TonyChen-SH/db-profiler/src/Query/Query.php" timestamp="1533540224266">
-        <mark key="[" line="19" column="45" />
-        <mark key="]" line="19" column="45" />
-        <mark key="^" line="19" column="45" />
-        <mark key="." line="19" column="45" />
-      </file>
-      <file name="$USER_HOME$/Project/cpp-demo/exam/clionCpp/Person.cpp" timestamp="1510148360117">
-        <mark key="[" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/TonyChen-SH/doc/S_CSRF攻击.md" timestamp="1533454253704">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/cpp-demo/exam/clionCpp/CMakeLists.txt" timestamp="1510146833136">
-        <mark key="[" line="6" column="15" />
-        <mark key="]" line="6" column="15" />
-        <mark key="." line="6" column="15" />
-      </file>
-      <file name="D:/Cpp/PHP-CPP/phpcpp.h" timestamp="1503991104539">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/work-rog/rog-operation/log_new/start.sh" timestamp="1533622704065">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="/fragment.mm" timestamp="1504071121814">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/TonyChen-SH/doc/M_B-Tree索引.md" timestamp="1533367758792">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Cpp/demo/src/Dynamic/Manager.cpp" timestamp="1504073422405">
-        <mark key="[" line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/cpp-demo/exam/clionCpp/.gitignore" timestamp="1510144647713">
-        <mark key="[" line="2" column="0" />
+      <file name="C:/work-jooj/xcxapi/Demo.php" timestamp="1534415947456">
+        <mark key="[" line="14" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -126,51 +50,55 @@
       <jump line="38" column="43" filename="/media/psf/Home/Project/leveldb/include/leveldb/status.h" />
       <jump line="12" column="10" filename="D:/Cpp/demo/src/Dynamic/Manager.h" />
       <jump line="9" column="0" filename="D:/Cpp/demo/src/Dynamic/Manager.h" />
+      <jump line="15" column="4" filename="C:/work-jooj/soa2/application/index/service/wechatprocess/WechatSubscribeProcessorService.php" />
+      <jump line="43" column="0" filename="C:/work-jooj/soa2/application/index/service/wechatprocess/WechatSubscribeProcessorService.php" />
+      <jump line="44" column="98" filename="C:/work-jooj/soa2/application/index/service/wechatprocess/WechatSubscribeProcessorService.php" />
+      <jump line="29" column="43" filename="C:/work-jooj/soa2/application/index/service/wechatprocess/WechatSubscribeProcessorService.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>yum install -y php71w-process</text>
+        <text>validateRequestParam</text>
       </register>
       <register name="-" type="4">
-        <text>yum install -y php71w-process</text>
+        <text>validateRequestParam</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>为</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IENIQU5ORUxfSURfSU9TID0gODk7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIF9fY29uc3RydWN0KCkgewogICAgICAgIAogICAgfQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IENIQU5ORUxfSURfSU9TID0gODk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IENIQU5ORUxfSURfQU5EUk9JRCA9IDkxOwo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICRydWxlID0gWwogICAgICAgICAgICAidG9rZW4iID0+ICdyZXF1aXJlJywKICAgICAgICAgICAgIm9yZGVyX3NuIiA9PiAncmVxdWlyZScsCiAgICAgICAgXTsKICAgICAgICAkdmFsaWRhdGUgPSBuZXcgVmFsaWRhdGUoJHJ1bGUpOwogICAgICAgIGlmKCEkdmFsaWRhdGUtPmNoZWNrKCRwYXJhbSkpewogICAgICAgICAgICByZXR1cm4gJHRoaXMtPm91dHB1dChbXSwgJHZhbGlkYXRlLT5nZXRFcnJvcigpKTsKICAgICAgICB9</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBdOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkcnVsZSA9IFsKICAgICAgICAgICAgInRva2VuIiA9PiAncmVxdWlyZScsCiAgICAgICAgICAgICJvcmRlcl9zbiIgPT4gJ3JlcXVpcmUnLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkcGFyYW0gPSAkdGhpcy0+aW5wdXQoKTsK</text>
+      </register>
+      <register name="8" type="4">
         <text>到底想要什么样的内存分析：
 1. 多一个请求，可以算平均. 分析单个不具有代表性
 2. 可以看gc的状态分析
 3. 分析哪个地方的内存消耗最多
 4. 内存增长监控...是否有内存泄露??</text>
       </register>
-      <register name="2" type="4">
+      <register name="9" type="4">
         <text>异常捕获和标准错误是不是有冲突? 标准错误这样还有用么？？是不是要取消掉??标准输入是不是也该取消掉？在ProcessConfig里面取消掉。。如果暂时还没有想通怎么用好，那就先取消掉
   后面用用好的时候，再加入，以免造成使用上的困惑</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ci0gW3hdIOW8guW4uOS/oeaBr+eahOaXpeW/l+iusOW9lQ==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">IyMg5YaF5a2Y5L2/55So5YiG5p6QCj4g5L2/55SoW3hkZWJ1Zy1wcm9maWxlcigyLjYpXShodHRwczovL3hkZWJ1Zy5vcmcvZG9jcy9wcm9maWxlcinov5vooYzkvb/nlKjlhoXlrZjliIbmnpAKYGBgYmFzaAokIHBlY2wgaW5zdGFsbCB4ZGVidWcKYGBg</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgS0VZIGBsb2dfZHVuZ2Vvbl9zdGF0ZV9wbGF5ZXJfaWRfZHVuZ2Vvbl9pZF9pbmRleGAgKGBzdGF0ZWAsYHBsYXllcl9pZGAsYGR1bmdlb25faWRgKQ==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">Cl4KWmVuZC96ZW5kX3ZtX2V4ZWN1dGUuaDoyNDY5MjoyOiB3YXJuaW5nOiB1bnVzZWQgdmFyaWFibGUgJ29wbGluZScgWy1XdW51c2VkLXZhcmlhYmxlXQpVU0VfT1BMSU5FCl4KWmVuZC96ZW5kX3ZtX2V4ZWN1dGUuaDozOTM6MzY6IG5vdGU6IGV4cGFuZGVkIGZyb20gbWFjcm8gJ1VTRV9PUExJTkUnCiMgZGVmaW5lIFVTRV9PUExJTkUgY29uc3QgemVuZF9vcCAqb3BsaW5lID0gRVgob3BsaW5lKTsKXg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIk1hbmFnZXIuaCIK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIk1hbmFnZXIuaCIKI2luY2x1ZGUgIkVtcGxveWVlLmgiCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">YWRkX2V4ZWN1dGFibGUodGVtcGxhdGUgc3JjL1RlbXBsYXRlL3RwbC5jcHAgc3JjL1RlbXBsYXRlL0Jsb2IuaCBzcmMvVGVtcGxhdGUvQmxvYi5jcHAgc3JjL1RlbXBsYXRlL01heC5jcHAgc3JjL1RlbXBsYXRlL01heC5oKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -272,6 +200,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

@@ -2,13 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="gitignore_global.txt" type="Git file" />
-      <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="rsync_log_pw" type="PLAIN_TEXT" />
-      <mapping pattern="doingamekey" type="PLAIN_TEXT" />
-      <mapping pattern="S_xss攻击" type="PLAIN_TEXT" />
-      <mapping pattern="P_PHP自定义异常处理函数" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping ext="gmt" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
