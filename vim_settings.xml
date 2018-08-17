@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1534412401556">
+      <file name="/Dummy.txt" timestamp="1534503069178">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/work-jooj/soa2/composer.json" timestamp="1534495681871">
@@ -32,14 +32,19 @@
       <file name="C:/work-jooj/xcxapi/application/cron/controller/Dollmachine.php" timestamp="1534485578704">
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="C:/work-jooj/xcxapi/application/common/service/BaseService.php" timestamp="1534502547477" />
       <file name="C:/work-jooj/xcxapi/application/api/controller/Shop.php" timestamp="1534406443572">
         <mark key="[" line="365" column="27" />
         <mark key="]" line="365" column="27" />
         <mark key="." line="365" column="27" />
       </file>
+      <file name="C:/work-jooj/xcxapi/application/common/service/Captcha.php" timestamp="1534503121175" />
       <file name="C:/work-jooj/xcxapi/Demo.php" timestamp="1534415947456">
         <mark key="[" line="14" column="0" />
+      </file>
+      <file name="C:/work-jooj/xcxapi/application/common/utils/SingletonImpl.php" timestamp="1534503336848">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -57,7 +62,12 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>validateRequestParam</text>
+        <text>/**
+ * Created by PhpStorm.
+ * User: jooj
+ * Date: 2018/8/17
+ * Time: 18:51
+ */</text>
       </register>
       <register name="-" type="4">
         <text>validateRequestParam</text>
@@ -68,37 +78,41 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IENIQU5ORUxfSURfSU9TID0gODk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIF9fY29uc3RydWN0KCkgewogICAgICAgIAogICAgfQo=</text>
+      <register name="1" type="4">
+        <text>/**
+ * Created by PhpStorm.
+ * User: jooj
+ * Date: 2018/8/17
+ * Time: 18:51
+ */</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IENIQU5ORUxfSURfSU9TID0gODk7Cg==</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIF9fY29uc3RydWN0KCkgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IENIQU5ORUxfSURfSU9TID0gODk7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGNvbnN0IENIQU5ORUxfSURfQU5EUk9JRCA9IDkxOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICRydWxlID0gWwogICAgICAgICAgICAidG9rZW4iID0+ICdyZXF1aXJlJywKICAgICAgICAgICAgIm9yZGVyX3NuIiA9PiAncmVxdWlyZScsCiAgICAgICAgXTsKICAgICAgICAkdmFsaWRhdGUgPSBuZXcgVmFsaWRhdGUoJHJ1bGUpOwogICAgICAgIGlmKCEkdmFsaWRhdGUtPmNoZWNrKCRwYXJhbSkpewogICAgICAgICAgICByZXR1cm4gJHRoaXMtPm91dHB1dChbXSwgJHZhbGlkYXRlLT5nZXRFcnJvcigpKTsKICAgICAgICB9</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBdOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAkcnVsZSA9IFsKICAgICAgICAgICAgInRva2VuIiA9PiAncmVxdWlyZScsCiAgICAgICAgICAgICJvcmRlcl9zbiIgPT4gJ3JlcXVpcmUnLAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAkcGFyYW0gPSAkdGhpcy0+aW5wdXQoKTsK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>到底想要什么样的内存分析：
 1. 多一个请求，可以算平均. 分析单个不具有代表性
 2. 可以看gc的状态分析
 3. 分析哪个地方的内存消耗最多
 4. 内存增长监控...是否有内存泄露??</text>
-      </register>
-      <register name="9" type="4">
-        <text>异常捕获和标准错误是不是有冲突? 标准错误这样还有用么？？是不是要取消掉??标准输入是不是也该取消掉？在ProcessConfig里面取消掉。。如果暂时还没有想通怎么用好，那就先取消掉
-  后面用用好的时候，再加入，以免造成使用上的困惑</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
