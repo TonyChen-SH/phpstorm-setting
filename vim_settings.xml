@@ -6,16 +6,20 @@
       <file name="/Dummy.txt" timestamp="1534503069178">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/work-github/dev-env/files/php/Dockerfile" timestamp="1534654913689">
-        <mark key="[" line="8" column="34" />
+      <file name="C:/work-github/dev-env/files/php/Dockerfile" timestamp="1534730785814">
+        <mark key="[" line="42" column="8" />
       </file>
-      <file name="C:/work-jooj/soa2/composer.json" timestamp="1534495681871">
-        <mark key="[" line="29" column="32" />
-      </file>
-      <file name="C:/work-github/dev-env/files/docker-compose.yml" timestamp="1534654990096">
+      <file name="C:/work-github/dev-env/files/docker-compose.yml" timestamp="1534730927670">
         <mark key="[" line="3" column="18" />
         <mark key="]" line="3" column="18" />
         <mark key="." line="3" column="18" />
+      </file>
+      <file name="C:/work-github/dev-env/data/desktop.ini" timestamp="1534730935326" />
+      <file name="C:/work-jooj/xcxapi/Demo.php" timestamp="1534415947456">
+        <mark key="[" line="14" column="0" />
+      </file>
+      <file name="C:/work-jooj/soa2/composer.json" timestamp="1534495681871">
+        <mark key="[" line="29" column="32" />
       </file>
       <file name="C:/work-jooj/xcxapi/application/common/controller/Base.php" timestamp="1534404557964">
         <mark key="[" line="75" column="0" />
@@ -44,9 +48,6 @@
         <mark key="[" line="365" column="27" />
         <mark key="]" line="365" column="27" />
         <mark key="." line="365" column="27" />
-      </file>
-      <file name="C:/work-jooj/xcxapi/Demo.php" timestamp="1534415947456">
-        <mark key="[" line="14" column="0" />
       </file>
       <file name="C:/work-jooj/xcxapi/application/common/utils/SingletonImpl.php" timestamp="1534563426094">
         <mark key="[" line="0" column="0" />
