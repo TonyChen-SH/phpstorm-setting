@@ -21,6 +21,9 @@
       <file name="C:/work-github/dev-env/files/mysql/Dockerfile" timestamp="1534737746568">
         <mark key="[" line="1" column="31" />
       </file>
+      <file name="C:/work-jooj/xcxapi/dev/files/php/Dockerfile" timestamp="1534740801516">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/work-github/dev-env/data/desktop.ini" timestamp="1534730935326" />
       <file name="C:/work-jooj/xcxapi/Demo.php" timestamp="1534415947456">
         <mark key="[" line="14" column="0" />
@@ -32,16 +35,6 @@
       <file name="C:/work-github/dev-env/files/php/php-fpm.conf" timestamp="1534737796729" />
       <file name="C:/work-jooj/soa2/composer.json" timestamp="1534495681871">
         <mark key="[" line="29" column="32" />
-      </file>
-      <file name="C:/work-jooj/xcxapi/application/common/controller/Base.php" timestamp="1534404557964">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-      </file>
-      <file name="C:/work-jooj/xcxapi/application/common/service/HelperService.php" timestamp="1534406060709">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="C:/work-jooj/soa2/application/index/service/wechatprocess/WechatSubscribeProcessorService.php" timestamp="1534498268732">
         <mark key="'" line="29" column="43" />
@@ -58,11 +51,6 @@
         <mark key="[" line="11" column="0" />
       </file>
       <file name="C:/work-github/dev-env/files/mysql/conf.d/mysql-file.cnf" timestamp="1534734694006" />
-      <file name="C:/work-jooj/xcxapi/application/api/controller/Shop.php" timestamp="1534406443572">
-        <mark key="[" line="365" column="27" />
-        <mark key="]" line="365" column="27" />
-        <mark key="." line="365" column="27" />
-      </file>
       <file name="C:/work-github/dev-env/files/nginx/Dockerfile" timestamp="1534732010198">
         <mark key="[" line="1" column="31" />
       </file>
