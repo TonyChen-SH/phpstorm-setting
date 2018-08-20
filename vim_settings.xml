@@ -9,7 +9,7 @@
       <file name="/Dummy.txt" timestamp="1534733032736">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/work-jooj/xcxapi/composer.json" timestamp="1534744350483">
+      <file name="C:/work-jooj/xcxapi/composer.json" timestamp="1534748206882">
         <mark key="[" line="22" column="7" />
       </file>
       <file name="C:/work-github/dev-env/files/docker-compose.yml" timestamp="1534732528043">
@@ -23,7 +23,7 @@
       <file name="C:/work-github/dev-env/files/mysql/Dockerfile" timestamp="1534737746568">
         <mark key="[" line="1" column="31" />
       </file>
-      <file name="C:/work-jooj/xcxapi/dev/files/php/Dockerfile" timestamp="1534743252454">
+      <file name="C:/work-jooj/xcxapi/dev/files/php/Dockerfile" timestamp="1534748265916">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
@@ -33,6 +33,11 @@
       </file>
       <file name="C:/work-github/dev-env/files/redis/Dockerfile" timestamp="1534737813856">
         <mark key="[" line="1" column="31" />
+      </file>
+      <file name="C:/work-jooj/xcxapi/dev/files/docker-compose.yml" timestamp="1534749058817">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
       </file>
       <file name="C:/work-jooj/soa2/composer.json" timestamp="1534495681871">
         <mark key="[" line="29" column="32" />
@@ -81,11 +86,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text># clean file
-RUN rm -f /home/redis.tgz</text>
+        <text>edis:alpine</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICYmIGVjaG8gImV4dGVuc2lvbj1yZWRpcy5zbyIgPiAvdXNyL2xvY2FsL2V0Yy9waHAvY29uZi5kL3JlZGlzLmluaQ==</text>
+        <text>edis:alpine</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRcPg==</text>
@@ -94,20 +98,23 @@ RUN rm -f /home/redis.tgz</text>
         <text encoding="base64">ICAgIGNvbnN0IENIQU5ORUxfSURfSU9TID0gODk7Cg==</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">ICByZWRpczoKICAgIGltYWdlOiAicmVkaXM6YWxwaW5lIg==</text>
+      </register>
+      <register name="2" type="4">
         <text># clean file
 RUN rm -f /home/redis.tgz</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CiNDT1BZIC4vcGtnL2NwaGFsY29uLnRhci5neiAvaG9tZS9jcGhhbGNvbi50YXIuZ3o=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text># Write Permission
 RUN usermod -u 1000 www-datas</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiMgSW5zdGFsbCBQaGFsY29uIGV4dGVuc2lvbnMKI1JVTiBjZCAvaG9tZSBcCiMgICAgJiYgdGFyIC16eHZmIGNwaGFsY29uLnRhci5neiBcCiMgICAgJiYgbXYgY3BoYWxjb24tKiBwaGFsY29uIFwKIyAgICAmJiBjZCBwaGFsY29uL2J1aWxkIFwKIyAgICAmJiAuL2luc3RhbGwgXAojICAgICYmIGVjaG8gImV4dGVuc2lvbj1waGFsY29uLnNvIiA+IC91c3IvbG9jYWwvZXRjL3BocC9jb25mLmQvcGhhbGNvbi5pbmk=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>**
  * Created by PhpStorm.
  * User: jooj
@@ -115,7 +122,7 @@ RUN usermod -u 1000 www-datas</text>
  * Time: 10:44
  *</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>/**
  * Created by PhpStorm.
  * User: jooj
@@ -123,14 +130,11 @@ RUN usermod -u 1000 www-datas</text>
  * Time: 18:51
  */</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGZ1bmN0aW9uIF9fY29uc3RydWN0KCkgewogICAgICAgIAogICAgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IENIQU5ORUxfSURfSU9TID0gODk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IENIQU5ORUxfSURfQU5EUk9JRCA9IDkxOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IENIQU5ORUxfSURfSU9TID0gODk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
