@@ -6,7 +6,7 @@
       <file name="C:/work-github/dev-env/files/php/Dockerfile" timestamp="1534742380527">
         <mark key="[" line="42" column="8" />
       </file>
-      <file name="C:/work-jooj/xcxapi/composer.json" timestamp="1534748206882">
+      <file name="C:/work-jooj/xcxapi/composer.json" timestamp="1534759371715">
         <mark key="[" line="22" column="7" />
       </file>
       <file name="C:/work-jooj/soa2/application/common/arvato/CommonCurl.php" timestamp="1534750424645" />
@@ -47,13 +47,13 @@
         <mark key="^" line="12" column="0" />
       </file>
       <file name="C:/work-jooj/soa2/application/common/service/HeXiaoService.php" timestamp="1534749699823" />
-      <file name="C:/work-jooj/soa2/application/common/service/Doctor/CyApi.php" timestamp="1534757918671">
-        <mark key="a" line="161" column="31" />
-        <mark key="x" line="179" column="57" />
-        <mark key="[" line="149" column="9" />
-        <mark key="]" line="149" column="9" />
-        <mark key="^" line="32" column="63" />
-        <mark key="." line="149" column="9" />
+      <file name="C:/work-jooj/soa2/application/common/service/Doctor/CyApi.php" timestamp="1534758951915">
+        <mark key="a" line="174" column="31" />
+        <mark key="x" line="192" column="57" />
+        <mark key="[" line="28" column="9" />
+        <mark key="]" line="28" column="9" />
+        <mark key="^" line="45" column="63" />
+        <mark key="." line="28" column="9" />
       </file>
       <file name="/Dummy.txt" timestamp="1534750743506">
         <mark key="[" line="0" column="0" />
@@ -71,12 +71,13 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="C:/work-jooj/soa2/application/common/utils/SingletonImpl.php" timestamp="1534759121892" />
       <file name="C:/work-jooj/soa2/application/common/utils/Httpie.php" timestamp="1534750816197">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="C:/work-jooj/soa2/composer.json" timestamp="1534750934570">
+      <file name="C:/work-jooj/soa2/composer.json" timestamp="1534759250523">
         <mark key="[" line="18" column="24" />
       </file>
       <file name="C:/work-jooj/xcxapi/thinkphp/helper.php" timestamp="1534405903124">
@@ -98,7 +99,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgJ2xhc3RfY29udGVudF9pZCcgPT4gJycsICAvLyDX7rrz0ru49rvYuLSx4LrFLLvht7W72Mv509C089PatMux4LrFtcS72Li0wdCx7Q==</text>
+        <text encoding="base64">ICAgJ2NvdW50JyAgICAgPT4gJycsIC8vIMO/tM7IobXEzsrM4sr9LNfutPMyMDAKICAgICAgICAgICAgJ3Byb3ZpbmNlJyAgPT4gJycsIC8vIMqht90KICAgICAgICAgICAgJ2NpdHknICAgICAgPT4gMSAgIC8vILPHytA=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgJ2xhc3RfY29udGVudF9pZCcgPT4gJycsICAvLyDX7rrz0ru49rvYuLSx4LrFLLvht7W72Mv509C089PatMux4LrFtcS72Li0wdCx7Q==</text>
@@ -110,24 +111,27 @@
         <text encoding="base64">ICAgIGNvbnN0IENIQU5ORUxfSURfSU9TID0gODk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">J2Fzc2Vzc19pbmZvJyA9PiBbJ2xldmVsJyA9PiBzZWxmOjpBU1NFU1NfTEVWRUxfQkVTVCwgJ3RhZ19rZXlzJyA9PiAnJ10sICAvLyDGwLzb0MXPogogICAgICAgICAgICAnY29udGVudCcgICAgID0+ICcnICAvLyDXt7zTxNrI3Q==</text>
+        <text encoding="base64">ICAgJ2NvdW50JyAgICAgPT4gJycsIC8vIMO/tM7IobXEzsrM4sr9LNfutPMyMDAKICAgICAgICAgICAgJ3Byb3ZpbmNlJyAgPT4gJycsIC8vIMqht90KICAgICAgICAgICAgJ2NpdHknICAgICAgPT4gMSAgIC8vILPHytA=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAnY29udGVudCcgICAgICAgICAgPT4gMSwgICAvLyDK17TOzOHOysTayN0KICAgICAgICAgICAgJ3BhcnRuZXJfb3JkZXJfaWQnID0+IDExMSwgLy8gus/X97e91qe4tklELNDo0qrKx86o0rux6sq2tcTWp7PW19bEuNPryv3X1tfpus8KICAgICAgICAgICAgJ3ByaWNlJyAgICAgICAgICAgID0+IDExLCAvLyC2qbWlvNu48Sy1pc67zqq31g==</text>
+        <text encoding="base64">J2Fzc2Vzc19pbmZvJyA9PiBbJ2xldmVsJyA9PiBzZWxmOjpBU1NFU1NfTEVWRUxfQkVTVCwgJ3RhZ19rZXlzJyA9PiAnJ10sICAvLyDGwLzb0MXPogogICAgICAgICAgICAnY29udGVudCcgICAgID0+ICcnICAvLyDXt7zTxNrI3Q==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgJ2NvdW50JyAgICAgPT4gJycsIC8vIMO/tM7IobXEzsrM4sr9LNfutPMyMDAKICAgICAgICAgICAgJ3Byb3ZpbmNlJyAgPT4gJycsIC8vIMqht90KICAgICAgICAgICAgJ2NpdHknICAgICAgPT4gMSAgIC8vILPHytA=</text>
+        <text encoding="base64">ICAnY29udGVudCcgICAgICAgICAgPT4gMSwgICAvLyDK17TOzOHOysTayN0KICAgICAgICAgICAgJ3BhcnRuZXJfb3JkZXJfaWQnID0+IDExMSwgLy8gus/X97e91qe4tklELNDo0qrKx86o0rux6sq2tcTWp7PW19bEuNPryv3X1tfpus8KICAgICAgICAgICAgJ3ByaWNlJyAgICAgICAgICAgID0+IDExLCAvLyC2qbWlvNu48Sy1pc67zqq31g==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAvLyC3tbvYss7K/QogICAgICAgIC8vICB7CiAgICAgICAgLy8gICAiZG9jdG9ycyI6W3sKICAgICAgICAvLyAgICAgICAgICJjbGluaWNfbmFtZSI6ICIiLAogICAgICAgIC8vICAgICAgICAgImdvb2RfYXQiOiAiIiwKICAgICAgICAvLyAgICAgICAgICJob3NwaXRhbF9uYW1lIjogIiIsCiAgICAgICAgLy8gICAgICAgICAiaWQiOiAiIiwKICAgICAgICAvLyAgICAgICAgICJpbWFnZSI6ICIiLAogICAgICAgIC8vICAgICAgICAgIm5hbWUiOiAiIiwKICAgICAgICAvLyAgICAgICAgICJwcmljZSI6ICIiLAogICAgICAgIC8vICAgICAgICAgInB1cmNoYXNlX251bSI6ICIiLAogICAgICAgIC8vICAgICAgICAgInRpdGxlIjogIiIKICAgICAgICAvLyAgICAgICB9XQogICAgICAgIC8vICAgImVycm9yIjogMCwgLy8gMCC0+rHts8m5pizG5Mv8ILT6se3S7LOjCiAgICAgICAgLy8gICAiZXJyb3JfbXNnIjogIiIgLy+07c7z0MXPogogICAgICAgIC8vIH0=</text>
+        <text encoding="base64">ICAgICAgICAgJ2NvdW50JyAgICAgPT4gJycsIC8vIMO/tM7IobXEzsrM4sr9LNfutPMyMDAKICAgICAgICAgICAgJ3Byb3ZpbmNlJyAgPT4gJycsIC8vIMqht90KICAgICAgICAgICAgJ2NpdHknICAgICAgPT4gMSAgIC8vILPHytA=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICdzaWduJyAgICAgID0+IDEs</text>
+        <text encoding="base64">ICAgICAgICAvLyC3tbvYss7K/QogICAgICAgIC8vICB7CiAgICAgICAgLy8gICAiZG9jdG9ycyI6W3sKICAgICAgICAvLyAgICAgICAgICJjbGluaWNfbmFtZSI6ICIiLAogICAgICAgIC8vICAgICAgICAgImdvb2RfYXQiOiAiIiwKICAgICAgICAvLyAgICAgICAgICJob3NwaXRhbF9uYW1lIjogIiIsCiAgICAgICAgLy8gICAgICAgICAiaWQiOiAiIiwKICAgICAgICAvLyAgICAgICAgICJpbWFnZSI6ICIiLAogICAgICAgIC8vICAgICAgICAgIm5hbWUiOiAiIiwKICAgICAgICAvLyAgICAgICAgICJwcmljZSI6ICIiLAogICAgICAgIC8vICAgICAgICAgInB1cmNoYXNlX251bSI6ICIiLAogICAgICAgIC8vICAgICAgICAgInRpdGxlIjogIiIKICAgICAgICAvLyAgICAgICB9XQogICAgICAgIC8vICAgImVycm9yIjogMCwgLy8gMCC0+rHts8m5pizG5Mv8ILT6se3S7LOjCiAgICAgICAgLy8gICAiZXJyb3JfbXNnIjogIiIgLy+07c7z0MXPogogICAgICAgIC8vIH0=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICdzaWduJz0+JycsCiAgICAgICAgICAgICdzaWduJz0+JycsCiAgICAgICAgICAgICdzaWduJz0+JycsCiAgICAgICAgICAgICdzaWduJz0+Jycs</text>
+        <text encoding="base64">CiAgICAgICAgICAgICdzaWduJyAgICAgID0+IDEs</text>
       </register>
       <register name="7" type="4">
+        <text encoding="base64">ICdzaWduJz0+JycsCiAgICAgICAgICAgICdzaWduJz0+JycsCiAgICAgICAgICAgICdzaWduJz0+JycsCiAgICAgICAgICAgICdzaWduJz0+Jycs</text>
+      </register>
+      <register name="8" type="4">
         <text>/**
  * Created by PhpStorm.
  * User: jooj
@@ -135,11 +139,8 @@
  * Time: 15:39
  */</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzZXRvcHQoJGtleSwgJHZhbHVlKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgSHR0cGllCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzZXRvcHQoJGtleSwgJHZhbHVlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
