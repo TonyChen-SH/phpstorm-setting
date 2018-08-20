@@ -47,13 +47,13 @@
         <mark key="^" line="12" column="0" />
       </file>
       <file name="C:/work-jooj/soa2/application/common/service/HeXiaoService.php" timestamp="1534749699823" />
-      <file name="C:/work-jooj/soa2/application/common/service/Doctor/CyApi.php" timestamp="1534756841543">
-        <mark key="a" line="149" column="31" />
-        <mark key="x" line="167" column="57" />
-        <mark key="[" line="176" column="4" />
-        <mark key="]" line="176" column="4" />
+      <file name="C:/work-jooj/soa2/application/common/service/Doctor/CyApi.php" timestamp="1534757918671">
+        <mark key="a" line="161" column="31" />
+        <mark key="x" line="179" column="57" />
+        <mark key="[" line="149" column="9" />
+        <mark key="]" line="149" column="9" />
         <mark key="^" line="32" column="63" />
-        <mark key="." line="176" column="4" />
+        <mark key="." line="149" column="9" />
       </file>
       <file name="/Dummy.txt" timestamp="1534750743506">
         <mark key="[" line="0" column="0" />
@@ -98,10 +98,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>public</text>
+        <text encoding="base64">ICAgJ2xhc3RfY29udGVudF9pZCcgPT4gJycsICAvLyDX7rrz0ru49rvYuLSx4LrFLLvht7W72Mv509C089PatMux4LrFtcS72Li0wdCx7Q==</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text encoding="base64">ICAgJ2xhc3RfY29udGVudF9pZCcgPT4gJycsICAvLyDX7rrz0ru49rvYuLSx4LrFLLvht7W72Mv509C089PatMux4LrFtcS72Li0wdCx7Q==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRcPg==</text>
