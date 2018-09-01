@@ -107,6 +107,7 @@
     <option name="SHOW_SNIFF_NAMES" value="true" />
   </inspection_tool>
   <inspection_tool class="PhpDivisionByZeroInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpDocMissingThrowsInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpIllegalPsrClassPathInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpMethodOrClassCallIsNotCaseSensitiveInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpMissingParentCallCommonInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
@@ -127,6 +128,7 @@
         <option value="behat/behat" />
         <option value="brianium/paratest" />
         <option value="codeception/codeception" />
+        <option value="codedungeon/phpunit-result-printer" />
         <option value="composer/composer" />
         <option value="filp/whoops" />
         <option value="friendsofphp/php-cs-fixer" />
@@ -155,6 +157,7 @@
         <option value="satooshi/php-coveralls" />
         <option value="sebastian/phpcpd" />
         <option value="slevomat/coding-standard" />
+        <option value="spatie/phpunit-watcher" />
         <option value="squizlabs/php_codesniffer" />
         <option value="sstalle/php7cc" />
         <option value="symfony/debug" />
