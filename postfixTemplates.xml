@@ -1,0 +1,8 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="push@userDefined" key=".push" provider="builtin.php" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+</application>
