@@ -54,6 +54,12 @@
         <mark key="]" line="365" column="27" />
         <mark key="." line="365" column="27" />
       </file>
+      <file name="$USER_HOME$/Downloads/文鑫需求资料/mall/index.php" timestamp="1537372126708">
+        <mark key="[" line="35" column="1" />
+      </file>
+      <file name="$USER_HOME$/Downloads/文鑫需求资料/mall/Application/Common/Services/RegionServices.class.php" timestamp="1537372280622">
+        <mark key="[" line="31" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="18" column="2" filename="/media/psf/Home/Project/cpp-demo/src/Deque.cpp" />
