@@ -489,6 +489,20 @@
             <configuration_option name="pcre.backtrack_limit" value="1000000" />
             <configuration_option name="pcre.jit" value="1" />
             <configuration_option name="pcre.recursion_limit" value="100000" />
+            <configuration_option name="phalcon.db.escape_identifiers" value="1" />
+            <configuration_option name="phalcon.db.force_casting" value="0" />
+            <configuration_option name="phalcon.orm.cast_on_hydrate" value="0" />
+            <configuration_option name="phalcon.orm.column_renaming" value="1" />
+            <configuration_option name="phalcon.orm.disable_assign_setters" value="0" />
+            <configuration_option name="phalcon.orm.enable_implicit_joins" value="1" />
+            <configuration_option name="phalcon.orm.enable_literals" value="1" />
+            <configuration_option name="phalcon.orm.events" value="1" />
+            <configuration_option name="phalcon.orm.exception_on_failed_save" value="0" />
+            <configuration_option name="phalcon.orm.ignore_unknown_columns" value="0" />
+            <configuration_option name="phalcon.orm.late_state_binding" value="0" />
+            <configuration_option name="phalcon.orm.not_null_validations" value="1" />
+            <configuration_option name="phalcon.orm.update_snapshot_on_save" value="1" />
+            <configuration_option name="phalcon.orm.virtual_foreign_keys" value="1" />
             <configuration_option name="phar.cache_list" value="" />
             <configuration_option name="phar.readonly" value="1" />
             <configuration_option name="phar.require_hash" value="1" />
@@ -618,7 +632,7 @@
             <configuration_option name="xdebug.remote_enable" value="0" />
             <configuration_option name="xdebug.remote_handler" value="dbgp" />
             <configuration_option name="xdebug.remote_host" value="127.0.0.1" />
-            <configuration_option name="xdebug.remote_log" value="" />
+            <configuration_option name="xdebug.remote_log" value="C:\phpStudy\PHPTutorial\tmp\xdebug\log.txt" />
             <configuration_option name="xdebug.remote_mode" value="req" />
             <configuration_option name="xdebug.remote_port" value="9008" />
             <configuration_option name="xdebug.remote_timeout" value="200" />
@@ -680,6 +694,7 @@
             <extension name="pcre" />
             <extension name="pdo_mysql" />
             <extension name="pdo_sqlite" />
+            <extension name="phalcon" />
             <extension name="readline" />
             <extension name="redis" />
             <extension name="session" />
