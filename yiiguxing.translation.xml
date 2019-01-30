@@ -1,0 +1,15 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="新的类" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="translator" value="ai.youdao" />
+  </component>
+</application>
