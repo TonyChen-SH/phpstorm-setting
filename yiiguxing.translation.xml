@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="目的地" />
+      <item value="计算" />
       <item value="可用" />
       <item value="足够" />
       <item value="remained" />
