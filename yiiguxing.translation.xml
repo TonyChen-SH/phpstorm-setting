@@ -1,15 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SHIPPING" />
+      <item value="已购买" />
+      <item value="百度" />
       <item value="新的类" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
-  </component>
-  <component name="Settings">
-    <option name="translator" value="ai.youdao" />
   </component>
 </application>
