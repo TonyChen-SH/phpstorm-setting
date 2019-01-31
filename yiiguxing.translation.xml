@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="可用" />
+      <item value="足够" />
       <item value="remained" />
       <item value="remain" />
       <item value="剩余" />
@@ -16,7 +18,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
