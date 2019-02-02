@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="处理订单" />
       <item value="Subscriber" />
       <item value="processing order" />
       <item value="process order" />
-      <item value="处理订单" />
       <item value="successful" />
       <item value="成功的" />
       <item value="全局" />
@@ -28,7 +28,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="ENGLISH" value="5" />
       </map>
     </option>
   </component>
