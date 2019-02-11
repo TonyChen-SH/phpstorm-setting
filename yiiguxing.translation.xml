@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="退款" />
+      <item value="退还" />
       <item value="支付金额" />
       <item value="amount" />
       <item value="小于" />
