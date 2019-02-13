@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="owner" />
+      <item value="ownner" />
       <item value="stock" />
       <item value="缓存有效期" />
       <item value="有效期" />
