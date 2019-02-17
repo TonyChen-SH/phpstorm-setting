@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="审核" />
+      <item value="refuse" />
+      <item value="拒绝" />
+      <item value="决绝" />
+      <item value="apply" />
+      <item value="申请" />
+      <item value="通过" />
+      <item value="审核同意" />
+      <item value="审核通过" />
       <item value="单价" />
       <item value="无效" />
       <item value="suspend" />
@@ -42,20 +51,11 @@
       <item value="购物车" />
       <item value="目的地" />
       <item value="计算" />
-      <item value="可用" />
-      <item value="足够" />
-      <item value="remained" />
-      <item value="remain" />
-      <item value="剩余" />
-      <item value="剩余数量" />
-      <item value="固定数量" />
-      <item value="无限" />
-      <item value="不限制" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="14" />
       </map>
     </option>
   </component>
