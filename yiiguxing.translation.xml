@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="revert" />
       <item value="加减" />
       <item value="Consume" />
       <item value="decrease" />
@@ -50,11 +51,10 @@
       <item value="目的地" />
       <item value="计算" />
       <item value="可用" />
-      <item value="足够" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
+        <entry key="CHINESE" value="15" />
         <entry key="ENGLISH" value="15" />
       </map>
     </option>
