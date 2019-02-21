@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="extend" />
+      <item value="ext" />
+      <item value="extract" />
+      <item value="etract" />
+      <item value="扩展" />
       <item value="consume" />
       <item value="消耗" />
       <item value="退款" />
@@ -46,16 +51,11 @@
       <item value="扣除积分" />
       <item value="Property" />
       <item value="Propertity" />
-      <item value="Properties" />
-      <item value="Propertied" />
-      <item value="Propertities" />
-      <item value="partially" />
-      <item value="资源" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="17" />
+        <entry key="ENGLISH" value="17" />
       </map>
     </option>
   </component>
