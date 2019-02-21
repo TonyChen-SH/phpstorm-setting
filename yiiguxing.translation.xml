@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="退款" />
       <item value="scene" />
       <item value="checkin" />
       <item value="revert" />
@@ -31,7 +32,6 @@
       <item value="固定值" />
       <item value="enable" />
       <item value="开启" />
-      <item value="退款" />
       <item value="退还" />
       <item value="支付金额" />
       <item value="amount" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="ENGLISH" value="16" />
       </map>
     </option>
   </component>
