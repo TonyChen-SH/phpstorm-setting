@@ -1,16 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="同意" />
-      <item value="审核" />
-      <item value="refuse" />
-      <item value="拒绝" />
-      <item value="决绝" />
-      <item value="apply" />
-      <item value="申请" />
-      <item value="通过" />
-      <item value="审核同意" />
-      <item value="审核通过" />
+      <item value="extend" />
+      <item value="ext" />
+      <item value="extract" />
+      <item value="etract" />
+      <item value="扩展" />
+      <item value="consume" />
+      <item value="消耗" />
+      <item value="退款" />
+      <item value="scene" />
+      <item value="checkin" />
+      <item value="revert" />
+      <item value="加减" />
+      <item value="Consume" />
+      <item value="decrease" />
+      <item value="减少" />
+      <item value="较少" />
+      <item value="增加" />
+      <item value="incr" />
+      <item value="结构" />
       <item value="单价" />
       <item value="无效" />
       <item value="suspend" />
@@ -30,7 +39,6 @@
       <item value="固定值" />
       <item value="enable" />
       <item value="开启" />
-      <item value="退款" />
       <item value="退还" />
       <item value="支付金额" />
       <item value="amount" />
@@ -38,24 +46,16 @@
       <item value="subtract" />
       <item value="减去" />
       <item value="减去‘" />
-      <item value="减少" />
       <item value="减" />
       <item value="sub" />
       <item value="扣除积分" />
       <item value="Property" />
       <item value="Propertity" />
-      <item value="Properties" />
-      <item value="Propertied" />
-      <item value="Propertities" />
-      <item value="partially" />
-      <item value="资源" />
-      <item value="购物车" />
-      <item value="目的地" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE" value="17" />
+        <entry key="ENGLISH" value="17" />
       </map>
     </option>
   </component>
