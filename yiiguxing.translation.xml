@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="重复处理订单" />
+      <item value="handle" />
+      <item value="处理" />
       <item value="extend" />
       <item value="ext" />
       <item value="extract" />
@@ -31,7 +34,6 @@
       <item value="缓存有效期" />
       <item value="有效期" />
       <item value="destination" />
-      <item value="处理" />
       <item value="结束" />
       <item value="finish" />
       <item value="完成" />
@@ -49,13 +51,11 @@
       <item value="减" />
       <item value="sub" />
       <item value="扣除积分" />
-      <item value="Property" />
-      <item value="Propertity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="19" />
       </map>
     </option>
   </component>
