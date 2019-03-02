@@ -76,6 +76,7 @@
   </action>
   <action id="InspectCode">
     <keyboard-shortcut first-keystroke="shift alt i" />
+    <keyboard-shortcut first-keystroke="alt i" />
   </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
