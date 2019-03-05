@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="价值现金" />
+      <item value="现金价值" />
       <item value="积分中心" />
       <item value="简介" />
       <item value="util" />
@@ -49,8 +51,6 @@
       <item value="有效期" />
       <item value="destination" />
       <item value="结束" />
-      <item value="finish" />
-      <item value="完成" />
     </histories>
     <option name="languageScores">
       <map>
