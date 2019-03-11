@@ -82,8 +82,12 @@
     <keyboard-shortcut first-keystroke="shift alt i" />
     <keyboard-shortcut first-keystroke="alt i" />
   </action>
-  <action id="MethodDown" />
-  <action id="MethodUp" />
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="alt page_down" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="alt page_up" />
+  </action>
   <action id="MoveLineDown" />
   <action id="MoveLineUp" />
   <action id="NewElement">
@@ -144,6 +148,7 @@
   </action>
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="ctrl alt u" />
+    <keyboard-shortcut first-keystroke="shift alt g" />
   </action>
   <action id="SmartStepInto">
     <keyboard-shortcut first-keystroke="shift alt f11" />
@@ -165,6 +170,10 @@
   </action>
   <action id="Stop">
     <keyboard-shortcut first-keystroke="shift f5" />
+  </action>
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
+    <keyboard-shortcut first-keystroke="shift t" />
   </action>
   <action id="TabShiftActions.StretchDown">
     <keyboard-shortcut first-keystroke="shift alt down" />
@@ -209,4 +218,5 @@
   <action id="de.netnexus.CamelCasePlugin.ToggleCamelCase">
     <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
+  <action id="hg4idea.QGotoFromPatches" />
 </keymap>
