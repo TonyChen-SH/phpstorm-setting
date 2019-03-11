@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dispatch" />
+      <item value="调度" />
+      <item value="Schedule" />
+      <item value="第三方调度" />
+      <item value="第三方" />
+      <item value="open" />
       <item value="多个" />
       <item value="destroy" />
       <item value="destory" />
@@ -45,17 +51,11 @@
       <item value="扩展" />
       <item value="consume" />
       <item value="消耗" />
-      <item value="退款" />
-      <item value="scene" />
-      <item value="checkin" />
-      <item value="revert" />
-      <item value="加减" />
-      <item value="Consume" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="CHINESE" value="31" />
+        <entry key="ENGLISH" value="31" />
       </map>
     </option>
   </component>
