@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="centre" />
+      <item value="CENTRE" />
+      <item value="CENTER" />
       <item value="过滤" />
       <item value="final" />
       <item value="最终" />
@@ -48,13 +51,10 @@
       <item value="减少" />
       <item value="较少" />
       <item value="增加" />
-      <item value="incr" />
-      <item value="结构" />
-      <item value="单价" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="26" />
+        <entry key="CHINESE" value="27" />
         <entry key="ENGLISH" value="27" />
       </map>
     </option>
