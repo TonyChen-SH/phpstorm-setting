@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="destroy" />
+      <item value="destory" />
+      <item value="destoty" />
       <item value="centre" />
       <item value="CENTRE" />
       <item value="CENTER" />
@@ -48,9 +51,6 @@
       <item value="加减" />
       <item value="Consume" />
       <item value="decrease" />
-      <item value="减少" />
-      <item value="较少" />
-      <item value="增加" />
     </histories>
     <option name="languageScores">
       <map>
