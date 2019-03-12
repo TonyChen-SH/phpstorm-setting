@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="handle" />
+      <item value="hand" />
+      <item value="handler" />
+      <item value="状态处理器" />
+      <item value="处理器" />
+      <item value="state" />
+      <item value="发货" />
       <item value="扩展" />
       <item value="unique mark" />
       <item value="标识" />
@@ -44,18 +51,11 @@
       <item value="主题" />
       <item value="without" />
       <item value="qualified" />
-      <item value="重复处理订单" />
-      <item value="handle" />
-      <item value="处理" />
-      <item value="extend" />
-      <item value="ext" />
-      <item value="extract" />
-      <item value="etract" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="34" />
       </map>
     </option>
   </component>
