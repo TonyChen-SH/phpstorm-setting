@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="扩展" />
       <item value="unique mark" />
       <item value="标识" />
       <item value="dispatch" />
@@ -50,12 +51,11 @@
       <item value="ext" />
       <item value="extract" />
       <item value="etract" />
-      <item value="扩展" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="32" />
+        <entry key="ENGLISH" value="33" />
       </map>
     </option>
   </component>
