@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="valid" />
+      <item value="有效" />
+      <item value="有效的" />
+      <item value="great than" />
+      <item value="大于" />
       <item value="冲突" />
       <item value="Shipping" />
       <item value="handle" />
@@ -46,16 +51,11 @@
       <item value="notifier" />
       <item value="notify" />
       <item value="通知者" />
-      <item value="不需要" />
-      <item value="abbreviation" />
-      <item value="subject" />
-      <item value="主体" />
-      <item value="主题" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="35" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="36" />
       </map>
     </option>
   </component>
