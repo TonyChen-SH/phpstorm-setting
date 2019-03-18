@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SITECODE" />
+      <item value="     * @para m $order " />
+      <item value="processing" />
+      <item value="process" />
+      <item value="处理" />
       <item value="valid" />
       <item value="有效" />
       <item value="有效的" />
@@ -46,16 +51,11 @@
       <item value="现金价值" />
       <item value="积分中心" />
       <item value="简介" />
-      <item value="util" />
-      <item value="utils" />
-      <item value="notifier" />
-      <item value="notify" />
-      <item value="通知者" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="37" />
       </map>
     </option>
   </component>
