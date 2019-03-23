@@ -5,7 +5,7 @@
       <MessDetectorConfiguration tool_path="D:/work-TonyChen-SH/db-profiler/vendor/bin" />
     </phpmd_settings>
   </component>
-  <component name="PhpAutoImport" auto_import_file_scope="true" />
+  <component name="PhpAutoImport" auto_import_file_scope="true" global_function_behavior="PREFER_IMPORT" />
   <component name="PhpCodeSniffer">
     <phpcs_settings_migrated />
     <phpcs_settings>
