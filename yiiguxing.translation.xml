@@ -1,6 +1,45 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="增加" />
+      <item value="SITECODE" />
+      <item value="     * @para m $order " />
+      <item value="processing" />
+      <item value="process" />
+      <item value="处理" />
+      <item value="valid" />
+      <item value="有效" />
+      <item value="有效的" />
+      <item value="great than" />
+      <item value="大于" />
+      <item value="冲突" />
+      <item value="Shipping" />
+      <item value="handle" />
+      <item value="hand" />
+      <item value="handler" />
+      <item value="状态处理器" />
+      <item value="处理器" />
+      <item value="state" />
+      <item value="发货" />
+      <item value="扩展" />
+      <item value="unique mark" />
+      <item value="标识" />
+      <item value="dispatch" />
+      <item value="调度" />
+      <item value="Schedule" />
+      <item value="第三方调度" />
+      <item value="第三方" />
+      <item value="open" />
+      <item value="多个" />
+      <item value="destroy" />
+      <item value="destory" />
+      <item value="destoty" />
+      <item value="centre" />
+      <item value="CENTRE" />
+      <item value="CENTER" />
+      <item value="过滤" />
+      <item value="final" />
+      <item value="最终" />
       <item value="latitude" />
       <item value="经度" />
       <item value="精度" />
@@ -12,50 +51,11 @@
       <item value="价值现金" />
       <item value="现金价值" />
       <item value="积分中心" />
-      <item value="简介" />
-      <item value="util" />
-      <item value="utils" />
-      <item value="notifier" />
-      <item value="notify" />
-      <item value="通知者" />
-      <item value="不需要" />
-      <item value="abbreviation" />
-      <item value="subject" />
-      <item value="主体" />
-      <item value="主题" />
-      <item value="without" />
-      <item value="qualified" />
-      <item value="重复处理订单" />
-      <item value="handle" />
-      <item value="处理" />
-      <item value="extend" />
-      <item value="ext" />
-      <item value="extract" />
-      <item value="etract" />
-      <item value="扩展" />
-      <item value="consume" />
-      <item value="消耗" />
-      <item value="退款" />
-      <item value="scene" />
-      <item value="checkin" />
-      <item value="revert" />
-      <item value="加减" />
-      <item value="Consume" />
-      <item value="decrease" />
-      <item value="减少" />
-      <item value="较少" />
-      <item value="增加" />
-      <item value="incr" />
-      <item value="结构" />
-      <item value="单价" />
-      <item value="无效" />
-      <item value="suspend" />
-      <item value="收货人" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="38" />
       </map>
     </option>
   </component>
