@@ -16,13 +16,13 @@
   <tool name="phan" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/usr/local/Cellar/php/7.2.10/bin/php" />
-      <option name="PARAMETERS" value="$USER_HOME$/Project/work-wenxing/mall/phan.phar -d /Users/chendan/Project/work-wenxing/mall/" />
+      <option name="PARAMETERS" value="$USER_HOME$/Project/TonyChen-SH/phan/phan -d /Users/chendan/Project/TonyChen-SH/phan/" />
       <option name="WORKING_DIRECTORY" value="$FileDir$" />
     </exec>
     <filter>
-      <option name="NAME" />
-      <option name="DESCRIPTION" />
-      <option name="REGEXP" value="$FILE_PATH$:$LINE$ .*" />
+      <option name="NAME" value="" />
+      <option name="DESCRIPTION" value="" />
+      <option name="REGEXP" value="$FILE_PATH$:$LINE$*" />
     </filter>
   </tool>
   <tool name="test" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
