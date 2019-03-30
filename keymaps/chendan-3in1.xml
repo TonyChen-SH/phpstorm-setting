@@ -119,6 +119,10 @@
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="Refresh">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowLeft" />
@@ -188,12 +192,11 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="ToggleBookmark" />
-  <action id="ToggleLineBreakpoint">
-    <keyboard-shortcut first-keystroke="ctrl f8" />
-    <keyboard-shortcut first-keystroke="f7" />
-  </action>
   <action id="Tool_External Tools_phpbench">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
+  </action>
+  <action id="Tool_team_phan">
+    <keyboard-shortcut first-keystroke="f7" />
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="VimWindowClose">
