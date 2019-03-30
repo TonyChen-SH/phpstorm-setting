@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="relative" />
       <item value="性能" />
       <item value="perfer" />
       <item value="增加" />
@@ -50,11 +51,10 @@
       <item value="sales" />
       <item value="销量" />
       <item value="虚拟" />
-      <item value="价值现金" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
+        <entry key="CHINESE" value="39" />
         <entry key="ENGLISH" value="39" />
       </map>
     </option>
