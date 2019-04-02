@@ -1,4 +1,15 @@
 <application>
+  <component name="AppStorage">
+    <histories>
+      <item value="我如何处理他" />
+      <item value="麻烦" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
+  </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
   </component>
