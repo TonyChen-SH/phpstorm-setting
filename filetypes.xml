@@ -4,6 +4,7 @@
       <mapping pattern="gitignore_global.txt" type="Git file" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="php2" type="PHP" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
