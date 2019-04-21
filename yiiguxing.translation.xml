@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="列" />
+      <item value="列表" />
       <item value="有效" />
       <item value="通过...." />
       <item value="一维" />
