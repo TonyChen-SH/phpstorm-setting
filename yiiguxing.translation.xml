@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="检验" />
+      <item value="筛查" />
       <item value="照相机" />
       <item value="列" />
       <item value="列表" />
