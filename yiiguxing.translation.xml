@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="照相机" />
       <item value="abnormal" />
       <item value="异常" />
       <item value="完成" />
@@ -8,7 +9,6 @@
       <item value="服务中" />
       <item value="检验" />
       <item value="筛查" />
-      <item value="照相机" />
       <item value="列" />
       <item value="列表" />
       <item value="有效" />
@@ -36,7 +36,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="ENGLISH" value="6" />
       </map>
     </option>
   </component>
