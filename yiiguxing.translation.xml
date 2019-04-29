@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="convert" />
+      <item value="转换" />
       <item value="Verification" />
       <item value="照相机" />
       <item value="abnormal" />
@@ -36,8 +38,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="7" />
       </map>
     </option>
   </component>
