@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="calc" />
       <item value="combination" />
       <item value="单选组合" />
       <item value="convert" />
