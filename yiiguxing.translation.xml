@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Commented" />
+      <item value="已评论" />
+      <item value="已评价" />
+      <item value="COMMENT" />
       <item value="comment" />
       <item value="favorable comment" />
       <item value="好评" />
@@ -50,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="11" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
