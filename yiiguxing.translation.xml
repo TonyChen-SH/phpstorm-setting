@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" order" />
+      <item value="Unprocessed order" />
+      <item value="未处理订单" />
+      <item value="未处理" />
+      <item value="订单个数" />
       <item value="Commented" />
       <item value="已评论" />
       <item value="已评价" />
@@ -46,16 +51,11 @@
       <item value="available" />
       <item value="可用的" />
       <item value="particular" />
-      <item value="声明" />
-      <item value="无效" />
-      <item value="标识" />
-      <item value="我如何处理他" />
-      <item value="麻烦" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="13" />
       </map>
     </option>
   </component>
