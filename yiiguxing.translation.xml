@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="匹配" />
       <item value="内存" />
       <item value="创世" />
       <item value="鼠标" />
@@ -50,7 +51,6 @@
       <item value="组合" />
       <item value="语音" />
       <item value="声音" />
-      <item value="过期" />
     </histories>
     <option name="languageScores">
       <map>
