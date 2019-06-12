@@ -47,5 +47,8 @@
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
+    <arrangement>
+      <groups />
+    </arrangement>
   </codeStyleSettings>
 </code_scheme>
