@@ -8,6 +8,7 @@
     <option name="ALIGN_ASSIGNMENTS" value="true" />
     <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
+    <option name="LOWER_CASE_NULL_CONST" value="true" />
     <option name="ELSE_IF_STYLE" value="SEPARATE" />
     <option name="VARIABLE_NAMING_STYLE" value="CAMEL_CASE" />
     <option name="ALIGN_CLASS_CONSTANTS" value="true" />
@@ -48,7 +49,12 @@
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
     <arrangement>
-      <groups />
+      <groups>
+        <group>
+          <type>GETTERS_AND_SETTERS</type>
+          <order>KEEP</order>
+        </group>
+      </groups>
     </arrangement>
   </codeStyleSettings>
 </code_scheme>
