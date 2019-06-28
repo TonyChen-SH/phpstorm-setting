@@ -1,9 +1,14 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="Angular HTML Template" />
+      <blacklist language="JavaScript" />
       <blacklist language="PHP">
         <added pattern="\app\common\service\PointMall\PointMallService.getOrderRefundDetail(companyId,orderSn,refundSn)" />
+        <removed pattern="" />
       </blacklist>
     </blacklists>
+    <option id="php.show.names.for.all.args" value="true" />
   </component>
 </application>
