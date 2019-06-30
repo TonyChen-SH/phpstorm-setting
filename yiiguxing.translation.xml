@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="存在" />
+      <item value="使激活" />
+      <item value="激活" />
       <item value="pickout" />
+      <item value="存在" />
       <item value="字段" />
       <item value="背景" />
       <item value="Convert" />
@@ -49,13 +51,11 @@
       <item value="抵扣" />
       <item value="处理" />
       <item value="calc" />
-      <item value="combination" />
-      <item value="单选组合" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="CHINESE" value="23" />
+        <entry key="ENGLISH" value="24" />
       </map>
     </option>
   </component>
