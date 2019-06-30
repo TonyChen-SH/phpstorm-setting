@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="字段" />
       <item value="背景" />
       <item value="Convert" />
       <item value="转换" />
@@ -50,7 +51,6 @@
       <item value="单选组合" />
       <item value="convert" />
       <item value="Verification" />
-      <item value="照相机" />
     </histories>
     <option name="languageScores">
       <map>
