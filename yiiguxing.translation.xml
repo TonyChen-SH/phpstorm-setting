@@ -1,12 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="refunded" />
+      <item value="refund" />
       <item value="业务系统" />
       <item value="业务" />
       <item value="在职" />
       <item value="离职" />
       <item value="包含" />
-      <item value="refunded" />
       <item value="多个" />
       <item value="使激活" />
       <item value="激活" />
@@ -50,11 +51,10 @@
       <item value="COMMENT" />
       <item value="comment" />
       <item value="favorable comment" />
-      <item value="好评" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
+        <entry key="CHINESE" value="25" />
         <entry key="ENGLISH" value="25" />
       </map>
     </option>
