@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="任务值" />
       <item value="周期" />
       <item value="refunded" />
       <item value="refund" />
@@ -50,7 +51,6 @@
       <item value="已评论" />
       <item value="已评价" />
       <item value="COMMENT" />
-      <item value="comment" />
     </histories>
     <option name="languageScores">
       <map>
