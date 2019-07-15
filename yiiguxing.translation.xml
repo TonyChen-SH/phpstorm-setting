@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="适用人群" />
+      <item value="member_type" />
+      <item value="所属" />
+      <item value="所属类型" />
       <item value="pure" />
       <item value="纯净" />
       <item value="任务值" />
@@ -47,15 +51,11 @@
       <item value=" order" />
       <item value="Unprocessed order" />
       <item value="未处理订单" />
-      <item value="未处理" />
-      <item value="订单个数" />
-      <item value="Commented" />
-      <item value="已评论" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="27" />
+        <entry key="CHINESE" value="28" />
+        <entry key="ENGLISH" value="29" />
       </map>
     </option>
   </component>
