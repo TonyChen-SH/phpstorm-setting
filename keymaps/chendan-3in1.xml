@@ -34,6 +34,9 @@
   <action id="Diff.SelectedChange" />
   <action id="EditSource" />
   <action id="EditorToggleCase" />
+  <action id="EditorToggleColumnMode">
+    <keyboard-shortcut first-keystroke="ctrl meta s" />
+  </action>
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="f8" />
   </action>
