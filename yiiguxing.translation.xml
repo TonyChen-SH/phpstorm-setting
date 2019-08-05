@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="字段" />
       <item value="pose机" />
       <item value="duplicate" />
       <item value="重复" />
@@ -26,7 +27,6 @@
       <item value="激活" />
       <item value="pickout" />
       <item value="存在" />
-      <item value="字段" />
       <item value="背景" />
       <item value="Convert" />
       <item value="转换" />
