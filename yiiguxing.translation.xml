@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pos机器" />
+      <item value="pos" />
       <item value="align" />
       <item value="分表" />
       <item value="customize" />
@@ -49,13 +51,11 @@
       <item value="activation" />
       <item value="exist" />
       <item value="订阅者" />
-      <item value="监听者" />
-      <item value="匹配" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="ENGLISH" value="35" />
       </map>
     </option>
   </component>
