@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="paint" />
       <item value="原始文本" />
       <item value="语言语法" />
       <item value="语法" />
@@ -50,11 +51,10 @@
       <item value="秘钥" />
       <item value="翻译" />
       <item value="view" />
-      <item value="overflow" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="34" />
+        <entry key="CHINESE" value="35" />
         <entry key="ENGLISH" value="35" />
       </map>
     </option>
