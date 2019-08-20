@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="容器" />
       <item value="爷爷" />
       <item value="Interpreter" />
       <item value="解释器" />
@@ -50,7 +51,6 @@
       <item value="Convert" />
       <item value="转换" />
       <item value="动态" />
-      <item value="complete" />
     </histories>
     <option name="languageScores">
       <map>
