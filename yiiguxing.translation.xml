@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="爷爷" />
       <item value="Interpreter" />
       <item value="解释器" />
       <item value="interpret" />
@@ -50,12 +51,11 @@
       <item value="转换" />
       <item value="动态" />
       <item value="complete" />
-      <item value="完成" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="ENGLISH" value="38" />
       </map>
     </option>
   </component>
