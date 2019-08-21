@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="计算" />
+      <item value="结算" />
       <item value="底部" />
       <item value="容器" />
       <item value="爷爷" />
@@ -27,7 +29,6 @@
       <item value="duplicate" />
       <item value="重复" />
       <item value="calc" />
-      <item value="计算" />
       <item value="适用人群" />
       <item value="member_type" />
       <item value="所属" />
@@ -50,7 +51,6 @@
       <item value="存在" />
       <item value="背景" />
       <item value="Convert" />
-      <item value="转换" />
     </histories>
     <option name="languageScores">
       <map>
