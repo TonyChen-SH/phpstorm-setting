@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Provider" />
+      <item value="提供" />
+      <item value="提供器" />
       <item value="pos机器" />
       <item value="pos" />
       <item value="align" />
@@ -48,23 +51,15 @@
       <item value="view" />
       <item value="overflow" />
       <item value="作废" />
-      <item value="activation" />
-      <item value="exist" />
-      <item value="订阅者" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="34" />
+        <entry key="CHINESE" value="35" />
         <entry key="ENGLISH" value="35" />
       </map>
     </option>
   </component>
   <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="false" />
-      </google-translate>
-    </option>
     <option name="ignoreRegExp" value="" />
   </component>
 </application>
