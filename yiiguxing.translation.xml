@@ -1,70 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="needle" />
-      <item value="parse" />
       <item value="计算" />
-      <item value="结算" />
-      <item value="底部" />
-      <item value="容器" />
-      <item value="爷爷" />
-      <item value="Interpreter" />
-      <item value="解释器" />
-      <item value="interpret" />
-      <item value="interpretation" />
-      <item value="解释" />
-      <item value="paint" />
-      <item value="原始文本" />
-      <item value="语言语法" />
-      <item value="语法" />
-      <item value="pos机器" />
-      <item value="pos" />
-      <item value="align" />
-      <item value="分表" />
-      <item value="customize" />
-      <item value="自定义" />
-      <item value="custom" />
-      <item value="suffix" />
-      <item value="切换" />
-      <item value="字段" />
-      <item value="pose机" />
-      <item value="duplicate" />
-      <item value="重复" />
-      <item value="calc" />
-      <item value="适用人群" />
-      <item value="member_type" />
-      <item value="所属" />
-      <item value="所属类型" />
-      <item value="pure" />
-      <item value="纯净" />
-      <item value="任务值" />
-      <item value="周期" />
-      <item value="refunded" />
-      <item value="refund" />
-      <item value="业务系统" />
-      <item value="业务" />
-      <item value="在职" />
-      <item value="离职" />
-      <item value="包含" />
-      <item value="多个" />
-      <item value="使激活" />
-      <item value="激活" />
-      <item value="pickout" />
-      <item value="存在" />
+      <item value="计算管理器" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="ENGLISH" value="1" />
       </map>
     </option>
-  </component>
-  <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="false" />
-      </google-translate>
-    </option>
-    <option name="ignoreRegExp" value="" />
   </component>
 </application>
