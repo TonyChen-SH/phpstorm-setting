@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="计算" />
       <item value="是否校验" />
       <item value="统计数据" />
       <item value="当前" />
       <item value="公用" />
-      <item value="计算" />
       <item value="计算管理器" />
     </histories>
     <option name="languageScores">
