@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="单位" />
+      <item value="打我" />
+      <item value="ghran" />
+      <item value="大于" />
+      <item value="过滤" />
       <item value="代码片段" />
       <item value="递归" />
       <item value="存在" />
@@ -13,7 +18,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
