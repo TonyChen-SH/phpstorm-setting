@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="代码片段" />
+      <item value="递归" />
       <item value="存在" />
       <item value="计算" />
       <item value="是否校验" />
