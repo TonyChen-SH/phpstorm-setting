@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="链" />
+      <item value="链接" />
       <item value="自定义" />
       <item value="specified" />
       <item value="是否是指定类型" />
