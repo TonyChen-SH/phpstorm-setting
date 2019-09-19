@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="存储" />
+      <item value="存款" />
       <item value="场景" />
       <item value="产假" />
       <item value="go to" />
