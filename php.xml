@@ -22,7 +22,7 @@
       <interpreter id="8acdfd53-5082-4ff9-b7d0-029d64767270" name="soa2-test-PHP 7.1" home="ssh://DATA" debugger_id="php.debugger.XDebug">
         <remote_data HOST="120.78.9.164" PORT="22" USERNAME="chendan" PRIVATE_KEY_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/chendan/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
       </interpreter>
-      <interpreter id="4db04fbb-51f1-4576-bf6f-2ff001b721ee" name="PHP 7.4RC2" home="$USER_HOME$/Downloads/php-7.4.0RC2/php/bin/php" debugger_id="php.debugger.XDebug" debugger_extension="$USER_HOME$/Downloads/php-7.4.0RC2/php/lib/php/extensions/no-debug-non-zts-20190902/xdebug.so" />
+      <interpreter id="4db04fbb-51f1-4576-bf6f-2ff001b721ee" name="PHP 7.4RC2" home="$USER_HOME$/Downloads/php-7.4.0RC2/php/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -349,7 +349,11 @@
           <configuration_options>
             <configuration_option name="include_path" value=".:" />
           </configuration_options>
-          <debuggers />
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="2.8.0beta2">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
@@ -373,6 +377,7 @@
             <extension name="sqlite3" />
             <extension name="standard" />
             <extension name="tokenizer" />
+            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlwriter" />
