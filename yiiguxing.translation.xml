@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="操作人" />
       <item value="审核" />
       <item value="verify" />
       <item value="校验" />
