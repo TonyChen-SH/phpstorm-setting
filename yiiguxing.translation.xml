@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="口令" />
       <item value="异步" />
       <item value="verify" />
       <item value="订单审核" />
@@ -51,5 +52,13 @@
         <entry key="ENGLISH" value="7" />
       </map>
     </option>
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="false" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="" />
   </component>
 </application>
