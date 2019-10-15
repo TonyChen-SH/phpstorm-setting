@@ -1,16 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="verify" />
+      <item value="verification" />
+      <item value="验证" />
+      <item value="valid" />
+      <item value="校验" />
+      <item value="messages" />
       <item value="抑制" />
       <item value="凭证" />
       <item value="voucher" />
       <item value="口令" />
       <item value="异步" />
-      <item value="verify" />
       <item value="订单审核" />
       <item value="审核" />
       <item value="操作人" />
-      <item value="校验" />
       <item value="校验url" />
       <item value="主键" />
       <item value="监听者" />
@@ -47,12 +51,11 @@
       <item value="统计数据" />
       <item value="当前" />
       <item value="公用" />
-      <item value="计算管理器" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="10" />
       </map>
     </option>
   </component>
