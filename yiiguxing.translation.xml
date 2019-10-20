@@ -1,65 +1,70 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Provider" />
-      <item value="提供" />
-      <item value="提供器" />
-      <item value="pos机器" />
-      <item value="pos" />
-      <item value="align" />
-      <item value="分表" />
-      <item value="customize" />
-      <item value="自定义" />
-      <item value="custom" />
-      <item value="suffix" />
-      <item value="切换" />
-      <item value="字段" />
-      <item value="pose机" />
-      <item value="duplicate" />
-      <item value="重复" />
-      <item value="calc" />
-      <item value="计算" />
-      <item value="适用人群" />
-      <item value="member_type" />
-      <item value="所属" />
-      <item value="所属类型" />
-      <item value="pure" />
-      <item value="纯净" />
-      <item value="任务值" />
-      <item value="周期" />
-      <item value="refunded" />
-      <item value="refund" />
-      <item value="业务系统" />
-      <item value="业务" />
-      <item value="在职" />
-      <item value="离职" />
-      <item value="包含" />
-      <item value="多个" />
-      <item value="使激活" />
-      <item value="激活" />
-      <item value="pickout" />
-      <item value="存在" />
-      <item value="背景" />
-      <item value="Convert" />
+      <item value="连接符" />
+      <item value="连接符号" />
+      <item value="contact" />
+      <item value="contract" />
+      <item value="通讯录" />
+      <item value="边距" />
+      <item value="自动换行" />
+      <item value="分销" />
+      <item value="verify" />
+      <item value="verification" />
+      <item value="验证" />
+      <item value="valid" />
+      <item value="校验" />
+      <item value="messages" />
+      <item value="抑制" />
+      <item value="凭证" />
+      <item value="voucher" />
+      <item value="口令" />
+      <item value="异步" />
+      <item value="订单审核" />
+      <item value="审核" />
+      <item value="操作人" />
+      <item value="校验url" />
+      <item value="主键" />
+      <item value="监听者" />
+      <item value="监听" />
+      <item value="存储" />
+      <item value="存款" />
+      <item value="场景" />
+      <item value="产假" />
+      <item value="go to" />
+      <item value="进入" />
+      <item value="transform" />
       <item value="转换" />
-      <item value="动态" />
-      <item value="complete" />
-      <item value="完成" />
-      <item value="UNDO" />
-      <item value="秘钥" />
-      <item value="翻译" />
-      <item value="view" />
-      <item value="overflow" />
-      <item value="作废" />
+      <item value="商家发货" />
+      <item value="变量" />
+      <item value="链" />
+      <item value="链接" />
+      <item value="自定义" />
+      <item value="specified" />
+      <item value="是否是指定类型" />
+      <item value="指定" />
+      <item value="完善" />
+      <item value="过滤" />
+      <item value="过来" />
+      <item value="没有被引用" />
+      <item value="单位" />
+      <item value="打我" />
+      <item value="ghran" />
+      <item value="大于" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="35" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="false" />
+      </google-translate>
+    </option>
     <option name="ignoreRegExp" value="" />
   </component>
 </application>
