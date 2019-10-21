@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="雇员" />
+      <item value="计算" />
+      <item value="employee" />
+      <item value="员工" />
+      <item value="职员" />
+      <item value="employ" />
+      <item value="staff" />
+      <item value="youngest" />
       <item value="连接符" />
       <item value="连接符号" />
       <item value="contact" />
@@ -43,28 +51,15 @@
       <item value="specified" />
       <item value="是否是指定类型" />
       <item value="指定" />
-      <item value="完善" />
-      <item value="过滤" />
-      <item value="过来" />
-      <item value="没有被引用" />
-      <item value="单位" />
-      <item value="打我" />
-      <item value="ghran" />
-      <item value="大于" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="14" />
       </map>
     </option>
   </component>
   <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="false" />
-      </google-translate>
-    </option>
     <option name="ignoreRegExp" value="" />
   </component>
 </application>
