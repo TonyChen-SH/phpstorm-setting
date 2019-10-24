@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="多个" />
       <item value="Contact " />
       <item value="雇员" />
       <item value="计算" />
@@ -50,12 +51,11 @@
       <item value="链接" />
       <item value="自定义" />
       <item value="specified" />
-      <item value="是否是指定类型" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="ENGLISH" value="15" />
       </map>
     </option>
   </component>
