@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="就" />
       <item value="简历" />
       <item value="API TYPE CONTACT" />
       <item value="多个" />
@@ -50,7 +51,6 @@
       <item value="商家发货" />
       <item value="变量" />
       <item value="链" />
-      <item value="链接" />
     </histories>
     <option name="languageScores">
       <map>
@@ -60,6 +60,12 @@
     </option>
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="false" />
+      </google-translate>
+    </option>
     <option name="ignoreRegExp" value="" />
+    <option name="translator" value="fanyi.baidu" />
   </component>
 </application>
