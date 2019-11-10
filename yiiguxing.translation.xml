@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="逻辑或" />
+      <item value="逻辑与" />
       <item value="关系" />
       <item value="就" />
       <item value="简历" />
@@ -49,8 +51,6 @@
       <item value="进入" />
       <item value="transform" />
       <item value="转换" />
-      <item value="商家发货" />
-      <item value="变量" />
     </histories>
     <option name="languageScores">
       <map>
