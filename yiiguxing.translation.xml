@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="clear" />
+      <item value="清空" />
+      <item value="flush" />
       <item value="active" />
       <item value="finder" />
       <item value="findder" />
@@ -48,14 +51,11 @@
       <item value="监听" />
       <item value="存储" />
       <item value="存款" />
-      <item value="场景" />
-      <item value="产假" />
-      <item value="go to" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="17" />
+        <entry key="ENGLISH" value="17" />
       </map>
     </option>
   </component>
