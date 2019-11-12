@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="finder" />
+      <item value="findder" />
       <item value="逻辑或" />
       <item value="逻辑与" />
       <item value="关系" />
@@ -49,12 +51,10 @@
       <item value="产假" />
       <item value="go to" />
       <item value="进入" />
-      <item value="transform" />
-      <item value="转换" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
+        <entry key="CHINESE" value="16" />
         <entry key="ENGLISH" value="16" />
       </map>
     </option>
