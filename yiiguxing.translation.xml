@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="多个" />
+      <item value="重复数" />
       <item value="匹配" />
       <item value="clear" />
       <item value="清空" />
@@ -14,7 +16,6 @@
       <item value="就" />
       <item value="简历" />
       <item value="API TYPE CONTACT" />
-      <item value="多个" />
       <item value="Contact " />
       <item value="雇员" />
       <item value="计算" />
@@ -50,7 +51,6 @@
       <item value="主键" />
       <item value="监听者" />
       <item value="监听" />
-      <item value="存储" />
     </histories>
     <option name="languageScores">
       <map>
