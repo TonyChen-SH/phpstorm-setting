@@ -1,16 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="无效" />
-      <item value="容量" />
-      <item value="朋友" />
-      <item value="regular" />
-      <item value="charge" />
-      <item value="价格" />
+      <item value="是否有效" />
+      <item value="有效" />
+      <item value="belongs" />
+      <item value="最新的" />
+      <item value="多个" />
+      <item value="重复数" />
+      <item value="匹配" />
+      <item value="clear" />
+      <item value="清空" />
+      <item value="flush" />
+      <item value="active" />
+      <item value="finder" />
+      <item value="findder" />
+      <item value="逻辑或" />
+      <item value="逻辑与" />
+      <item value="关系" />
       <item value="就" />
       <item value="简历" />
       <item value="API TYPE CONTACT" />
-      <item value="多个" />
       <item value="Contact " />
       <item value="雇员" />
       <item value="计算" />
@@ -42,24 +51,20 @@
       <item value="订单审核" />
       <item value="审核" />
       <item value="操作人" />
-      <item value="校验url" />
-      <item value="主键" />
-      <item value="监听者" />
-      <item value="监听" />
-      <item value="存储" />
-      <item value="存款" />
-      <item value="场景" />
-      <item value="产假" />
-      <item value="go to" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="19" />
       </map>
     </option>
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="false" />
+      </google-translate>
+    </option>
     <option name="ignoreRegExp" value="" />
   </component>
 </application>
