@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="快速" />
       <item value="有效" />
       <item value="离职" />
       <item value="存在" />
@@ -50,7 +51,6 @@
       <item value="voucher" />
       <item value="口令" />
       <item value="异步" />
-      <item value="订单审核" />
     </histories>
     <option name="languageScores">
       <map>
@@ -60,6 +60,11 @@
     </option>
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="false" />
+      </google-translate>
+    </option>
     <option name="ignoreRegExp" value="" />
   </component>
 </application>
