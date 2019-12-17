@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="指定" />
       <item value="严格" />
       <item value="可访问性" />
       <item value="quote" />
@@ -50,7 +51,6 @@
       <item value="contact" />
       <item value="contract" />
       <item value="通讯录" />
-      <item value="边距" />
     </histories>
     <option name="languageScores">
       <map>
