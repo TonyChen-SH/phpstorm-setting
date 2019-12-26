@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="计算" />
       <item value="constraint" />
       <item value="valid" />
       <item value="有效" />
@@ -46,7 +47,6 @@
       <item value="API TYPE CONTACT" />
       <item value="Contact " />
       <item value="雇员" />
-      <item value="计算" />
       <item value="employee" />
       <item value="员工" />
       <item value="职员" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="ENGLISH" value="24" />
       </map>
     </option>
   </component>
