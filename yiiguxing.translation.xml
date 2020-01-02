@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pending Implementation" />
+      <item value="In Draft" />
       <item value="场景" />
       <item value="计算" />
       <item value="times" />
@@ -49,12 +51,10 @@
       <item value="就" />
       <item value="简历" />
       <item value="API TYPE CONTACT" />
-      <item value="Contact " />
-      <item value="雇员" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
+        <entry key="CHINESE" value="25" />
         <entry key="ENGLISH" value="25" />
       </map>
     </option>
