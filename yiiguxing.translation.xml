@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="compression" />
+      <item value="压缩" />
       <item value="assign" />
       <item value="指定" />
       <item value="指定部门" />
@@ -49,13 +51,11 @@
       <item value="最新的" />
       <item value="多个" />
       <item value="重复数" />
-      <item value="匹配" />
-      <item value="clear" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="28" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="CHINESE" value="29" />
+        <entry key="ENGLISH" value="29" />
       </map>
     </option>
   </component>
