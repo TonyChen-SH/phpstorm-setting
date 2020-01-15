@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fill" />
+      <item value="fill a vacancy" />
+      <item value="补足" />
+      <item value="补充" />
+      <item value="冲正" />
+      <item value="抵消" />
       <item value="compression" />
       <item value="压缩" />
       <item value="assign" />
@@ -45,17 +51,11 @@
       <item value="faster" />
       <item value="快速" />
       <item value="离职" />
-      <item value="存在" />
-      <item value="是否有效" />
-      <item value="belongs" />
-      <item value="最新的" />
-      <item value="多个" />
-      <item value="重复数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="29" />
+        <entry key="CHINESE" value="30" />
+        <entry key="ENGLISH" value="30" />
       </map>
     </option>
   </component>
