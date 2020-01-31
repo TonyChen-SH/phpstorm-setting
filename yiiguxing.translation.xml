@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Increment" />
+      <item value="增量" />
+      <item value="全量计算" />
       <item value="lowest" />
       <item value="Minimum" />
       <item value="mini" />
@@ -48,14 +51,11 @@
       <item value="严格" />
       <item value="可访问性" />
       <item value="quote" />
-      <item value="quotes" />
-      <item value="competence" />
-      <item value="递归" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="32" />
+        <entry key="CHINESE" value="33" />
+        <entry key="ENGLISH" value="33" />
       </map>
     </option>
   </component>
