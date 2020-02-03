@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="singleton" />
       <item value="赋值" />
       <item value="Increment" />
       <item value="增量" />
@@ -50,11 +51,10 @@
       <item value="积分换成钱" />
       <item value="唯一" />
       <item value="严格" />
-      <item value="可访问性" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
+        <entry key="CHINESE" value="34" />
         <entry key="ENGLISH" value="34" />
       </map>
     </option>
