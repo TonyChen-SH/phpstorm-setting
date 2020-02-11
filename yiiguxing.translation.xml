@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="property" />
+      <item value="属性" />
       <item value="结伴" />
       <item value="计算" />
       <item value="Improve" />
@@ -49,12 +51,10 @@
       <item value="Preferential" />
       <item value="优惠项目" />
       <item value="Overlay" />
-      <item value="叠加" />
-      <item value="Pending Implementation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
+        <entry key="CHINESE" value="39" />
         <entry key="ENGLISH" value="39" />
       </map>
     </option>
