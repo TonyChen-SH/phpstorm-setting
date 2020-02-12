@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="revert" />
+      <item value="revoke" />
       <item value="是否已经处理过" />
       <item value="是否已经处理" />
       <item value="cancel" />
-      <item value="revert" />
       <item value="property" />
       <item value="属性" />
       <item value="结伴" />
@@ -50,11 +51,10 @@
       <item value="限制出境" />
       <item value="限制" />
       <item value="额外" />
-      <item value="数量" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
+        <entry key="CHINESE" value="40" />
         <entry key="ENGLISH" value="40" />
       </map>
     </option>
