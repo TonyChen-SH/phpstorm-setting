@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="计算" />
       <item value="是否操作过" />
       <item value="preservation" />
       <item value="隐私协议" />
@@ -12,7 +13,6 @@
       <item value="property" />
       <item value="属性" />
       <item value="结伴" />
-      <item value="计算" />
       <item value="Improve" />
       <item value="完善测试用例" />
       <item value="完善" />
