@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="docsify" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__unpkg.com_docsify_lib_docsify.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__unpkg.com_docsify_lib_docsify.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
