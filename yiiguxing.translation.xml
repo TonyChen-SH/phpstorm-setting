@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="美丽生活" />
+      <item value="美好生活" />
       <item value="appointment" />
       <item value="约会" />
       <item value="预约" />
@@ -49,13 +51,11 @@
       <item value="Minimum" />
       <item value="mini" />
       <item value="最小值" />
-      <item value="max" />
-      <item value="min" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="ENGLISH" value="45" />
       </map>
     </option>
   </component>
