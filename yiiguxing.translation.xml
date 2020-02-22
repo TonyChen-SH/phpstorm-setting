@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="计算" />
       <item value="多个" />
       <item value="muffle" />
       <item value="美丽生活" />
@@ -19,7 +20,6 @@
       <item value="origin原始" />
       <item value="原始" />
       <item value="quantity" />
-      <item value="计算" />
       <item value="是否操作过" />
       <item value="preservation" />
       <item value="隐私协议" />
