@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="monolithic repositories" />
+      <item value="monolithic" />
       <item value="repository" />
       <item value="资源" />
       <item value="仓库" />
@@ -49,8 +51,6 @@
       <item value="Downgrade" />
       <item value="降级" />
       <item value="引入" />
-      <item value="singleton" />
-      <item value="赋值" />
     </histories>
     <option name="languageScores">
       <map>
