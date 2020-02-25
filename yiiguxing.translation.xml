@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="repository" />
+      <item value="资源" />
+      <item value="仓库" />
       <item value="贡献" />
       <item value="方案" />
       <item value="计算" />
@@ -48,13 +51,10 @@
       <item value="引入" />
       <item value="singleton" />
       <item value="赋值" />
-      <item value="Increment" />
-      <item value="增量" />
-      <item value="全量计算" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
+        <entry key="CHINESE" value="46" />
         <entry key="ENGLISH" value="46" />
       </map>
     </option>
