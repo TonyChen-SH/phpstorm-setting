@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="多个" />
       <item value="并发" />
       <item value="验证码" />
       <item value="迁移" />
@@ -13,7 +14,6 @@
       <item value="贡献" />
       <item value="方案" />
       <item value="计算" />
-      <item value="多个" />
       <item value="muffle" />
       <item value="美丽生活" />
       <item value="美好生活" />
