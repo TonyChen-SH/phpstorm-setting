@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="协程" />
       <item value="detected" />
       <item value="多个" />
       <item value="并发" />
@@ -50,12 +51,11 @@
       <item value="剩余" />
       <item value="被减值" />
       <item value="average value" />
-      <item value="Mean" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="ENGLISH" value="48" />
       </map>
     </option>
   </component>
