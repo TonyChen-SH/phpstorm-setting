@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="迁移" />
       <item value="库" />
       <item value="monolithic repositories" />
       <item value="monolithic" />
@@ -50,7 +51,6 @@
       <item value="均值" />
       <item value="最新的" />
       <item value="Downgrade" />
-      <item value="降级" />
     </histories>
     <option name="languageScores">
       <map>
