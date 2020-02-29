@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inherit" />
       <item value="足够" />
       <item value="signal no" />
       <item value="signal o" />
@@ -50,11 +51,10 @@
       <item value="属性" />
       <item value="结伴" />
       <item value="Improve" />
-      <item value="完善测试用例" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
+        <entry key="CHINESE" value="49" />
         <entry key="ENGLISH" value="49" />
       </map>
     </option>
