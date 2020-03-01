@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reimplement" />
       <item value="present" />
       <item value="分钟" />
       <item value="分支" />
@@ -50,7 +51,6 @@
       <item value="隐私协议" />
       <item value="revert" />
       <item value="revoke" />
-      <item value="是否已经处理过" />
     </histories>
     <option name="languageScores">
       <map>
