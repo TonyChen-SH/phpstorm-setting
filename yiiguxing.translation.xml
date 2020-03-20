@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="场景" />
       <item value="freedom" />
       <item value="任意门" />
       <item value="万能" />
-      <item value="场景" />
       <item value="calc Expire Time" />
       <item value="计算" />
       <item value="duplicate" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="ENGLISH" value="57" />
       </map>
     </option>
   </component>
