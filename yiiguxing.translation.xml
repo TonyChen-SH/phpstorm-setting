@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="验证" />
       <item value="倍数" />
       <item value="场景" />
       <item value="freedom" />
@@ -50,7 +51,6 @@
       <item value="约会" />
       <item value="预约" />
       <item value="口罩预约" />
-      <item value="纯净" />
     </histories>
     <option name="languageScores">
       <map>
