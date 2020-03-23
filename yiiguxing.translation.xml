@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="并发" />
       <item value="可见性" />
       <item value="visible" />
       <item value="lazy" />
@@ -39,7 +40,6 @@
       <item value="协程" />
       <item value="detected" />
       <item value="多个" />
-      <item value="并发" />
       <item value="验证码" />
       <item value="迁移" />
       <item value="库" />
