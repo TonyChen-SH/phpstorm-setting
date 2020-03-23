@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="right now" />
+      <item value="马上" />
+      <item value="立即" />
+      <item value="历史" />
       <item value="并发" />
       <item value="可见性" />
       <item value="visible" />
@@ -47,14 +51,10 @@
       <item value="monolithic" />
       <item value="repository" />
       <item value="贡献" />
-      <item value="方案" />
-      <item value="muffle" />
-      <item value="美丽生活" />
-      <item value="美好生活" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
+        <entry key="CHINESE" value="58" />
         <entry key="ENGLISH" value="58" />
       </map>
     </option>
