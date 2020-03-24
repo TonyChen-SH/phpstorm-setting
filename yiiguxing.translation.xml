@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="visiblity" />
+      <item value="visible" />
+      <item value="可访问性" />
+      <item value="time up" />
       <item value="顾客" />
       <item value="客户" />
       <item value="right now" />
@@ -9,7 +13,6 @@
       <item value="历史" />
       <item value="并发" />
       <item value="可见性" />
-      <item value="visible" />
       <item value="lazy" />
       <item value="repositity" />
       <item value="资源" />
@@ -48,23 +51,15 @@
       <item value="多个" />
       <item value="验证码" />
       <item value="迁移" />
-      <item value="库" />
-      <item value="monolithic repositories" />
-      <item value="monolithic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="60" />
       </map>
     </option>
   </component>
   <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="false" />
-      </google-translate>
-    </option>
     <option name="ignoreRegExp" value="" />
   </component>
 </application>
