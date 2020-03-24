@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="timeOfTrigger" />
+      <item value="发生时间" />
+      <item value="发生" />
       <item value="visiblity" />
       <item value="visible" />
       <item value="可访问性" />
@@ -48,14 +51,11 @@
       <item value="acquire" />
       <item value="协程" />
       <item value="detected" />
-      <item value="多个" />
-      <item value="验证码" />
-      <item value="迁移" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="61" />
       </map>
     </option>
   </component>
