@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="persistent" />
       <item value="timeOfTrigger" />
       <item value="发生时间" />
       <item value="发生" />
@@ -50,7 +51,6 @@
       <item value="signal" />
       <item value="acquire" />
       <item value="协程" />
-      <item value="detected" />
     </histories>
     <option name="languageScores">
       <map>
