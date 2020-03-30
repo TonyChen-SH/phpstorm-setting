@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="仓库" />
       <item value="货币" />
       <item value="汇率" />
       <item value="persistent" />
@@ -22,7 +23,6 @@
       <item value="lazy" />
       <item value="repositity" />
       <item value="资源" />
-      <item value="仓库" />
       <item value="验证" />
       <item value="倍数" />
       <item value="场景" />
