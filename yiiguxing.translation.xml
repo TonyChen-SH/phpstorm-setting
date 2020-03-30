@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="货币" />
+      <item value="汇率" />
       <item value="persistent" />
       <item value="timeOfTrigger" />
       <item value="发生时间" />
@@ -50,7 +51,6 @@
       <item value="signal no" />
       <item value="signal o" />
       <item value="signal" />
-      <item value="acquire" />
     </histories>
     <option name="languageScores">
       <map>
