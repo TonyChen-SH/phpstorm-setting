@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the time to live left for a given key" />
+      <item value="live left" />
       <item value="intersect" />
       <item value="pure" />
       <item value="打包" />
@@ -49,8 +51,6 @@
       <item value="present" />
       <item value="分钟" />
       <item value="分支" />
-      <item value="单例" />
-      <item value="singelon" />
     </histories>
     <option name="languageScores">
       <map>
