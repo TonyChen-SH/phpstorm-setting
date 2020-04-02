@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="汇率" />
       <item value="business" />
       <item value="businness" />
       <item value="商户" />
@@ -14,7 +15,6 @@
       <item value="控制器" />
       <item value="仓库" />
       <item value="货币" />
-      <item value="汇率" />
       <item value="persistent" />
       <item value="timeOfTrigger" />
       <item value="发生时间" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="ENGLISH" value="65" />
       </map>
     </option>
   </component>
