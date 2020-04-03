@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="渠道" />
       <item value="subscribe" />
       <item value="订阅" />
       <item value="qualification" />
@@ -50,12 +51,11 @@
       <item value="重复" />
       <item value="already" />
       <item value="syntax" />
-      <item value="sytanx" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="ENGLISH" value="67" />
       </map>
     </option>
   </component>
