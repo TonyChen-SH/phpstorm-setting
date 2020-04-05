@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deploy" />
+      <item value="发布" />
+      <item value="migrations" />
       <item value="方向" />
       <item value="渠道" />
       <item value="subscribe" />
@@ -48,14 +51,11 @@
       <item value="万能" />
       <item value="calc Expire Time" />
       <item value="计算" />
-      <item value="duplicate" />
-      <item value="重复" />
-      <item value="already" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="68" />
       </map>
     </option>
   </component>
