@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="webp" type="Image" />
       <mapping ext="php2" type="PHP" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="A_TimeWheel算法" type="PLAIN_TEXT" />
