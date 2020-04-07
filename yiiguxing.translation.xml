@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="敏感" />
       <item value="有效的" />
       <item value="invlid" />
       <item value="deploy" />
@@ -50,7 +51,6 @@
       <item value="场景" />
       <item value="freedom" />
       <item value="任意门" />
-      <item value="万能" />
     </histories>
     <option name="languageScores">
       <map>
