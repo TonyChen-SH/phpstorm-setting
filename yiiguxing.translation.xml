@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="有效的" />
+      <item value="invlid" />
       <item value="deploy" />
       <item value="发布" />
       <item value="migrations" />
@@ -49,13 +51,11 @@
       <item value="freedom" />
       <item value="任意门" />
       <item value="万能" />
-      <item value="calc Expire Time" />
-      <item value="计算" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="ENGLISH" value="69" />
       </map>
     </option>
   </component>
