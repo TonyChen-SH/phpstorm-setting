@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="可访问性" />
+      <item value="可访问新" />
       <item value="敏感" />
       <item value="有效的" />
       <item value="invlid" />
@@ -33,7 +35,6 @@
       <item value="发生" />
       <item value="visiblity" />
       <item value="visible" />
-      <item value="可访问性" />
       <item value="time up" />
       <item value="顾客" />
       <item value="客户" />
@@ -50,7 +51,6 @@
       <item value="倍数" />
       <item value="场景" />
       <item value="freedom" />
-      <item value="任意门" />
     </histories>
     <option name="languageScores">
       <map>
