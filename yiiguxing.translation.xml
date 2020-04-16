@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="计算" />
       <item value="动态" />
       <item value="未知异常" />
       <item value="异常" />
@@ -8,7 +9,6 @@
       <item value="待处理" />
       <item value="匹配" />
       <item value="包含" />
-      <item value="计算" />
       <item value="valid" />
       <item value="可访问性" />
       <item value="可访问新" />
