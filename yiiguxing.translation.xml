@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="invalid" />
+      <item value="无效" />
       <item value="指定id" />
       <item value="flow" />
       <item value="满足条件" />
@@ -49,12 +51,10 @@
       <item value="visiblity" />
       <item value="visible" />
       <item value="time up" />
-      <item value="顾客" />
-      <item value="客户" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
+        <entry key="CHINESE" value="71" />
         <entry key="ENGLISH" value="71" />
       </map>
     </option>
