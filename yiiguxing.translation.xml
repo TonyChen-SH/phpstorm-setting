@@ -1,61 +1,61 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="是否有效" />
-      <item value="有效" />
-      <item value="belongs" />
-      <item value="最新的" />
-      <item value="多个" />
-      <item value="重复数" />
-      <item value="匹配" />
-      <item value="clear" />
-      <item value="清空" />
-      <item value="flush" />
-      <item value="active" />
-      <item value="finder" />
-      <item value="findder" />
-      <item value="逻辑或" />
-      <item value="逻辑与" />
-      <item value="关系" />
-      <item value="就" />
-      <item value="简历" />
-      <item value="API TYPE CONTACT" />
-      <item value="Contact " />
-      <item value="雇员" />
+      <item value="协程" />
+      <item value="可用" />
+      <item value="存在" />
+      <item value="invalid" />
+      <item value="无效" />
+      <item value="指定id" />
+      <item value="flow" />
+      <item value="满足条件" />
+      <item value="是否满足条件" />
       <item value="计算" />
-      <item value="employee" />
-      <item value="员工" />
-      <item value="职员" />
-      <item value="employ" />
-      <item value="staff" />
-      <item value="youngest" />
-      <item value="连接符" />
-      <item value="连接符号" />
-      <item value="contact" />
-      <item value="contract" />
-      <item value="通讯录" />
-      <item value="边距" />
-      <item value="自动换行" />
-      <item value="分销" />
-      <item value="verify" />
-      <item value="verification" />
-      <item value="验证" />
+      <item value="动态" />
+      <item value="未知异常" />
+      <item value="异常" />
+      <item value="等待处理" />
+      <item value="待处理" />
+      <item value="匹配" />
+      <item value="包含" />
       <item value="valid" />
-      <item value="校验" />
-      <item value="messages" />
-      <item value="抑制" />
-      <item value="凭证" />
-      <item value="voucher" />
-      <item value="口令" />
-      <item value="异步" />
-      <item value="订单审核" />
-      <item value="审核" />
-      <item value="操作人" />
+      <item value="可访问性" />
+      <item value="可访问新" />
+      <item value="敏感" />
+      <item value="有效的" />
+      <item value="invlid" />
+      <item value="deploy" />
+      <item value="发布" />
+      <item value="migrations" />
+      <item value="方向" />
+      <item value="渠道" />
+      <item value="subscribe" />
+      <item value="订阅" />
+      <item value="qualification" />
+      <item value="限定" />
+      <item value="汇率" />
+      <item value="business" />
+      <item value="businness" />
+      <item value="商户" />
+      <item value="Returns the time to live left for a given key" />
+      <item value="live left" />
+      <item value="intersect" />
+      <item value="pure" />
+      <item value="打包" />
+      <item value="Series" />
+      <item value="Multiplexing" />
+      <item value="控制器" />
+      <item value="仓库" />
+      <item value="货币" />
+      <item value="persistent" />
+      <item value="timeOfTrigger" />
+      <item value="发生时间" />
+      <item value="发生" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="19" />
+        <entry key="CHINESE" value="71" />
+        <entry key="ENGLISH" value="72" />
       </map>
     </option>
   </component>
