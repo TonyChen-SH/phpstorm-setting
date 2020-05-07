@@ -18,7 +18,7 @@
       <interpreter id="6f2ed12b-250c-4995-9aea-2c124225f7c6" name="PHP 7.4" home="/usr/local/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="7ac8cb43-96c8-48ff-8d9a-d3c834819520" name="PHP 7.3_windows" home="C:\phpStudy\PHPTutorial\php\php-7.3.3-nts\php.exe" debugger_id="php.debugger.XDebug" />
       <interpreter id="8acdfd53-5082-4ff9-b7d0-029d64767270" name="soa2-test-PHP 7.1" home="sshConfig://DATA" debugger_id="php.debugger.XDebug">
-        <remote_data INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/chendan/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SSH_CONFIG_NAME="chendan@120.78.9.164:22 (p)" SSH_CREDENTIALS_ID="sshConfig://chendan@120.78.9.164:22 (p)" />
+        <remote_data INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/chendan/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SSH_CONFIG_ID="93ec858c-e130-47c9-b585-254f39487866" SSH_CONFIG_NAME="jooj-test-soa" SSH_CREDENTIALS_ID="sshConfig://jooj-test-soa" />
       </interpreter>
       <interpreter id="4db04fbb-51f1-4576-bf6f-2ff001b721ee" name="PHP 7.4RC2" home="$USER_HOME$/Downloads/php-7.4.0RC2/php/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
@@ -27,12 +27,16 @@
     <phpInfoCache>
       <interpreter name="PHP 7.4">
         <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.4.5_2/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.4.5_2/bin/php" path_separator=":" version="7.4.5">
-          <additional_php_ini>/usr/local/etc/php/7.4/conf.d/ext-opcache.ini</additional_php_ini>
+          <additional_php_ini>/usr/local/etc/php/7.4/conf.d/ext-opcache.ini, /usr/local/etc/php/7.4/conf.d/ext-xdebug.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.4/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.4.5_2/share/php/pear" />
           </configuration_options>
-          <debuggers />
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="2.9.5">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
           <loaded_extensions>
             <extension name="Core" />
             <extension name="FFI" />
@@ -92,6 +96,7 @@
             <extension name="sysvshm" />
             <extension name="tidy" />
             <extension name="tokenizer" />
+            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlrpc" />
@@ -178,9 +183,9 @@
             <extension name="libxml" />
             <extension name="mbstring" />
             <extension name="mcrypt" />
+            <extension name="mongodb" />
             <extension name="mysqli" />
             <extension name="mysqlnd" />
-            <extension name="opencc" />
             <extension name="openssl" />
             <extension name="pcntl" />
             <extension name="pcre" />
@@ -193,6 +198,7 @@
             <extension name="soap" />
             <extension name="sockets" />
             <extension name="sqlite3" />
+            <extension name="ssh2" />
             <extension name="standard" />
             <extension name="sysvsem" />
             <extension name="tokenizer" />

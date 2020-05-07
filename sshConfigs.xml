@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="120.78.9.164" id="27d3b99f-37ce-4dd4-9e68-3d11ec44e0dc" port="22" nameFormat="DESCRIPTIVE" username="chendan" />
+      <sshConfig host="120.78.9.164" id="93ec858c-e130-47c9-b585-254f39487866" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="jooj-test-soa" nameFormat="CUSTOM" username="chendan" />
     </configs>
   </component>
 </application>
