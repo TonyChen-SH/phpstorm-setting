@@ -82,6 +82,7 @@
             <extension name="pgsql" />
             <extension name="phpdbg_webhelper" />
             <extension name="posix" />
+            <extension name="proctitle" />
             <extension name="pspell" />
             <extension name="readline" />
             <extension name="session" />
