@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Identity" />
       <item value="阶梯配置" />
       <item value="策略" />
       <item value="协程" />
@@ -50,11 +51,10 @@
       <item value="仓库" />
       <item value="货币" />
       <item value="persistent" />
-      <item value="timeOfTrigger" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
+        <entry key="CHINESE" value="72" />
         <entry key="ENGLISH" value="72" />
       </map>
     </option>
