@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="订阅" />
       <item value="Identity" />
       <item value="阶梯配置" />
       <item value="策略" />
@@ -33,7 +34,6 @@
       <item value="方向" />
       <item value="渠道" />
       <item value="subscribe" />
-      <item value="订阅" />
       <item value="qualification" />
       <item value="限定" />
       <item value="汇率" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="ENGLISH" value="73" />
       </map>
     </option>
   </component>
