@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="实时" />
       <item value="订阅" />
       <item value="Identity" />
       <item value="阶梯配置" />
@@ -50,7 +51,6 @@
       <item value="控制器" />
       <item value="仓库" />
       <item value="货币" />
-      <item value="persistent" />
     </histories>
     <option name="languageScores">
       <map>
