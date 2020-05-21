@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="interval" />
+      <item value="时间区间" />
       <item value="实时" />
       <item value="订阅" />
       <item value="Identity" />
@@ -49,12 +51,10 @@
       <item value="Series" />
       <item value="Multiplexing" />
       <item value="控制器" />
-      <item value="仓库" />
-      <item value="货币" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
+        <entry key="CHINESE" value="73" />
         <entry key="ENGLISH" value="73" />
       </map>
     </option>
