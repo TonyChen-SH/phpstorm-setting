@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="quant" />
+      <item value="Quantitative" />
+      <item value="量化交易" />
+      <item value="量化" />
+      <item value="sokect" />
       <item value="entry" />
       <item value="entries" />
       <item value="ENTRY" />
@@ -46,16 +51,11 @@
       <item value="限定" />
       <item value="汇率" />
       <item value="business" />
-      <item value="businness" />
-      <item value="商户" />
-      <item value="Returns the time to live left for a given key" />
-      <item value="live left" />
-      <item value="intersect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
-        <entry key="ENGLISH" value="74" />
+        <entry key="CHINESE" value="75" />
+        <entry key="ENGLISH" value="75" />
       </map>
     </option>
   </component>
