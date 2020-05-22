@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="entry" />
+      <item value="entries" />
+      <item value="ENTRY" />
+      <item value="入口" />
+      <item value="模块" />
       <item value="interval" />
       <item value="时间区间" />
       <item value="实时" />
@@ -46,16 +51,11 @@
       <item value="Returns the time to live left for a given key" />
       <item value="live left" />
       <item value="intersect" />
-      <item value="pure" />
-      <item value="打包" />
-      <item value="Series" />
-      <item value="Multiplexing" />
-      <item value="控制器" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="73" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="74" />
+        <entry key="ENGLISH" value="74" />
       </map>
     </option>
   </component>
