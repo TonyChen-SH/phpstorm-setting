@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="webp" type="Image" />
       <mapping ext="php2" type="PHP" />
+      <mapping pattern="Version" type="PLAIN_TEXT" />
       <mapping pattern="A_TimeWheel算法" type="PLAIN_TEXT" />
       <mapping pattern="嵌套条件表达式" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
