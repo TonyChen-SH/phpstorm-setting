@@ -47,6 +47,8 @@
             <extension name="SPL" />
             <extension name="SimpleXML" />
             <extension name="Zend OPcache" />
+            <extension name="Zephir Parser" />
+            <extension name="ast" />
             <extension name="bcmath" />
             <extension name="bz2" />
             <extension name="calendar" />
@@ -80,11 +82,14 @@
             <extension name="pdo_pgsql" />
             <extension name="pdo_sqlite" />
             <extension name="pgsql" />
+            <extension name="phalcon" />
             <extension name="phpdbg_webhelper" />
             <extension name="posix" />
             <extension name="proctitle" />
             <extension name="pspell" />
+            <extension name="psr" />
             <extension name="readline" />
+            <extension name="redis" />
             <extension name="session" />
             <extension name="shmop" />
             <extension name="soap" />
@@ -201,6 +206,7 @@
             <extension name="sqlite3" />
             <extension name="ssh2" />
             <extension name="standard" />
+            <extension name="sysvmsg" />
             <extension name="sysvsem" />
             <extension name="tokenizer" />
             <extension name="xml" />
