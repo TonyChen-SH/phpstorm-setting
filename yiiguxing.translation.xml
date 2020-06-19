@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="存在" />
       <item value="微秒" />
       <item value="微妙" />
       <item value="优化" />
@@ -29,7 +30,6 @@
       <item value="策略" />
       <item value="协程" />
       <item value="可用" />
-      <item value="存在" />
       <item value="invalid" />
       <item value="无效" />
       <item value="指定id" />
