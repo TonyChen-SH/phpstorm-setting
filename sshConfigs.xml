@@ -1,7 +1,12 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="120.78.9.164" id="93ec858c-e130-47c9-b585-254f39487866" port="22" customName="jooj-test-soa" nameFormat="CUSTOM" username="chendan" />
+      <sshConfig authType="PASSWORD" host="120.78.9.164" id="93ec858c-e130-47c9-b585-254f39487866" port="22" customName="jooj-test-soa" nameFormat="CUSTOM" username="chendan">
+        <option name="customName" value="jooj-test-soa" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="140.238.245.210" id="4e5978d6-78e7-4247-8557-bdc2f32149f9" port="22" customName="opc-vpn" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="opc-vpn" />
+      </sshConfig>
     </configs>
   </component>
 </application>
