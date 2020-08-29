@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="特征序列" />
       <item value="载体" />
       <item value="趋势" />
       <item value="计算" />
@@ -50,7 +51,6 @@
       <item value="异常" />
       <item value="等待处理" />
       <item value="待处理" />
-      <item value="匹配" />
     </histories>
     <option name="languageScores">
       <map>
