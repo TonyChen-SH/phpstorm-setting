@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="验证有效性" />
+      <item value="验证有消息" />
       <item value="特征序列" />
       <item value="特征" />
       <item value="Time interval" />
@@ -49,8 +51,6 @@
       <item value="协程" />
       <item value="可用" />
       <item value="invalid" />
-      <item value="无效" />
-      <item value="指定id" />
     </histories>
     <option name="languageScores">
       <map>
