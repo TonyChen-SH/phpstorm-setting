@@ -1,164 +1,10 @@
 <application>
-  <component name="VimSettings">
-    <state version="4" enabled="true" />
-    <globalmarks />
-    <filemarks>
-      <file name="vim_settings.xml" timestamp="1535764751222">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1548478441957">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/work-php/doctrine2/lib/Doctrine/ORM/Query/AST/Node.php" timestamp="1535764844603">
-        <mark key="[" line="82" column="14" />
-        <mark key="]" line="82" column="14" />
-        <mark key="." line="82" column="14" />
-      </file>
-      <file name="$USER_HOME$/Project/TonyChen-SH/php-utils/src/Exception/ApiLogicExceptionSet.php" timestamp="1548479399193">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="21" column="46" />
-        <mark key="^" line="21" column="46" />
-        <mark key="." line="21" column="46" />
-      </file>
-      <file name="C:/work-jooj/xcxapi/Demo.php" timestamp="1534415947456">
-        <mark key="[" line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/TonyChen-SH/php-utils/composer.json" timestamp="1548478999034">
-        <mark key="[" line="9" column="16" />
-      </file>
-      <file name="C:/work-jooj/soa2/composer.json" timestamp="1534495681871">
-        <mark key="[" line="29" column="32" />
-      </file>
-      <file name="filetypes.xml" timestamp="1535764723096">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="material_theme.xml" timestamp="1535894223471">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/TonyChen-SH/php-utils/src/Exception/ApiLogicAlertException.php" timestamp="1548479529708">
-        <mark key="[" line="8" column="0" />
-      </file>
-      <file name="C:/work-jooj/xcxapi/application/common/controller/Base.php" timestamp="1534404557964">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-      </file>
-      <file name="C:/work-jooj/xcxapi/application/common/service/HelperService.php" timestamp="1534406060709">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="C:/work-jooj/soa2/application/index/service/wechatprocess/WechatSubscribeProcessorService.php" timestamp="1534498268732">
-        <mark key="'" line="29" column="43" />
-        <mark key="[" line="44" column="98" />
-        <mark key="]" line="44" column="97" />
-        <mark key="." line="44" column="97" />
-        <mark key="^" line="44" column="97" />
-      </file>
-      <file name="C:/work-jooj/xcxapi/thinkphp/helper.php" timestamp="1534405903124">
-        <mark key="[" line="796" column="8" />
-      </file>
-      <file name="$USER_HOME$/Downloads/文鑫需求资料/mall/Application/Common/Conf/systemConfig.php" timestamp="1537668332401">
-        <mark key="[" line="15" column="73" />
-      </file>
-      <file name="C:/work-jooj/xcxapi/application/cron/controller/Dollmachine.php" timestamp="1534485578704">
-        <mark key="[" line="11" column="0" />
-      </file>
-      <file name="C:/work-jooj/xcxapi/application/api/controller/Shop.php" timestamp="1534406443572">
-        <mark key="[" line="365" column="27" />
-        <mark key="]" line="365" column="27" />
-        <mark key="." line="365" column="27" />
-      </file>
-      <file name="$USER_HOME$/Downloads/文鑫需求资料/mall/index.php" timestamp="1537372126708">
-        <mark key="[" line="35" column="1" />
-      </file>
-      <file name="$USER_HOME$/Downloads/文鑫需求资料/mall/Application/Common/Services/RegionServices.class.php" timestamp="1537372280622">
-        <mark key="[" line="31" column="0" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="18" column="2" filename="/media/psf/Home/Project/cpp-demo/src/Deque.cpp" />
-      <jump line="12" column="19" filename="D:/Cpp/demo/src/Deque.cpp" />
-      <jump line="0" column="0" filename="D:/Cpp/demo/src/Deque.cpp" />
-      <jump line="15" column="24" filename="D:/Cpp/demo/src/Vector.cpp" />
-      <jump line="38" column="43" filename="/media/psf/Home/Project/leveldb/include/leveldb/status.h" />
-      <jump line="12" column="10" filename="D:/Cpp/demo/src/Dynamic/Manager.h" />
-      <jump line="9" column="0" filename="D:/Cpp/demo/src/Dynamic/Manager.h" />
-      <jump line="15" column="4" filename="C:/work-jooj/soa2/application/index/service/wechatprocess/WechatSubscribeProcessorService.php" />
-      <jump line="43" column="0" filename="C:/work-jooj/soa2/application/index/service/wechatprocess/WechatSubscribeProcessorService.php" />
-      <jump line="44" column="98" filename="C:/work-jooj/soa2/application/index/service/wechatprocess/WechatSubscribeProcessorService.php" />
-      <jump line="29" column="43" filename="C:/work-jooj/soa2/application/index/service/wechatprocess/WechatSubscribeProcessorService.php" />
-    </jumps>
-    <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="-" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxzZXRcPg==</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IENIQU5ORUxfSURfSU9TID0gODk7Cg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIF9fY29uc3RydWN0KCkgewogICAgICAgIAogICAgfQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IENIQU5ORUxfSURfSU9TID0gODk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IENIQU5ORUxfSURfQU5EUk9JRCA9IDkxOwo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICRydWxlID0gWwogICAgICAgICAgICAidG9rZW4iID0+ICdyZXF1aXJlJywKICAgICAgICAgICAgIm9yZGVyX3NuIiA9PiAncmVxdWlyZScsCiAgICAgICAgXTsKICAgICAgICAkdmFsaWRhdGUgPSBuZXcgVmFsaWRhdGUoJHJ1bGUpOwogICAgICAgIGlmKCEkdmFsaWRhdGUtPmNoZWNrKCRwYXJhbSkpewogICAgICAgICAgICByZXR1cm4gJHRoaXMtPm91dHB1dChbXSwgJHZhbGlkYXRlLT5nZXRFcnJvcigpKTsKICAgICAgICB9</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBdOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcnVsZSA9IFsKICAgICAgICAgICAgInRva2VuIiA9PiAncmVxdWlyZScsCiAgICAgICAgICAgICJvcmRlcl9zbiIgPT4gJ3JlcXVpcmUnLAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFyYW0gPSAkdGhpcy0+aW5wdXQoKTsK</text>
-      </register>
-      <register name="8" type="4">
-        <text>到底想要什么样的内存分析：
-1. 多一个请求，可以算平均. 分析单个不具有代表性
-2. 可以看gc的状态分析
-3. 分析哪个地方的内存消耗最多
-4. 内存增长监控...是否有内存泄露??</text>
-      </register>
-      <register name="9" type="4">
-        <text>异常捕获和标准错误是不是有冲突? 标准错误这样还有用么？？是不是要取消掉??标准输入是不是也该取消掉？在ProcessConfig里面取消掉。。如果暂时还没有想通怎么用好，那就先取消掉
-  后面用用好的时候，再加入，以免造成使用上的困惑</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
-      </register>
-    </registers>
-    <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history>
-      <history-search>
-        <entry encoding="base64">XDxsaVw+</entry>
-        <entry encoding="base64">XDxzZXRcPg==</entry>
-      </history-search>
-      <history-cmd>
-        <entry>set vs</entry>
-        <entry>set h</entry>
-        <entry>hspit</entry>
-        <entry>vsplit</entry>
-        <entry>splist Map</entry>
-        <entry>split</entry>
-        <entry>w</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
@@ -242,5 +88,12 @@
         <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+  </component>
+  <component name="VimSettings">
+    <state version="7" enabled="true" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>
