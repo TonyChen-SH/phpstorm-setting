@@ -1,9 +1,14 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="contrastMode" value="true" />
+    <option name="allowDataCollection" value="true" />
+    <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="accentColor" value="416a9b" />
-    <option name="selectedTheme" value="NATIVE" />
-    <option name="userId" value="6ee2c4d1:176f4aaabb8:-8000" />
+    <option name="pristineConfig" value="false" />
+    <option name="upperCaseButtons" value="false" />
+    <option name="settingsSelectedTab" value="4" />
+    <option name="accentColor" value="009688" />
+    <option name="userId" value="1a44c79:16d480e5631:-8000" />
     <option name="version" value="5.5.0" />
   </component>
 </application>
