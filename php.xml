@@ -13,7 +13,7 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="dcf85fe7-9894-4395-82d7-b279b47a71e9" name="PHP 7.1.23" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="66b78e13-f006-4227-98a8-9b47ec71ad11" name="PHP 7.1" home="/usr/local/Cellar/php71/7.1.11_22/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="66b78e13-f006-4227-98a8-9b47ec71ad11" name="PHP 7.1" home="\usr\local\Cellar\php71\7.1.11_22\bin\php" debugger_id="php.debugger.XDebug" />
       <interpreter id="55959d60-a92f-4682-a4b3-aaec08a498e1" name="PHP 7.1_windows" home="C:/phpStudy/PHPTutorial/php/php-7.1.13-nts/php.exe" debugger_id="php.debugger.XDebug" />
       <interpreter id="6f2ed12b-250c-4995-9aea-2c124225f7c6" name="PHP 7.4" home="/usr/local/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="7ac8cb43-96c8-48ff-8d9a-d3c834819520" name="PHP 7.3_windows" home="C:\phpStudy\PHPTutorial\php\php-7.3.3-nts\php.exe" debugger_id="php.debugger.XDebug" />
