@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="groupon" />
       <item value="卡券" />
       <item value="卡券&#10;" />
       <item value="验证有效性" />
@@ -53,7 +54,6 @@
       <item value="Identity" />
       <item value="阶梯配置" />
       <item value="策略" />
-      <item value="协程" />
     </histories>
     <option name="languageScores">
       <map>
