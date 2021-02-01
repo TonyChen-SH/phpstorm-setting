@@ -1,0 +1,27 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="87327c6f-0487-446d-b4fb-6a831230c0da" name="opc-dev">
+        <fileTransfer accessType="SFTP" host="140.238.245.210" port="22" sshConfigId="4e5978d6-78e7-4247-8557-bdc2f32149f9" sshConfig="opc-vpn" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="4ad6c875-011f-4646-80bf-0320662dbbdf" name="outside-test-yuyue">
+        <fileTransfer accessType="SFTP" host="47.75.134.87" port="22" sshConfigId="14236ed7-307e-45fe-9635-7952ffeccb19" sshConfig="yuyue" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="85bddfcc-075f-4831-b220-587039123889" name="leo">
+        <fileTransfer accessType="SFTP" host="47.97.187.118" port="22" sshConfigId="38607269-c569-4421-ad27-df342df14ab1" sshConfig="leo" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
