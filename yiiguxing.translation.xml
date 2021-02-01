@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="传递" />
+      <item value="传递&#10;" />
       <item value="分型" />
       <item value="分型&#10;" />
       <item value="fen'xi" />
@@ -52,8 +54,6 @@
       <item value="Quantitative" />
       <item value="量化交易" />
       <item value="量化" />
-      <item value="sokect" />
-      <item value="entry" />
     </histories>
     <option name="languageScores">
       <map>
