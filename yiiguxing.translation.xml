@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="回放地址" />
       <item value="校验数据" />
       <item value="校验shu'j" />
       <item value="校验" />
@@ -53,7 +54,6 @@
       <item value="生成器" />
       <item value="编译" />
       <item value="Detector" />
-      <item value="quant" />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,6 +63,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611891695647" />
+    <option name="lastTrimTime" value="1616582026576" />
   </component>
 </application>
