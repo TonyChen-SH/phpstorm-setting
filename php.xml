@@ -20,9 +20,9 @@
       <interpreter id="8acdfd53-5082-4ff9-b7d0-029d64767270" name="soa2-test-PHP 7.1" home="sshConfig://DATA" debugger_id="php.debugger.XDebug">
         <remote_data INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/chendan/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SSH_CONFIG_ID="93ec858c-e130-47c9-b585-254f39487866" SSH_CONFIG_NAME="jooj-test-soa" SSH_CREDENTIALS_ID="sshConfig://jooj-test-soa" />
       </interpreter>
-      <interpreter id="4db04fbb-51f1-4576-bf6f-2ff001b721ee" name="PHP 7.4RC2" home="$USER_HOME$/Downloads/php-7.4.0RC2/php/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="4db04fbb-51f1-4576-bf6f-2ff001b721ee" name="PHP 7.4RC2" home="C:\Users\admin\Downloads\php-7.4.16-nts-Win32-vc15-x64\php.exe" debugger_id="php.debugger.XDebug" />
       <interpreter id="8c67f623-fb39-4527-b618-5851e3f8ecb7" name="Ubuntu 18.04" home="wsl://DATA" debugger_id="php.debugger.XDebug">
-        <remote_data INTERPRETER_PATH="/usr/local/bin/php" HELPERS_PATH="" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DISTRIBUTION_ID="UBUNTU1804" />
+        <remote_data INTERPRETER_PATH="/usr/local/bin/php" HELPERS_PATH="" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DISTRIBUTION_ID="Ubuntu-18.04" />
       </interpreter>
     </interpreters>
   </component>
@@ -355,17 +355,13 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 7.4RC2">
-        <phpinfo binary_type="PHP" php_cgi="$USER_HOME$/Downloads/php-7.4.0RC2/php/bin/php-cgi" php_cli="$USER_HOME$/Downloads/php-7.4.0RC2/php/bin/php" path_separator=":" version="7.4.0RC2">
+        <phpinfo binary_type="PHP" php_cgi="C:\Users\admin\Downloads\php-7.4.16-nts-Win32-vc15-x64\php-cgi.exe" php_cli="C:\Users\admin\Downloads\php-7.4.16-nts-Win32-vc15-x64\php.exe" path_separator=";" version="7.4.16">
           <additional_php_ini />
-          <configuration_file>$USER_HOME$/Downloads/php-7.4.0RC2/php/lib/php.ini</configuration_file>
+          <configuration_file />
           <configuration_options>
-            <configuration_option name="include_path" value=".:" />
+            <configuration_option name="include_path" value=".;C:\php\pear" />
           </configuration_options>
-          <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.8.0beta2">
-              <debug_extensions />
-            </debugger_info>
-          </debuggers>
+          <debuggers />
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
@@ -373,26 +369,27 @@
             <extension name="Reflection" />
             <extension name="SPL" />
             <extension name="SimpleXML" />
+            <extension name="bcmath" />
+            <extension name="calendar" />
             <extension name="ctype" />
             <extension name="date" />
             <extension name="dom" />
-            <extension name="fileinfo" />
             <extension name="filter" />
             <extension name="hash" />
             <extension name="iconv" />
             <extension name="json" />
             <extension name="libxml" />
+            <extension name="mysqlnd" />
             <extension name="pcre" />
-            <extension name="pdo_sqlite" />
-            <extension name="posix" />
+            <extension name="readline" />
             <extension name="session" />
-            <extension name="sqlite3" />
             <extension name="standard" />
             <extension name="tokenizer" />
-            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlwriter" />
+            <extension name="zip" />
+            <extension name="zlib" />
           </loaded_extensions>
         </phpinfo>
       </interpreter>
