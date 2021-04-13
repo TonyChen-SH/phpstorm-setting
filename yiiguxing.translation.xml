@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogWidth" value="588" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="属性 " />
+      <item value="property " />
       <item value="计算&#10;" />
       <item value="回放地址" />
       <item value="校验数据" />
@@ -52,8 +54,6 @@
       <item value="idle" />
       <item value="过滤" />
       <item value="侦测" />
-      <item value="生成器" />
-      <item value="编译" />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,6 +63,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616582026576" />
+    <option name="lastTrimTime" value="1618282716833" />
   </component>
 </application>
