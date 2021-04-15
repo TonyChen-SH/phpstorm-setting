@@ -19,7 +19,7 @@
       <interpreter id="8acdfd53-5082-4ff9-b7d0-029d64767270" name="soa2-test-PHP 7.1" home="sshConfig://DATA" debugger_id="php.debugger.XDebug">
         <remote_data INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/chendan/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SSH_CONFIG_ID="93ec858c-e130-47c9-b585-254f39487866" SSH_CONFIG_NAME="jooj-test-soa" SSH_CREDENTIALS_ID="sshConfig://jooj-test-soa" />
       </interpreter>
-      <interpreter id="4db04fbb-51f1-4576-bf6f-2ff001b721ee" name="PHP 7.4" home="C:\Users\admin\Downloads\php-7.4.16-nts-Win32-vc15-x64\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="4db04fbb-51f1-4576-bf6f-2ff001b721ee" name="PHP 7.4" home="C:\Users\admin\Downloads\php-7.4.16-nts-Win32-vc15-x64\php.exe" debugger_id="php.debugger.XDebug" debugger_extension="C:\Users\admin\Downloads\php-7.4.16-nts-Win32-vc15-x64\ext\php_xdebug.dll" />
       <interpreter id="8c67f623-fb39-4527-b618-5851e3f8ecb7" name="Ubuntu 18.04" home="wsl://DATA" debugger_id="php.debugger.XDebug">
         <remote_data INTERPRETER_PATH="/usr/local/bin/php" HELPERS_PATH="" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DISTRIBUTION_ID="Ubuntu-18.04" />
       </interpreter>
