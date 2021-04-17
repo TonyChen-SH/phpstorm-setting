@@ -10,7 +10,7 @@
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="47.97.187.118" id="38607269-c569-4421-ad27-df342df14ab1" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="leo" nameFormat="CUSTOM" username="root">
         <option name="customName" value="leo" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="47.75.134.87" id="14236ed7-307e-45fe-9635-7952ffeccb19" port="22" customName="yuyue" nameFormat="CUSTOM" username="root">
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="47.75.134.87" id="14236ed7-307e-45fe-9635-7952ffeccb19" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="yuyue" nameFormat="CUSTOM" username="root">
         <option name="customName" value="yuyue" />
       </sshConfig>
     </configs>
