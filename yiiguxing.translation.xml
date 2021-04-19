@@ -1,9 +1,16 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogWidth" value="582" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="交易系统" />
+      <item value="交易" />
+      <item value="宙斯" />
+      <item value="zhou'si" />
+      <item value="zhou" />
+      <item value="Zeus&#10;" />
+      <item value="宙斯&#10;" />
       <item value="属性 " />
       <item value="property " />
       <item value="计算&#10;" />
@@ -47,13 +54,6 @@
       <item value="QUERY POSITION" />
       <item value="$EVENT ENGINE" />
       <item value="HB:WS:Get History K Line" />
-      <item value="存在" />
-      <item value="微秒" />
-      <item value="微妙" />
-      <item value="优化" />
-      <item value="idle" />
-      <item value="过滤" />
-      <item value="侦测" />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,6 +63,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618282716833" />
+    <option name="lastTrimTime" value="1618815603952" />
   </component>
 </application>
