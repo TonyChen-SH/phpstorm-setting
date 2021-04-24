@@ -1,0 +1,28 @@
+<application>
+  <component name="libraryTable">
+    <library name="aliplayer" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_g.alicdn.com_de_prismplayer_2.9.3_aliplayer-min.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_g.alicdn.com_de_prismplayer_2.9.3_skins_default_aliplayer-min.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_g.alicdn.com_de_prismplayer_2.9.3_aliplayer-min.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_g.alicdn.com_de_prismplayer_2.9.3_skins_default_aliplayer-min.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="dingtalk.open" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_g.alicdn.com_dingding_dingtalk-jsapi_2.10.3_dingtalk.open.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_g.alicdn.com_dingding_dingtalk-jsapi_2.10.3_dingtalk.open.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>

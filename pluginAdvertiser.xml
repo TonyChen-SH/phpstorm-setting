@@ -132,11 +132,6 @@
                       <FeaturePluginData displayName="tSQLt Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="TailRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Tail" pluginName="Grep Console" pluginId="GrepConsole" />
-                    </value>
-                  </entry>
                   <entry key="UtPlSqlConfigurationType">
                     <value>
                       <FeaturePluginData displayName="utPLSQL Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />

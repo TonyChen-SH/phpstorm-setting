@@ -15,28 +15,27 @@
       <interpreter id="dcf85fe7-9894-4395-82d7-b279b47a71e9" name="PHP 7.1.23" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="66b78e13-f006-4227-98a8-9b47ec71ad11" name="PHP 7.1" home="\usr\local\Cellar\php71\7.1.11_22\bin\php" debugger_id="php.debugger.XDebug" />
       <interpreter id="55959d60-a92f-4682-a4b3-aaec08a498e1" name="PHP 7.1_windows" home="C:/phpStudy/PHPTutorial/php/php-7.1.13-nts/php.exe" debugger_id="php.debugger.XDebug" />
-      <interpreter id="6f2ed12b-250c-4995-9aea-2c124225f7c6" name="PHP 7.4" home="/usr/local/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="7ac8cb43-96c8-48ff-8d9a-d3c834819520" name="PHP 7.3_windows" home="C:\phpStudy\PHPTutorial\php\php-7.3.3-nts\php.exe" debugger_id="php.debugger.XDebug" />
       <interpreter id="8acdfd53-5082-4ff9-b7d0-029d64767270" name="soa2-test-PHP 7.1" home="sshConfig://DATA" debugger_id="php.debugger.XDebug">
         <remote_data INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/chendan/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SSH_CONFIG_ID="93ec858c-e130-47c9-b585-254f39487866" SSH_CONFIG_NAME="jooj-test-soa" SSH_CREDENTIALS_ID="sshConfig://jooj-test-soa" />
       </interpreter>
-      <interpreter id="4db04fbb-51f1-4576-bf6f-2ff001b721ee" name="PHP 7.4RC2" home="$USER_HOME$/Downloads/php-7.4.0RC2/php/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="4db04fbb-51f1-4576-bf6f-2ff001b721ee" name="PHP 7.4" home="C:\Users\admin\Downloads\php-7.4.16-nts-Win32-vc15-x64\php.exe" debugger_id="php.debugger.XDebug" debugger_extension="C:\Users\admin\Downloads\php-7.4.16-nts-Win32-vc15-x64\ext\php_xdebug.dll" />
       <interpreter id="8c67f623-fb39-4527-b618-5851e3f8ecb7" name="Ubuntu 18.04" home="wsl://DATA" debugger_id="php.debugger.XDebug">
-        <remote_data INTERPRETER_PATH="/usr/local/bin/php" HELPERS_PATH="" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DISTRIBUTION_ID="UBUNTU1804" />
+        <remote_data INTERPRETER_PATH="/usr/local/bin/php" HELPERS_PATH="" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DISTRIBUTION_ID="Ubuntu-18.04" />
       </interpreter>
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.4">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.4.5_2/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.4.5_2/bin/php" path_separator=":" version="7.4.5">
-          <additional_php_ini>/usr/local/etc/php/7.4/conf.d/ext-opcache.ini, /usr/local/etc/php/7.4/conf.d/ext-xdebug.ini</additional_php_ini>
-          <configuration_file>/usr/local/etc/php/7.4/php.ini</configuration_file>
+        <phpinfo binary_type="PHP" php_cgi="C:\Users\admin\Downloads\php-7.4.16-nts-Win32-vc15-x64\php-cgi.exe" php_cli="C:\Users\admin\Downloads\php-7.4.16-nts-Win32-vc15-x64\php.exe" path_separator=";" version="7.4.16">
+          <additional_php_ini />
+          <configuration_file>C:\Users\admin\Downloads\php-7.4.16-nts-Win32-vc15-x64\php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.4.5_2/share/php/pear" />
+            <configuration_option name="include_path" value=".;C:\php\pear" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.9.5">
+            <debugger_info debugger="xdebug" debugger_version="3.0.4">
               <debug_extensions />
             </debugger_info>
           </debuggers>
@@ -44,73 +43,38 @@
             <extension name="Core" />
             <extension name="FFI" />
             <extension name="PDO" />
-            <extension name="PDO_ODBC" />
             <extension name="Phar" />
             <extension name="Reflection" />
             <extension name="SPL" />
             <extension name="SimpleXML" />
-            <extension name="Zend OPcache" />
-            <extension name="Zephir Parser" />
-            <extension name="ast" />
             <extension name="bcmath" />
             <extension name="bz2" />
             <extension name="calendar" />
             <extension name="ctype" />
             <extension name="curl" />
             <extension name="date" />
-            <extension name="dba" />
             <extension name="dom" />
-            <extension name="exif" />
             <extension name="fileinfo" />
             <extension name="filter" />
             <extension name="ftp" />
             <extension name="gd" />
             <extension name="gettext" />
-            <extension name="gmp" />
             <extension name="hash" />
             <extension name="iconv" />
-            <extension name="intl" />
             <extension name="json" />
-            <extension name="ldap" />
             <extension name="libxml" />
-            <extension name="mbstring" />
-            <extension name="mysqli" />
             <extension name="mysqlnd" />
-            <extension name="odbc" />
-            <extension name="openssl" />
-            <extension name="pcntl" />
             <extension name="pcre" />
-            <extension name="pdo_dblib" />
             <extension name="pdo_mysql" />
-            <extension name="pdo_pgsql" />
-            <extension name="pdo_sqlite" />
-            <extension name="pgsql" />
-            <extension name="phalcon" />
-            <extension name="phpdbg_webhelper" />
-            <extension name="posix" />
-            <extension name="proctitle" />
-            <extension name="pspell" />
-            <extension name="psr" />
             <extension name="readline" />
             <extension name="redis" />
             <extension name="session" />
-            <extension name="shmop" />
-            <extension name="soap" />
-            <extension name="sockets" />
-            <extension name="sodium" />
-            <extension name="sqlite3" />
             <extension name="standard" />
-            <extension name="sysvmsg" />
-            <extension name="sysvsem" />
-            <extension name="sysvshm" />
-            <extension name="tidy" />
             <extension name="tokenizer" />
             <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
-            <extension name="xmlrpc" />
             <extension name="xmlwriter" />
-            <extension name="xsl" />
             <extension name="zip" />
             <extension name="zlib" />
           </loaded_extensions>
@@ -351,48 +315,6 @@
             <extension name="xsl" />
             <extension name="zip" />
             <extension name="zlib" />
-          </loaded_extensions>
-        </phpinfo>
-      </interpreter>
-      <interpreter name="PHP 7.4RC2">
-        <phpinfo binary_type="PHP" php_cgi="$USER_HOME$/Downloads/php-7.4.0RC2/php/bin/php-cgi" php_cli="$USER_HOME$/Downloads/php-7.4.0RC2/php/bin/php" path_separator=":" version="7.4.0RC2">
-          <additional_php_ini />
-          <configuration_file>$USER_HOME$/Downloads/php-7.4.0RC2/php/lib/php.ini</configuration_file>
-          <configuration_options>
-            <configuration_option name="include_path" value=".:" />
-          </configuration_options>
-          <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.8.0beta2">
-              <debug_extensions />
-            </debugger_info>
-          </debuggers>
-          <loaded_extensions>
-            <extension name="Core" />
-            <extension name="PDO" />
-            <extension name="Phar" />
-            <extension name="Reflection" />
-            <extension name="SPL" />
-            <extension name="SimpleXML" />
-            <extension name="ctype" />
-            <extension name="date" />
-            <extension name="dom" />
-            <extension name="fileinfo" />
-            <extension name="filter" />
-            <extension name="hash" />
-            <extension name="iconv" />
-            <extension name="json" />
-            <extension name="libxml" />
-            <extension name="pcre" />
-            <extension name="pdo_sqlite" />
-            <extension name="posix" />
-            <extension name="session" />
-            <extension name="sqlite3" />
-            <extension name="standard" />
-            <extension name="tokenizer" />
-            <extension name="xdebug" />
-            <extension name="xml" />
-            <extension name="xmlreader" />
-            <extension name="xmlwriter" />
           </loaded_extensions>
         </phpinfo>
       </interpreter>
