@@ -9,7 +9,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="4ad6c875-011f-4646-80bf-0320662dbbdf" name="outside-test-yuyue">
-        <fileTransfer accessType="SFTP" host="47.75.134.87" port="22" sshConfigId="14236ed7-307e-45fe-9635-7952ffeccb19" sshConfig="yuyue" keyPair="true">
+        <fileTransfer accessType="SFTP" host="47.75.134.87" port="22" sshConfigId="14236ed7-307e-45fe-9635-7952ffeccb19" sshConfig="yuyue">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -23,7 +23,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="2cc5e0bf-a54a-4b1e-8c2c-db5ade97a1e5" name="outside-test-yuyue-admin">
-        <fileTransfer accessType="SFTP" host="47.75.134.87" port="22" sshConfigId="14236ed7-307e-45fe-9635-7952ffeccb19" sshConfig="yuyue" keyPair="true">
+        <fileTransfer accessType="SFTP" host="47.75.134.87" port="22" sshConfigId="14236ed7-307e-45fe-9635-7952ffeccb19" sshConfig="yuyue">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
