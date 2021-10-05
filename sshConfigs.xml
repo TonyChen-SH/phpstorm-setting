@@ -1,0 +1,18 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="120.78.9.164" id="93ec858c-e130-47c9-b585-254f39487866" port="22" customName="jooj-test-soa" nameFormat="CUSTOM" username="chendan">
+        <option name="customName" value="jooj-test-soa" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="140.238.245.210" id="4e5978d6-78e7-4247-8557-bdc2f32149f9" port="22" customName="opc-vpn" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="opc-vpn" />
+      </sshConfig>
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="47.97.187.118" id="38607269-c569-4421-ad27-df342df14ab1" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="leo" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="leo" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="47.75.134.87" id="14236ed7-307e-45fe-9635-7952ffeccb19" port="22" customName="yuyue" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="yuyue" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>
