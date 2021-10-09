@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="servers" type="AUTO_DETECTED" />
       <mapping ext="webp" type="Image" />
       <mapping ext="php2" type="PHP" />
       <mapping pattern="demo" type="PLAIN_TEXT" />
