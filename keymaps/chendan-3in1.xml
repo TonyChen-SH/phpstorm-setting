@@ -46,6 +46,7 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
+  <action id="ForceOthersToFollowAction" />
   <action id="ForceRunToCursor">
     <keyboard-shortcut first-keystroke="alt f9" />
   </action>
