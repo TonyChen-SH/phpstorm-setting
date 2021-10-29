@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Hold-call" />
+      <item value="Hold-call&#10;" />
       <item value="Suspected Fraud" />
       <item value="snail" />
       <item value="sna" />
@@ -52,13 +54,11 @@
       <item value="卡券" />
       <item value="卡券&#10;" />
       <item value="验证有效性" />
-      <item value="验证有消息" />
-      <item value="特征序列" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="104" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="103" />
       </map>
     </option>
   </component>
