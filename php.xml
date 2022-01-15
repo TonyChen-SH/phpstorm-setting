@@ -347,12 +347,16 @@
       </interpreter>
       <interpreter name="PHP5.6">
         <phpinfo binary_type="PHP" php_cgi="/opt/homebrew/Cellar/php@5.6/5.6.40_4/bin/php-cgi" php_cli="/opt/homebrew/Cellar/php@5.6/5.6.40_4/bin/php" path_separator=":" version="5.6.40">
-          <additional_php_ini />
+          <additional_php_ini>/opt/homebrew/etc/php/5.6/conf.d/ext-opcache.ini</additional_php_ini>
           <configuration_file>/opt/homebrew/etc/php/5.6/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".:/opt/homebrew/Cellar/php@5.6/5.6.40_4/share/php@5.6/pear" />
           </configuration_options>
-          <debuggers />
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="2.5.5">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
@@ -361,6 +365,7 @@
             <extension name="Reflection" />
             <extension name="SPL" />
             <extension name="SimpleXML" />
+            <extension name="Zend OPcache" />
             <extension name="bcmath" />
             <extension name="bz2" />
             <extension name="calendar" />
@@ -413,6 +418,7 @@
             <extension name="tidy" />
             <extension name="tokenizer" />
             <extension name="wddx" />
+            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlrpc" />
