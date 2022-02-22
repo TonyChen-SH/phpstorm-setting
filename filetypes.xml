@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="servers" type="AUTO_DETECTED" />
+      <mapping pattern="防止CDN后的源站IP泄漏的几种方法" type="AUTO_DETECTED" />
       <mapping ext="webp" type="Image" />
       <mapping ext="php2" type="PHP" />
       <mapping pattern="demo" type="PLAIN_TEXT" />
