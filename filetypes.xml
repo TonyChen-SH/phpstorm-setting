@@ -10,6 +10,7 @@
       <mapping pattern="A_TimeWheel算法" type="PLAIN_TEXT" />
       <mapping pattern="嵌套条件表达式" type="PLAIN_TEXT" />
       <mapping pattern="A_Redlock" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="zephir" type="PLAIN_TEXT" />
       <mapping ext="ap" type="PLAIN_TEXT" />
