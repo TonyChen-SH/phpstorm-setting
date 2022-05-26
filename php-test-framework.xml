@@ -1,15 +1,4 @@
 <application>
-  <component name="PhpTestFrameworkSettings">
-    <test_tools>
-      <tool tool_name="Codeception">
-        <settings>
-          <configurations>
-            <configuration_by_sdk interpreter_id="8acdfd53-5082-4ff9-b7d0-029d64767270" executable_path="/mnt/www/soa2/dev-tools/codecept.phar" />
-          </configurations>
-        </settings>
-      </tool>
-    </test_tools>
-  </component>
   <component name="PhpTestFrameworkVersionCache">
     <tools_cache>
       <tool tool_name="Codeception">
